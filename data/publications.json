@@ -1,0 +1,2449 @@
+{
+  "retrieved_on": "2026-10-27",
+  "since": 2017,
+  "openalex_counts_by_member": {
+    "Manuel Roveri": 100,
+    "Gabriele Viscardi": 4,
+    "Fabrizio Pittorino": 33,
+    "Alessandro Falcetta": 20,
+    "Hazem Hesham Yousef Shalby": 17,
+    "Massimo Pavan": 12,
+    "Lorenzo Epifani": 9,
+    "Matteo Gambella": 10,
+    "Francesco Puoti": 5,
+    "Aurora Anna Francesca Colombo": 4,
+    "Luca Colombo": 8
+  },
+  "scholar_status": "live",
+  "scholar_comparison": {
+    "profile": "j2NbakMAAAAJ",
+    "records_in_range": 123,
+    "titles_missing_from_openalex": [
+      "Ceed: Collaborative early exit neural network inference at the edge",
+      "SEAL: Searching Expandable Architectures for Incremental Learning",
+      "Low-cost portable sensor toolbox for methane emissions quantification in landfills",
+      "Preliminary evaluation of a portable electronic nose for landfill odours classification and quantification",
+      "COMPUTER IMPLEMENTED METHOD FOR OBTAINING AN OUTPUT RESPONSE TO A NATURAL LANGUAGE INPUT PROMPT",
+      "The ESCAPE Project: Sensor Selection for the Development of a Portable System for Landfill Surface Emission Monitoring",
+      "Innovative approach to monitor GHG emissions from landfills and brownfield sites by combining ground measurements and satellite observations",
+      "Modellazione integrata per la gestione urbana delle risorse idriche durante periodi di siccità",
+      "Integrated modelling for water resource management during droughts",
+      "Reknon: tecnologie abilitanti per il monitoraggio degli elementi di contesto (operatore-macchina-ambiente) per la prevenzione di incidenti sul lavoro",
+      "Publication Beyond Words",
+      "Pgt: a prompt based generative transformer for the patent domain",
+      "T4C: A Framework for Time-Series Clustering-as-a-Service",
+      "On-device subject recognition in UWB-radar data with Tiny Machine Learning",
+      "AI, Machine Learning e Data Mining",
+      "RECKONition: a NLP-based system for industrial accidents at work prevention",
+      "Distributed deep convolutional neural networks for the internet-of-things",
+      "Learning in non-stationary environments: from a specific application to more general algorithms",
+      "Reckon: a real-world, context-aware knowledge-based lab",
+      "Method and system for object detection and classification",
+      "Capacity Planning of Fog Computing",
+      "METHOD AND SYSTEM FOR OBJECT DETECTION AND CLASSIFICATION",
+      "An ensemble approach for cognitive fault detection and isolation in sensor networks",
+      "Dispositivo e procedimento di rilevazione"
+    ]
+  },
+  "publications": [
+    {
+      "title": "A Leakage-Controlled Evaluation Protocol and Benchmark for Multi-Source Stock Prediction",
+      "year": 2026,
+      "authors": "Mouadh Ltifi, Francesco Puoti, Fabrizio Pittorino",
+      "venue": "Zenodo (CERN European Organization for Nuclear Research)",
+      "url": "https://doi.org/10.5281/zenodo.21431362",
+      "doi": "https://doi.org/10.5281/zenodo.21431362",
+      "preprint": false,
+      "sources": [
+        "https://openalex.org/W7169649834"
+      ],
+      "members": [
+        "Fabrizio Pittorino",
+        "Francesco Puoti"
+      ]
+    },
+    {
+      "title": "Active In-Context Learning for Tabular Foundation Models",
+      "year": 2026,
+      "authors": "Wilailuck Treerath, Fabrizio Pittorino",
+      "venue": "International Joint Conference on Neural Networks (IJCNN)",
+      "url": "https://doi.org/10.1109/ijcnn69854.2026.11729309",
+      "doi": "https://doi.org/10.1109/ijcnn69854.2026.11729309",
+      "preprint": false,
+      "sources": [
+        "https://openalex.org/W7147280370"
+      ],
+      "members": [
+        "Fabrizio Pittorino"
+      ]
+    },
+    {
+      "title": "An Algorithm for On-Sensor Agnostic Detection of Changes in Human Activity for Ultra-Low-Power Applications",
+      "year": 2026,
+      "authors": "Sara Rimoldi, Arianna De Vecchi, Hazem Hesham Yousef Shalby, Federica Villa",
+      "venue": "International Conference on Automatic Face and Gesture Recognition",
+      "url": "https://doi.org/10.1109/fg67764.2026.11556958",
+      "doi": "https://doi.org/10.1109/fg67764.2026.11556958",
+      "preprint": false,
+      "sources": [
+        "https://openalex.org/W7160248874",
+        "https://openalex.org/W7160457262",
+        "https://openalex.org/W7165011576"
+      ],
+      "members": [
+        "Hazem Hesham Yousef Shalby"
+      ]
+    },
+    {
+      "title": "Bep: A binary error propagation algorithm for binary neural networks training",
+      "year": 2026,
+      "authors": "L Colombo, F Pittorino, D Zambon, C Baldassi, M Roveri, C Alippi",
+      "venue": "International Conference on Learning Representations 2026, 25044-25061 , 2026",
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=j2NbakMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=j2NbakMAAAAJ:GtLg2Ama23sC",
+      "doi": null,
+      "preprint": false,
+      "sources": [
+        "https://openalex.org/W4417086618",
+        "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=j2NbakMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=j2NbakMAAAAJ:GtLg2Ama23sC"
+      ],
+      "members": [
+        "Fabrizio Pittorino",
+        "Luca Colombo",
+        "Manuel Roveri"
+      ]
+    },
+    {
+      "title": "CARSS: Leveraging Online Arrival Forecasting and Co-Simulation for Adaptive Scheduling",
+      "year": 2026,
+      "authors": "Yichong Chen, Manuel Roveri, Shreshth Tuli, Giuliano Casale",
+      "venue": "IEEE Transactions on Parallel and Distributed Systems",
+      "url": "https://doi.org/10.1109/tpds.2026.3724377",
+      "doi": "https://doi.org/10.1109/tpds.2026.3724377",
+      "preprint": false,
+      "sources": [
+        "https://openalex.org/W7203459594",
+        "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=j2NbakMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=j2NbakMAAAAJ:mlAyqtXpCwEC"
+      ],
+      "members": [
+        "Manuel Roveri"
+      ]
+    },
+    {
+      "title": "Cerberus: Advancing Continuous On-Device Learning with Multi-Head Object Detection",
+      "year": 2026,
+      "authors": "Hazem Hesham Yousef Shalby, Julian Moosmann, Diana Trojaniello, Michele Magno, Manuel Roveri",
+      "venue": "IEEE Sensors Journal",
+      "url": "https://doi.org/10.1109/jsen.2026.3684125",
+      "doi": "https://doi.org/10.1109/jsen.2026.3684125",
+      "preprint": false,
+      "sources": [
+        "https://openalex.org/W7155035459",
+        "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=j2NbakMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=j2NbakMAAAAJ:4hFrxpcac9AC"
+      ],
+      "members": [
+        "Hazem Hesham Yousef Shalby",
+        "Manuel Roveri"
+      ]
+    },
+    {
+      "title": "Development of a Low-Cost Portable Sensors Toolbox for Methane Emissions Quantification in Landfills",
+      "year": 2026,
+      "authors": "Lorenzo Bertin, Matteo Mentasti, Fabrizio Pittorino, Emanuele Zanni, Gabriele Viscardi, Yuri Ponzani, Andrea Massara, Manuel Roveri, Raffaele Dellàcà, Laura Capelli",
+      "venue": "Chemical engineering transactions",
+      "url": "https://www.cetjournal.it/index.php/cet/article/view/CET26127018",
+      "doi": null,
+      "preprint": false,
+      "sources": [
+        "https://openalex.org/W7213482481",
+        "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=j2NbakMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=j2NbakMAAAAJ:OTTXONDVkokC"
+      ],
+      "members": [
+        "Fabrizio Pittorino",
+        "Gabriele Viscardi",
+        "Manuel Roveri"
+      ]
+    },
+    {
+      "title": "DQT: Dynamic Quantization Training via Dequantization-Free Nested Integer Arithmetic",
+      "year": 2026,
+      "authors": "Hazem Hesham Yousef Shalby, Fabrizio Pittorino, Francesca Palermo, Diana Trojaniello, Manuel Roveri",
+      "venue": "Proceedings of the AAAI Conference on Artificial Intelligence",
+      "url": "https://doi.org/10.1609/aaai.v40i30.39717",
+      "doi": "https://doi.org/10.1609/aaai.v40i30.39717",
+      "preprint": false,
+      "sources": [
+        "https://openalex.org/W7138217090",
+        "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=j2NbakMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=j2NbakMAAAAJ:86PQX7AUzd4C",
+        "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=j2NbakMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=j2NbakMAAAAJ:PVjk1bu6vJQC"
+      ],
+      "members": [
+        "Fabrizio Pittorino",
+        "Hazem Hesham Yousef Shalby",
+        "Manuel Roveri"
+      ]
+    },
+    {
+      "title": "EmbBERT: Attention under 2 MB memory",
+      "year": 2026,
+      "authors": "Riccardo Bravin, Massimo Pavan, Hazem Hesham Yousef Shalby, Fabrizio Pittorino, Manuel Roveri",
+      "venue": "Neural Networks",
+      "url": "https://doi.org/10.1016/j.neunet.2026.108800",
+      "doi": "https://doi.org/10.1016/j.neunet.2026.108800",
+      "preprint": false,
+      "sources": [
+        "https://openalex.org/W4407679557",
+        "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=j2NbakMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=j2NbakMAAAAJ:HtEfBTGE9r8C"
+      ],
+      "members": [
+        "Fabrizio Pittorino",
+        "Hazem Hesham Yousef Shalby",
+        "Manuel Roveri",
+        "Massimo Pavan"
+      ]
+    },
+    {
+      "title": "From Zeros to Insight: Univariate Forecasting with Distributional Fidelity in Zero-Inflated Time Series",
+      "year": 2026,
+      "authors": "Lorenzo Epifani",
+      "venue": "International Joint Conference on Neural Networks (IJCNN)",
+      "url": "https://doi.org/10.1109/ijcnn69854.2026.11729137",
+      "doi": "https://doi.org/10.1109/ijcnn69854.2026.11729137",
+      "preprint": false,
+      "sources": [
+        "https://openalex.org/W7222986033"
+      ],
+      "members": [
+        "Lorenzo Epifani"
+      ]
+    },
+    {
+      "title": "Generative AI in Data Management: Enhancing Data Quality Control for Business Data",
+      "year": 2026,
+      "authors": "Mariasimona Miglietta, Lorenzo Epifani, Marco Di Salvo, Angelo Corallo, Massimiliano Gervasi",
+      "venue": "Lecture notes in networks and systems",
+      "url": "https://doi.org/10.1007/978-3-032-23684-5_41",
+      "doi": "https://doi.org/10.1007/978-3-032-23684-5_41",
+      "preprint": false,
+      "sources": [
+        "https://openalex.org/W7172517322"
+      ],
+      "members": [
+        "Lorenzo Epifani"
+      ]
+    },
+    {
+      "title": "Generative Diffusion of Time Series as Spectro-Temporal Videos",
+      "year": 2026,
+      "authors": "Francesco Puoti, Fabrizio Pittorino, Manuel Roveri",
+      "venue": "SSRN Electronic Journal",
+      "url": "https://doi.org/10.2139/ssrn.7009888",
+      "doi": "https://doi.org/10.2139/ssrn.7009888",
+      "preprint": true,
+      "sources": [
+        "https://openalex.org/W7166310642"
+      ],
+      "members": [
+        "Manuel Roveri",
+        "Fabrizio Pittorino",
+        "Francesco Puoti"
+      ]
+    },
+    {
+      "title": "Harnessing Large Language Models for Data Mesh Adoption in Multi-organizational Data Ecosystems",
+      "year": 2026,
+      "authors": "Lucaleonardo Bove, Lorenzo Epifani, Angelo Corallo, Massimiliano Gervasi",
+      "venue": "Lecture notes in networks and systems",
+      "url": "https://doi.org/10.1007/978-3-032-23684-5_44",
+      "doi": "https://doi.org/10.1007/978-3-032-23684-5_44",
+      "preprint": false,
+      "sources": [
+        "https://openalex.org/W7172513161"
+      ],
+      "members": [
+        "Lorenzo Epifani"
+      ]
+    },
+    {
+      "title": "HERCULES: Hardware-Efficient, Robust, Continual Learning Neural Architecture Search",
+      "year": 2026,
+      "authors": "Matteo Gambella, Fabrizio Pittorino, Manuel Roveri",
+      "venue": "arXiv (Cornell University)",
+      "url": "https://doi.org/10.48550/arxiv.2605.04103",
+      "doi": "https://doi.org/10.48550/arxiv.2605.04103",
+      "preprint": true,
+      "sources": [
+        "https://openalex.org/W7160550676",
+        "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=j2NbakMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=j2NbakMAAAAJ:XvxMoLDsR5gC"
+      ],
+      "members": [
+        "Fabrizio Pittorino",
+        "Manuel Roveri",
+        "Matteo Gambella"
+      ]
+    },
+    {
+      "title": "Homomorphic Encryption: The Missing Piece in Federated Learning",
+      "year": 2026,
+      "authors": "Aurora Anna Francesca Colombo, Alessandro Falcetta, Manuel Roveri",
+      "venue": "IEEE Transactions on Artificial Intelligence",
+      "url": "https://doi.org/10.1109/tai.2026.3744584",
+      "doi": "https://doi.org/10.1109/tai.2026.3744584",
+      "preprint": false,
+      "sources": [
+        "https://openalex.org/W4414922792",
+        "https://openalex.org/W7222707756",
+        "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=j2NbakMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=j2NbakMAAAAJ:kh2fBNsKQNwC"
+      ],
+      "members": [
+        "Alessandro Falcetta",
+        "Aurora Anna Francesca Colombo",
+        "Manuel Roveri"
+      ]
+    },
+    {
+      "title": "InfoQ: Mixed-Precision Quantization via Global Information Flow",
+      "year": 2026,
+      "authors": "Association for Artificial Intelligence 2026, Mehmet Emre Akbulut, Fabrizio Pittorino, Manuel Roveri, Hazem Hesham Yousef Shalby",
+      "venue": "Underline Science Inc.",
+      "url": "https://doi.org/10.48448/6r6x-v496",
+      "doi": "https://doi.org/10.48448/6r6x-v496",
+      "preprint": false,
+      "sources": [
+        "https://openalex.org/W7128693647",
+        "https://openalex.org/W7137934477",
+        "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=j2NbakMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=j2NbakMAAAAJ:5qfkUJPXOUwC"
+      ],
+      "members": [
+        "Fabrizio Pittorino",
+        "Hazem Hesham Yousef Shalby",
+        "Manuel Roveri"
+      ]
+    },
+    {
+      "title": "Long-Term Time Series Forecasting: The Good, the Bad, and the Ugly",
+      "year": 2026,
+      "authors": "Lorenzo Epifani, Alessandro Falcetta, Manuel Roveri",
+      "venue": "IEEE Computational Intelligence Magazine",
+      "url": "https://doi.org/10.1109/mci.2025.3631772",
+      "doi": "https://doi.org/10.1109/mci.2025.3631772",
+      "preprint": false,
+      "sources": [
+        "https://openalex.org/W7124174712",
+        "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=j2NbakMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=j2NbakMAAAAJ:0izLItjtcgwC"
+      ],
+      "members": [
+        "Alessandro Falcetta",
+        "Lorenzo Epifani",
+        "Manuel Roveri"
+      ]
+    },
+    {
+      "title": "Measuring Methane Emissions in Ambient Air with a Low-Cost, Portable Sensor System: Focus on Scalability and Transferability of the Model",
+      "year": 2026,
+      "authors": "Lorenzo Bertin, Matteo Mentasti, Fabrizio Pittorino, Veronica Villa, Emanuele Zanni, Gabriele Viscardi, Yuri Ponzani, Andrea Massara, Manuel Roveri, Raffaele Lorenzo Dellacà, Laura Capelli",
+      "venue": "Sensors",
+      "url": "https://doi.org/10.3390/s26134321",
+      "doi": "https://doi.org/10.3390/s26134321",
+      "preprint": false,
+      "sources": [
+        "https://openalex.org/W7167719457",
+        "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=j2NbakMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=j2NbakMAAAAJ:_5tno0g5mFcC"
+      ],
+      "members": [
+        "Fabrizio Pittorino",
+        "Gabriele Viscardi",
+        "Manuel Roveri"
+      ]
+    },
+    {
+      "title": "Memory-Efficient Integer-Only Training of Deep Neural Networks",
+      "year": 2026,
+      "authors": "Hazem Hesham Yousef Shalby, Fabrizio Pittorino, Manuel Roveri",
+      "venue": "arXiv (Cornell University)",
+      "url": "https://doi.org/10.48550/arxiv.2610.16298",
+      "doi": "https://doi.org/10.48550/arxiv.2610.16298",
+      "preprint": true,
+      "sources": [
+        "https://openalex.org/W7221760826",
+        "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=j2NbakMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=j2NbakMAAAAJ:IUKN3-7HHlwC"
+      ],
+      "members": [
+        "Fabrizio Pittorino",
+        "Hazem Hesham Yousef Shalby",
+        "Manuel Roveri"
+      ]
+    },
+    {
+      "title": "PEMPEM: Encrypted Ensemble Training for Internet-of-Things Time-Series Forecasting",
+      "year": 2026,
+      "authors": "Alessandro Falcetta, Manuel Roveri",
+      "venue": "IEEE International Conference on Pervasive Computing and Communications Workshops and other Affiliated Events (PerCom Workshops)",
+      "url": "https://doi.org/10.1109/percomworkshops68308.2026.11585269",
+      "doi": "https://doi.org/10.1109/percomworkshops68308.2026.11585269",
+      "preprint": false,
+      "sources": [
+        "https://openalex.org/W7167091794",
+        "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=j2NbakMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=j2NbakMAAAAJ:6ZxmRoH8BuwC"
+      ],
+      "members": [
+        "Alessandro Falcetta",
+        "Manuel Roveri"
+      ]
+    },
+    {
+      "title": "Position Paper: From Edge AI to Adaptive Edge AI",
+      "year": 2026,
+      "authors": "Fabrizio Pittorino, Manuel Roveri",
+      "venue": "International Joint Conference on Neural Networks (IJCNN)",
+      "url": "https://doi.org/10.1109/ijcnn69854.2026.11729144",
+      "doi": "https://doi.org/10.1109/ijcnn69854.2026.11729144",
+      "preprint": false,
+      "sources": [
+        "https://openalex.org/W7153089231",
+        "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=j2NbakMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=j2NbakMAAAAJ:a9-T7VOCCH8C"
+      ],
+      "members": [
+        "Fabrizio Pittorino",
+        "Manuel Roveri"
+      ]
+    },
+    {
+      "title": "ReBoot: Encrypted Training of Deep Neural Networks with CKKS Bootstrapping",
+      "year": 2026,
+      "authors": "Alberto Pirillo, Luca Colombo",
+      "venue": "Proceedings of the AAAI Conference on Artificial Intelligence",
+      "url": "https://doi.org/10.1609/aaai.v40i29.39670",
+      "doi": "https://doi.org/10.1609/aaai.v40i29.39670",
+      "preprint": false,
+      "sources": [
+        "https://openalex.org/W7138391479"
+      ],
+      "members": [
+        "Luca Colombo"
+      ]
+    },
+    {
+      "title": "SQUAD: Scalable Quorum Adaptive Decisions via ensemble of early exit neural networks",
+      "year": 2026,
+      "authors": "Matteo Gambella, Fabrizio Pittorino, Giuliano Casale, Manuel Roveri",
+      "venue": "arXiv (Cornell University)",
+      "url": "https://doi.org/10.48550/arxiv.2601.22711",
+      "doi": "https://doi.org/10.48550/arxiv.2601.22711",
+      "preprint": true,
+      "sources": [
+        "https://openalex.org/W7127135985",
+        "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=j2NbakMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=j2NbakMAAAAJ:NXb4pA-qfm4C"
+      ],
+      "members": [
+        "Fabrizio Pittorino",
+        "Manuel Roveri",
+        "Matteo Gambella"
+      ]
+    },
+    {
+      "title": "Training TFHE-Based Neural Networks with Approximated Floating-Point Arithmetic",
+      "year": 2026,
+      "authors": "Emanuele Nicoletti, Fabrizio Pittorino, Alessandro Falcetta, Luca Colombo, Manuel Roveri",
+      "venue": "Proceedings on Privacy Enhancing Technologies",
+      "url": "https://doi.org/10.56553/popets-2026-0126",
+      "doi": "https://doi.org/10.56553/popets-2026-0126",
+      "preprint": false,
+      "sources": [
+        "https://openalex.org/W7168268910",
+        "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=j2NbakMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=j2NbakMAAAAJ:2VqYfGB8ITEC"
+      ],
+      "members": [
+        "Alessandro Falcetta",
+        "Fabrizio Pittorino",
+        "Luca Colombo",
+        "Manuel Roveri"
+      ]
+    },
+    {
+      "title": "What changes after deployment? A survey on On-device Learning in TinyML",
+      "year": 2026,
+      "authors": "Massimo Pavan, Luca Pezzarossa, Fabrizio Pittorino, Manuel Roveri, Xenofon Fafoutis",
+      "venue": "arXiv (Cornell University)",
+      "url": "https://doi.org/10.48550/arxiv.2605.31226",
+      "doi": "https://doi.org/10.48550/arxiv.2605.31226",
+      "preprint": true,
+      "sources": [
+        "https://openalex.org/W7162992545",
+        "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=j2NbakMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=j2NbakMAAAAJ:sNmaIFBj_lkC"
+      ],
+      "members": [
+        "Fabrizio Pittorino",
+        "Manuel Roveri",
+        "Massimo Pavan"
+      ]
+    },
+    {
+      "title": "A Survey of Quantization Techniques in Embedded AI Toolchains",
+      "year": 2025,
+      "authors": "Mohammad Amin Hasanpour, Xenofon Fafoutis, Manuel Roveri",
+      "venue": "IEEE Annual Congress on Artificial Intelligence of Things (AIoT)",
+      "url": "https://doi.org/10.1109/aiot66900.2025.00079",
+      "doi": "https://doi.org/10.1109/aiot66900.2025.00079",
+      "preprint": false,
+      "sources": [
+        "https://openalex.org/W7134920299",
+        "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=j2NbakMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=j2NbakMAAAAJ:4fGpz3EwCPoC"
+      ],
+      "members": [
+        "Manuel Roveri"
+      ]
+    },
+    {
+      "title": "Advancements in Context Recognition for Edge Devices and Smart Eyewear: Sensors and Applications",
+      "year": 2025,
+      "authors": "Francesca Palermo, Luca Casciano, Lokmane Demagh, Aurelio Teliti, Niccolò Antonello, Giacomo Gervasoni, Hazem Hesham Yousef Shalby, Marco Brando Mario Paracchini, Simone Mentasti, Hao Quan, Riccardo Santambrogio, Cédric Gilbert, Manuel Roveri, Matteo Matteucci, Marco Marcon, Diana Trojaniello",
+      "venue": "IEEE Access",
+      "url": "https://doi.org/10.1109/access.2025.3555426",
+      "doi": "https://doi.org/10.1109/access.2025.3555426",
+      "preprint": false,
+      "sources": [
+        "https://openalex.org/W4408915566",
+        "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=j2NbakMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=j2NbakMAAAAJ:HbR8gkJAVGIC"
+      ],
+      "members": [
+        "Hazem Hesham Yousef Shalby",
+        "Manuel Roveri"
+      ]
+    },
+    {
+      "title": "Architecture-aware minimization (A2M): how to find flat minima in neural architecture search",
+      "year": 2025,
+      "authors": "Matteo Gambella, Fabrizio Pittorino, Manuel Roveri",
+      "venue": "Machine Learning Science and Technology",
+      "url": "https://doi.org/10.1088/2632-2153/adf02e",
+      "doi": "https://doi.org/10.1088/2632-2153/adf02e",
+      "preprint": false,
+      "sources": [
+        "https://openalex.org/W4412462829",
+        "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=j2NbakMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=j2NbakMAAAAJ:Dip1O2bNi0gC"
+      ],
+      "members": [
+        "Fabrizio Pittorino",
+        "Manuel Roveri",
+        "Matteo Gambella"
+      ]
+    },
+    {
+      "title": "Big Data, Machine Learning, and Personalization in Health Systems: Ethical Issues and Emerging Trade-Offs",
+      "year": 2025,
+      "authors": "Stefano Canali, Alessandro Falcetta, Massimo Pavan, Manuel Roveri, Viola Schiaffonati",
+      "venue": "Science and Engineering Ethics",
+      "url": "https://doi.org/10.1007/s11948-025-00552-1",
+      "doi": "https://doi.org/10.1007/s11948-025-00552-1",
+      "preprint": false,
+      "sources": [
+        "https://openalex.org/W4415103790",
+        "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=j2NbakMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=j2NbakMAAAAJ:bz8QjSJIRt4C"
+      ],
+      "members": [
+        "Alessandro Falcetta",
+        "Manuel Roveri",
+        "Massimo Pavan"
+      ]
+    },
+    {
+      "title": "Ceed: Collaborative early exit neural network inference at the edge",
+      "year": 2025,
+      "authors": "Y Chen, Z Niu, M Roveri, G Casale",
+      "venue": "IEEE INFOCOM 2025-IEEE Conference on Computer Communications, 1-10 , 2025",
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=j2NbakMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=j2NbakMAAAAJ:FPJr55Dyh1AC",
+      "doi": null,
+      "preprint": false,
+      "sources": [
+        "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=j2NbakMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=j2NbakMAAAAJ:FPJr55Dyh1AC"
+      ],
+      "members": [
+        "Manuel Roveri"
+      ]
+    },
+    {
+      "title": "Dendron: Enhancing Human Activity Recognition With on-Device Tinyml Learning",
+      "year": 2025,
+      "authors": "Hazem Hesham Yousef Shalby, Manuel Roveri",
+      "venue": "Venue not specified",
+      "url": "https://doi.org/10.1109/cies64955.2025.11007628",
+      "doi": "https://doi.org/10.1109/cies64955.2025.11007628",
+      "preprint": false,
+      "sources": [
+        "https://openalex.org/W4410639774",
+        "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=j2NbakMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=j2NbakMAAAAJ:SpbeaW3--B0C",
+        "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=j2NbakMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=j2NbakMAAAAJ:foquWX3nUaYC"
+      ],
+      "members": [
+        "Hazem Hesham Yousef Shalby",
+        "Manuel Roveri"
+      ]
+    },
+    {
+      "title": "DYNAMAX: Dynamic computing for Transformers and Mamba based architectures",
+      "year": 2025,
+      "authors": "Miguel Nogales, Matteo Gambella, Manuel Roveri",
+      "venue": "International Joint Conference on Neural Networks (IJCNN)",
+      "url": "https://doi.org/10.1109/ijcnn64981.2025.11228828",
+      "doi": "https://doi.org/10.1109/ijcnn64981.2025.11228828",
+      "preprint": false,
+      "sources": [
+        "https://openalex.org/W4416251999",
+        "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=j2NbakMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=j2NbakMAAAAJ:q3CdL3IzO_QC"
+      ],
+      "members": [
+        "Manuel Roveri",
+        "Matteo Gambella"
+      ]
+    },
+    {
+      "title": "Efficient Human Activity Recognition: Machine Learning at the Sensor Level",
+      "year": 2025,
+      "authors": "Arianna De Vecchi, Alice Scandelli, Federica Bossi, Benedetta Caterina Casadei, Hazem Hesham Yousef Shalby, Marco Boschi, Federica Villa",
+      "venue": "Lecture notes in electrical engineering",
+      "url": "https://doi.org/10.1007/978-3-031-71518-1_24",
+      "doi": "https://doi.org/10.1007/978-3-031-71518-1_24",
+      "preprint": false,
+      "sources": [
+        "https://openalex.org/W4406018130"
+      ],
+      "members": [
+        "Hazem Hesham Yousef Shalby"
+      ]
+    },
+    {
+      "title": "Embbert-q: Breaking memory barriers in embedded nlp",
+      "year": 2025,
+      "authors": "R Bravin, M Pavan, HHY Shalby, F Pittorino, M Roveri",
+      "venue": "Available at SSRN 5113385 , 2025",
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=j2NbakMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=j2NbakMAAAAJ:-FonjvnnhkoC",
+      "doi": null,
+      "preprint": false,
+      "sources": [
+        "https://openalex.org/W4406863863",
+        "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=j2NbakMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=j2NbakMAAAAJ:-FonjvnnhkoC"
+      ],
+      "members": [
+        "Fabrizio Pittorino",
+        "Hazem Hesham Yousef Shalby",
+        "Manuel Roveri",
+        "Massimo Pavan"
+      ]
+    },
+    {
+      "title": "HEDEL: Homomorphically Encrypted Distributed Ensemble Learning",
+      "year": 2025,
+      "authors": "Riccardo Pazzi, Alessandro Falcetta, Manuel Roveri",
+      "venue": "International Joint Conference on Neural Networks (IJCNN)",
+      "url": "https://doi.org/10.1109/ijcnn64981.2025.11228475",
+      "doi": "https://doi.org/10.1109/ijcnn64981.2025.11228475",
+      "preprint": false,
+      "sources": [
+        "https://openalex.org/W4416251013",
+        "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=j2NbakMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=j2NbakMAAAAJ:LO7wyVUgiFcC"
+      ],
+      "members": [
+        "Alessandro Falcetta",
+        "Manuel Roveri"
+      ]
+    },
+    {
+      "title": "Low-cost portable sensor toolbox for methane emissions quantification in landfills",
+      "year": 2025,
+      "authors": "V Villa, M Mentasti, L Bertin, D Vernola, E Zanni, M Ardito, G Viscardi, ...",
+      "venue": "Proceedings Sardinia, 20th International Symposium on Waste Management … , 2025",
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=j2NbakMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=j2NbakMAAAAJ:FAceZFleit8C",
+      "doi": null,
+      "preprint": false,
+      "sources": [
+        "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=j2NbakMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=j2NbakMAAAAJ:FAceZFleit8C"
+      ],
+      "members": [
+        "Manuel Roveri"
+      ]
+    },
+    {
+      "title": "NACHOS: Neural Architecture Search for Hardware-Constrained Early-Exit Neural Networks",
+      "year": 2025,
+      "authors": "Matteo Gambella, Jary Pomponi, Simone Scardapane, Manuel Roveri",
+      "venue": "IEEE Transactions on Neural Networks and Learning Systems",
+      "url": "https://doi.org/10.1109/tnnls.2025.3588558",
+      "doi": "https://doi.org/10.1109/tnnls.2025.3588558",
+      "preprint": false,
+      "sources": [
+        "https://openalex.org/W4412536445",
+        "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=j2NbakMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=j2NbakMAAAAJ:BwyfMAYsbu0C"
+      ],
+      "members": [
+        "Manuel Roveri",
+        "Matteo Gambella"
+      ]
+    },
+    {
+      "title": "NITRO-D: Native Integer-Only Training of Deep Convolutional Neural Networks",
+      "year": 2025,
+      "authors": "Alberto Pirillo, Luca Colombo, Manuel Roveri",
+      "venue": "Frontiers in artificial intelligence and applications",
+      "url": "https://doi.org/10.3233/faia250855",
+      "doi": "https://doi.org/10.3233/faia250855",
+      "preprint": false,
+      "sources": [
+        "https://openalex.org/W4415428944",
+        "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=j2NbakMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=j2NbakMAAAAJ:tYavs44e6CUC"
+      ],
+      "members": [
+        "Manuel Roveri"
+      ]
+    },
+    {
+      "title": "On-Sensor Convolutional Neural Networks with Early-Exits",
+      "year": 2025,
+      "authors": "Hazem Hesham Yousef Shalby, Arianna De Vecchi, Alice Scandelli, Pietro Bartoli, Diana Trojaniello, Manuel Roveri, Federica Villa",
+      "venue": "Venue not specified",
+      "url": "https://doi.org/10.1109/ciescompanion65073.2025.11010905",
+      "doi": "https://doi.org/10.1109/ciescompanion65073.2025.11010905",
+      "preprint": false,
+      "sources": [
+        "https://openalex.org/W4410738403",
+        "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=j2NbakMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=j2NbakMAAAAJ:edDO8Oi4QzsC",
+        "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=j2NbakMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=j2NbakMAAAAJ:xtoqd-5pKcoC"
+      ],
+      "members": [
+        "Hazem Hesham Yousef Shalby",
+        "Manuel Roveri"
+      ]
+    },
+    {
+      "title": "Preliminary evaluation of a portable electronic nose for landfill odours classification and quantification",
+      "year": 2025,
+      "authors": "D Vernola, V Villa, E Zanni, G Viscardi, R Dellaca, L Capelli, M Roveri",
+      "venue": "Proceedings Sardinia, 20th International Symposium on Waste Management … , 2025",
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=j2NbakMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=j2NbakMAAAAJ:_FM0Bhl9EiAC",
+      "doi": null,
+      "preprint": false,
+      "sources": [
+        "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=j2NbakMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=j2NbakMAAAAJ:_FM0Bhl9EiAC"
+      ],
+      "members": [
+        "Manuel Roveri"
+      ]
+    },
+    {
+      "title": "SEAL: Searching Expandable Architectures for Incremental Learning",
+      "year": 2025,
+      "authors": "M Gambella, M Roveri",
+      "venue": "arXiv preprint arXiv:2505.10457 , 2025",
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=j2NbakMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=j2NbakMAAAAJ:XoXfffV-tXoC",
+      "doi": null,
+      "preprint": true,
+      "sources": [
+        "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=j2NbakMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=j2NbakMAAAAJ:XoXfffV-tXoC"
+      ],
+      "members": [
+        "Manuel Roveri"
+      ]
+    },
+    {
+      "title": "SELA: Smart Edge LLM Agent to Optimize Response Trade-offs of AI Assistants",
+      "year": 2025,
+      "authors": "Shreshth Tuli, Giuliano Casale, Manuel Roveri",
+      "venue": "Proceedings of the ACM on Interactive Mobile Wearable and Ubiquitous Technologies",
+      "url": "https://doi.org/10.1145/3749483",
+      "doi": "https://doi.org/10.1145/3749483",
+      "preprint": false,
+      "sources": [
+        "https://openalex.org/W4413968229",
+        "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=j2NbakMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=j2NbakMAAAAJ:rmuvC79q63oC"
+      ],
+      "members": [
+        "Manuel Roveri"
+      ]
+    },
+    {
+      "title": "Sensitivity Analysis Exploration of ML Architectures to TinyML Techniques",
+      "year": 2025,
+      "authors": "Iman Sharifirad, Jalil Boudjadar, Manuel Roveri, Peter Gorm Larsen",
+      "venue": "International Conference on Advanced Machine Learning and Data Science (AMLDS)",
+      "url": "https://doi.org/10.1109/amlds63918.2025.11159421",
+      "doi": "https://doi.org/10.1109/amlds63918.2025.11159421",
+      "preprint": false,
+      "sources": [
+        "https://openalex.org/W4414231949",
+        "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=j2NbakMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=j2NbakMAAAAJ:YohjEiUPhakC"
+      ],
+      "members": [
+        "Manuel Roveri"
+      ]
+    },
+    {
+      "title": "SYSTEM AND COMPUTER-IMPLEMENTED METHOD FOR PROCESSING INPUT DATA THROUGH A NEURAL NETWORK USING A DYNAMIC NESTED QUANTIZATION, WEARABLE DEVICE COMPRISING SUCH A SYSTEM",
+      "year": 2025,
+      "authors": "Manuel Roveri, Fabrizio Pittorino, Hazem Hesham Yousef Shalby",
+      "venue": "Virtual Community of Pathological Anatomy (University of Castilla La Mancha)",
+      "url": "https://hdl.handle.net/11311/1315491",
+      "doi": null,
+      "preprint": false,
+      "sources": [
+        "https://openalex.org/W7162152672",
+        "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=j2NbakMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=j2NbakMAAAAJ:umqufdRvDiIC"
+      ],
+      "members": [
+        "Fabrizio Pittorino",
+        "Hazem Hesham Yousef Shalby",
+        "Manuel Roveri"
+      ]
+    },
+    {
+      "title": "TActiLE: Tiny Active LEarning for wearable devices",
+      "year": 2025,
+      "authors": "Massimo Pavan, Claudio Galimberti, Manuel Roveri",
+      "venue": "International Joint Conference on Neural Networks (IJCNN)",
+      "url": "https://doi.org/10.1109/ijcnn64981.2025.11229191",
+      "doi": "https://doi.org/10.1109/ijcnn64981.2025.11229191",
+      "preprint": false,
+      "sources": [
+        "https://openalex.org/W4414770557",
+        "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=j2NbakMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=j2NbakMAAAAJ:ruyezt5ZtCIC"
+      ],
+      "members": [
+        "Manuel Roveri",
+        "Massimo Pavan"
+      ]
+    },
+    {
+      "title": "Toward Operational Scenario Awareness: A UAV Swarm-Based Framework",
+      "year": 2025,
+      "authors": "Gianmaria Caprioli, Lorenzo Epifani",
+      "venue": "IEEE International Workshop on Technologies for Defense and Security (TechDefense)",
+      "url": "https://doi.org/10.1109/techdefense67306.2025.11720983",
+      "doi": "https://doi.org/10.1109/techdefense67306.2025.11720983",
+      "preprint": false,
+      "sources": [
+        "https://openalex.org/W7220989566"
+      ],
+      "members": [
+        "Lorenzo Epifani"
+      ]
+    },
+    {
+      "title": "Training multi-layer binary neural networks with random local binary error signals",
+      "year": 2025,
+      "authors": "Luca Colombo, Fabrizio Pittorino, Manuel Roveri",
+      "venue": "Machine Learning Science and Technology",
+      "url": "https://doi.org/10.1088/2632-2153/adf0c1",
+      "doi": "https://doi.org/10.1088/2632-2153/adf0c1",
+      "preprint": false,
+      "sources": [
+        "https://openalex.org/W4405032453",
+        "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=j2NbakMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=j2NbakMAAAAJ:oNZyr7d5Mn4C"
+      ],
+      "members": [
+        "Fabrizio Pittorino",
+        "Luca Colombo",
+        "Manuel Roveri"
+      ]
+    },
+    {
+      "title": "A Layer-Wise Personalization Approach for Transformer-Based Federated Anomaly Detection",
+      "year": 2024,
+      "authors": "Luca Barbieri, Mattia Brambilla, Manuel Roveri",
+      "venue": "International Conference on Federated Learning Technologies and Applications (FLTA)",
+      "url": "https://doi.org/10.1109/flta63145.2024.10840035",
+      "doi": "https://doi.org/10.1109/flta63145.2024.10840035",
+      "preprint": false,
+      "sources": [
+        "https://openalex.org/W4406658435",
+        "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=j2NbakMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=j2NbakMAAAAJ:WZBGuue-350C"
+      ],
+      "members": [
+        "Manuel Roveri"
+      ]
+    },
+    {
+      "title": "A Lightweight Neural Architecture Search Model for Medical Image Classification",
+      "year": 2024,
+      "authors": "Lunchen Xie, Eugenio Lomurno, Matteo Gambella, Danilo Ardagna, Manuel Roveri, Matteo Matteucci, Qingjiang Shi",
+      "venue": "arXiv (Cornell University)",
+      "url": "https://doi.org/10.48550/arxiv.2405.03462",
+      "doi": "https://doi.org/10.48550/arxiv.2405.03462",
+      "preprint": true,
+      "sources": [
+        "https://openalex.org/W4396788041",
+        "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=j2NbakMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=j2NbakMAAAAJ:ILKRHgRFtOwC"
+      ],
+      "members": [
+        "Manuel Roveri",
+        "Matteo Gambella"
+      ]
+    },
+    {
+      "title": "A survey on deep learning in UAV imagery for precision agriculture and wild flora monitoring: Datasets, models and challenges",
+      "year": 2024,
+      "authors": "Lorenzo Epifani, Antonio Mario Caruso",
+      "venue": "Smart Agricultural Technology",
+      "url": "https://doi.org/10.1016/j.atech.2024.100625",
+      "doi": "https://doi.org/10.1016/j.atech.2024.100625",
+      "preprint": false,
+      "sources": [
+        "https://openalex.org/W4403912936"
+      ],
+      "members": [
+        "Lorenzo Epifani"
+      ]
+    },
+    {
+      "title": "An Efficient Neural Architecture Search Model for Medical Image Classification",
+      "year": 2024,
+      "authors": "Lunchen Xie, Eugenio Lomurno, Matteo Gambella, Danilo Ardagna, Manuel Roveri, Matteo Matteucci, Qingjiang Shi",
+      "venue": "European Symposium on Artificial Neural Networks, Computational Intelligence and Machine Learning (ESANN)",
+      "url": "https://doi.org/10.14428/esann/2024.es2024-119",
+      "doi": "https://doi.org/10.14428/esann/2024.es2024-119",
+      "preprint": false,
+      "sources": [
+        "https://openalex.org/W4402364449",
+        "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=j2NbakMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=j2NbakMAAAAJ:MLfJN-KU85MC"
+      ],
+      "members": [
+        "Manuel Roveri",
+        "Matteo Gambella"
+      ]
+    },
+    {
+      "title": "ChainNet: A Customized Graph Neural Network Model for Loss-Aware Edge AI Service Deployment",
+      "year": 2024,
+      "authors": "Zifeng Niu, Manuel Roveri, Giuliano Casale",
+      "venue": "IEEE/IFIP International Conference on Dependable Systems and Networks (DSN)",
+      "url": "https://doi.org/10.1109/dsn58291.2024.00034",
+      "doi": "https://doi.org/10.1109/dsn58291.2024.00034",
+      "preprint": false,
+      "sources": [
+        "https://openalex.org/W4402040289",
+        "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=j2NbakMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=j2NbakMAAAAJ:b1wdh0AR-JQC"
+      ],
+      "members": [
+        "Manuel Roveri"
+      ]
+    },
+    {
+      "title": "COMPUTER IMPLEMENTED METHOD FOR OBTAINING AN OUTPUT RESPONSE TO A NATURAL LANGUAGE INPUT PROMPT",
+      "year": 2024,
+      "authors": "M Roveri, S Tuli, G Casale, T Diana, P Francesca, O Tommaso",
+      "venue": "Venue not specified",
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=j2NbakMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=j2NbakMAAAAJ:0N-VGjzr574C",
+      "doi": null,
+      "preprint": false,
+      "sources": [
+        "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=j2NbakMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=j2NbakMAAAAJ:0N-VGjzr574C"
+      ],
+      "members": [
+        "Manuel Roveri"
+      ]
+    },
+    {
+      "title": "Enhancing Privacy-Preserving Cancer Classification with Convolutional Neural Networks",
+      "year": 2024,
+      "authors": "Aurora Anna Francesca Colombo, Luca Colombo, Alessandro Falcetta, Manuel Roveri",
+      "venue": "Pacific Symposium on Biocomputing (PSB)",
+      "url": "https://doi.org/10.1142/9789819807024_0040",
+      "doi": "https://doi.org/10.1142/9789819807024_0040",
+      "preprint": false,
+      "sources": [
+        "https://openalex.org/W4404622646",
+        "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=j2NbakMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=j2NbakMAAAAJ:M7yex6snE4oC"
+      ],
+      "members": [
+        "Alessandro Falcetta",
+        "Aurora Anna Francesca Colombo",
+        "Luca Colombo",
+        "Manuel Roveri"
+      ]
+    },
+    {
+      "title": "Enhancing urban water resilience through stormwater reuse for toilet flushing",
+      "year": 2024,
+      "authors": "Stefania Piazza, Mariacrocetta Sambito, Noemi Maglia, Francesco Puoti, A. Raimondi",
+      "venue": "Sustainable Cities and Society",
+      "url": "https://doi.org/10.1016/j.scs.2024.106074",
+      "doi": "https://doi.org/10.1016/j.scs.2024.106074",
+      "preprint": false,
+      "sources": [
+        "https://openalex.org/W4405494444"
+      ],
+      "members": [
+        "Francesco Puoti"
+      ]
+    },
+    {
+      "title": "EVAD: encrypted vibrational anomaly detection with homomorphic encryption",
+      "year": 2024,
+      "authors": "Alessandro Falcetta, Manuel Roveri",
+      "venue": "Neural Computing and Applications",
+      "url": "https://doi.org/10.1007/s00521-024-09464-w",
+      "doi": "https://doi.org/10.1007/s00521-024-09464-w",
+      "preprint": false,
+      "sources": [
+        "https://openalex.org/W4392386402",
+        "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=j2NbakMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=j2NbakMAAAAJ:vbGhcppDl1QC"
+      ],
+      "members": [
+        "Alessandro Falcetta",
+        "Manuel Roveri"
+      ]
+    },
+    {
+      "title": "Federated On-Device Learning of Integer-Based Convolutional Neural Networks",
+      "year": 2024,
+      "authors": "Luca Colombo",
+      "venue": "International Conference on AI-ML Systems (AIMLSystems)",
+      "url": "https://doi.org/10.1145/3703412.3703423",
+      "doi": "https://doi.org/10.1145/3703412.3703423",
+      "preprint": false,
+      "sources": [
+        "https://openalex.org/W4411464993"
+      ],
+      "members": [
+        "Luca Colombo"
+      ]
+    },
+    {
+      "title": "FlatNAS: optimizing Flatness in Neural Architecture Search for Out-of-Distribution Robustness",
+      "year": 2024,
+      "authors": "Matteo Gambella, Fabrizio Pittorino, Manuel Roveri",
+      "venue": "International Joint Conference on Neural Networks (IJCNN)",
+      "url": "https://doi.org/10.1109/ijcnn60899.2024.10650433",
+      "doi": "https://doi.org/10.1109/ijcnn60899.2024.10650433",
+      "preprint": false,
+      "sources": [
+        "https://openalex.org/W4402352334",
+        "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=j2NbakMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=j2NbakMAAAAJ:p__nRnzSRKYC"
+      ],
+      "members": [
+        "Fabrizio Pittorino",
+        "Manuel Roveri",
+        "Matteo Gambella"
+      ]
+    },
+    {
+      "title": "Innovative approach to monitor GHG emissions from landfills and brownfield sites by combining ground measurements and satellite observations",
+      "year": 2024,
+      "authors": "Y Ponzani, D Vernola, V Villa, S Robbiani, BJ Lotesoriere, G Viscardi, ...",
+      "venue": "Procedia Environmental Science, Engineering And Management 11 (4), 599-609 , 2024",
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=j2NbakMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=j2NbakMAAAAJ:VaXvl8Fpj5cC",
+      "doi": null,
+      "preprint": false,
+      "sources": [
+        "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=j2NbakMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=j2NbakMAAAAJ:VaXvl8Fpj5cC"
+      ],
+      "members": [
+        "Manuel Roveri"
+      ]
+    },
+    {
+      "title": "Integrated modelling for water resource management during droughts",
+      "year": 2024,
+      "authors": "S Piazza, A Galletti, M Sambito, M Roveri, F Puoti, A Raimondi",
+      "venue": "Book of abstracts RETURN Dissemination Workshop, 69-70 , 2024",
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=j2NbakMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=j2NbakMAAAAJ:lmc2jWPfTJgC",
+      "doi": null,
+      "preprint": false,
+      "sources": [
+        "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=j2NbakMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=j2NbakMAAAAJ:lmc2jWPfTJgC"
+      ],
+      "members": [
+        "Manuel Roveri"
+      ]
+    },
+    {
+      "title": "Modellazione integrata per la gestione urbana delle risorse idriche durante periodi di siccità",
+      "year": 2024,
+      "authors": "S Piazza, A Galletti, M Sambito, M Roveri, F Puoti, A Raimondi",
+      "venue": "Atti del XXXIX Convegno Nazionale di Idraulica e Costruzioni Idrauliche … , 2024",
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=j2NbakMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=j2NbakMAAAAJ:LI9QrySNdTsC",
+      "doi": null,
+      "preprint": false,
+      "sources": [
+        "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=j2NbakMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=j2NbakMAAAAJ:LI9QrySNdTsC"
+      ],
+      "members": [
+        "Manuel Roveri"
+      ]
+    },
+    {
+      "title": "Quantifying Cryptocurrency Unpredictability: A Comprehensive Study of Complexity and Forecasting",
+      "year": 2024,
+      "authors": "Francesco Puoti, Fabrizio Pittorino, Manuel Roveri",
+      "venue": "International Conference on AI-ML Systems (AIMLSystems)",
+      "url": "https://doi.org/10.1145/3703412.3703420",
+      "doi": "https://doi.org/10.1145/3703412.3703420",
+      "preprint": false,
+      "sources": [
+        "https://openalex.org/W4407571824",
+        "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=j2NbakMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=j2NbakMAAAAJ:e_rmSamDkqQC"
+      ],
+      "members": [
+        "Fabrizio Pittorino",
+        "Francesco Puoti",
+        "Manuel Roveri"
+      ]
+    },
+    {
+      "title": "Reknon: tecnologie abilitanti per il monitoraggio degli elementi di contesto (operatore-macchina-ambiente) per la prevenzione di incidenti sul lavoro",
+      "year": 2024,
+      "authors": "D Accordini, P Agnello, SM Ansaldi, S Arrigoni, F Braghin, E Cagno, ...",
+      "venue": "Inail , 2024",
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=j2NbakMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=j2NbakMAAAAJ:tuHXwOkdijsC",
+      "doi": null,
+      "preprint": false,
+      "sources": [
+        "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=j2NbakMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=j2NbakMAAAAJ:tuHXwOkdijsC"
+      ],
+      "members": [
+        "Manuel Roveri"
+      ]
+    },
+    {
+      "title": "StreamTinyNet: video streaming analysis with spatial-temporal TinyML",
+      "year": 2024,
+      "authors": "Hazem Hesham Yousef Shalby, Massimo Pavan, Manuel Roveri",
+      "venue": "International Joint Conference on Neural Networks (IJCNN)",
+      "url": "https://doi.org/10.1109/ijcnn60899.2024.10651090",
+      "doi": "https://doi.org/10.1109/ijcnn60899.2024.10651090",
+      "preprint": false,
+      "sources": [
+        "https://openalex.org/W4402352280",
+        "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=j2NbakMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=j2NbakMAAAAJ:TIZ-Mc8IlK0C",
+        "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=j2NbakMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=j2NbakMAAAAJ:gsN89kCJA0AC"
+      ],
+      "members": [
+        "Hazem Hesham Yousef Shalby",
+        "Manuel Roveri",
+        "Massimo Pavan"
+      ]
+    },
+    {
+      "title": "The ESCAPE Project: Sensor Selection for the Development of a Portable System for Landfill Surface Emission Monitoring",
+      "year": 2024,
+      "authors": "V Villa, D Vernola, S Robbiani, BJ Lotesoriere, C Ratti, G Viscardi, ...",
+      "venue": "Chemical Engineering Transactions 112, 145-150 , 2024",
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=j2NbakMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=j2NbakMAAAAJ:k8Z6L05lTy4C",
+      "doi": null,
+      "preprint": false,
+      "sources": [
+        "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=j2NbakMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=j2NbakMAAAAJ:k8Z6L05lTy4C"
+      ],
+      "members": [
+        "Manuel Roveri"
+      ]
+    },
+    {
+      "title": "TinyML4D: Scaling Embedded Machine Learning Education in the Developing World",
+      "year": 2024,
+      "authors": "Brian Plancher, Sebastian Büttrich, Jeremy Ellis, Neena Goveas, Laila Daniela Kazimierski, Jesús Alfonso López, Milan Lukić, Diego Méndez, Rosdiadee Nordin, Andrés Oliva Trevisan, Massimo Pavan, Manuel Roveri, Marcus Rüb, Jackline Tum, Marian Verhelst, Salah Abdeljabar, Segun Adebayo, Thomas Amberg, Halleluyah Oluwatobi Aworinde, José Antonio Bagur, Gregg Barrett, Nabil Benamar, Bharat S. Chaudhari, Ronald Criollo, David J. Cuartielles, José Alberto Ferreira Filho, Solomon Gizaw, Evgeni Gousev, Alessandro Grande, Shawn Hymel, P W Natzijl ing, Prashant Manandhar, Pietro Manzoni, Boris Murmann, Eric Pan, Rytis Paškauskas, Ermanno Pietrosémoli, Tales Cleber Pimenta, Marcelo José Rovai, Marco Zennaro, Vijay Janapa Reddi",
+      "venue": "Proceedings of the AAAI Symposium Series",
+      "url": "https://doi.org/10.1609/aaaiss.v3i1.31265",
+      "doi": "https://doi.org/10.1609/aaaiss.v3i1.31265",
+      "preprint": false,
+      "sources": [
+        "https://openalex.org/W4398184415",
+        "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=j2NbakMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=j2NbakMAAAAJ:g3aElNc5_aQC"
+      ],
+      "members": [
+        "Manuel Roveri",
+        "Massimo Pavan"
+      ]
+    },
+    {
+      "title": "TinySV: Speaker Verification in TinyML with On-device Learning",
+      "year": 2024,
+      "authors": "Massimo Pavan, Gioele Mombelli, Francesco Sinacori, Manuel Roveri",
+      "venue": "International Conference on AI-ML Systems (AIMLSystems)",
+      "url": "https://doi.org/10.1145/3703412.3703415",
+      "doi": "https://doi.org/10.1145/3703412.3703415",
+      "preprint": false,
+      "sources": [
+        "https://openalex.org/W4411464984",
+        "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=j2NbakMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=j2NbakMAAAAJ:KUbvn5osdkgC"
+      ],
+      "members": [
+        "Manuel Roveri",
+        "Massimo Pavan"
+      ]
+    },
+    {
+      "title": "Unveiling the Potential of Tiny Machine Learning for Enhanced People Counting in UWB Radar Data",
+      "year": 2024,
+      "authors": "Massimo Pavan, Luis González Navarro, Armando Caltabiano, Manuel Roveri",
+      "venue": "Communications in computer and information science",
+      "url": "https://doi.org/10.1007/978-3-031-74640-6_13",
+      "doi": "https://doi.org/10.1007/978-3-031-74640-6_13",
+      "preprint": false,
+      "sources": [
+        "https://openalex.org/W4405930572",
+        "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=j2NbakMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=j2NbakMAAAAJ:kuK5TVdYjLIC"
+      ],
+      "members": [
+        "Manuel Roveri",
+        "Massimo Pavan"
+      ]
+    },
+    {
+      "title": "VETT: VectorDB-Enabled Transfer-Learning for Time-Series Forecasting",
+      "year": 2024,
+      "authors": "Alessandro Falcetta, Giulio Cristofaro, Lorenzo Epifani, Manuel Roveri",
+      "venue": "International Conference on AI-ML Systems (AIMLSystems)",
+      "url": "https://doi.org/10.1145/3703412.3704452",
+      "doi": "https://doi.org/10.1145/3703412.3704452",
+      "preprint": false,
+      "sources": [
+        "https://openalex.org/W4411464972",
+        "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=j2NbakMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=j2NbakMAAAAJ:PoWvk5oyLR8C"
+      ],
+      "members": [
+        "Alessandro Falcetta",
+        "Lorenzo Epifani",
+        "Manuel Roveri"
+      ]
+    },
+    {
+      "title": "WEARABLE DEVICE WITH A HUMAN ACTIVITY RECOGNITION SYSTEM AND A HUMAN ACTIVITY RECOGNITION METHOD FOR DETERMINING THE HUMAN ACTIVITY OF A USER WEARING THE WEARABLE DEVICE",
+      "year": 2024,
+      "authors": "Tommaso Ongarello, Diana Trojaniello, Francesca Palermo, Manuel Roveri, Hazem Hesham Yousef Shalby",
+      "venue": "Virtual Community of Pathological Anatomy (University of Castilla La Mancha)",
+      "url": "https://hdl.handle.net/11311/1290505",
+      "doi": null,
+      "preprint": false,
+      "sources": [
+        "https://openalex.org/W7127223278",
+        "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=j2NbakMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=j2NbakMAAAAJ:Ug5p-4gJ2f0C"
+      ],
+      "members": [
+        "Hazem Hesham Yousef Shalby",
+        "Manuel Roveri"
+      ]
+    },
+    {
+      "title": "A Tiny Transformer-Based Anomaly Detection Framework for IoT Solutions",
+      "year": 2023,
+      "authors": "Luca Barbieri, Mattia Brambilla, Mario Stefanutti, Ciro Romano, Niccolò De Carlo, Manuel Roveri",
+      "venue": "IEEE Open Journal of Signal Processing",
+      "url": "https://doi.org/10.1109/ojsp.2023.3333756",
+      "doi": "https://doi.org/10.1109/ojsp.2023.3333756",
+      "preprint": false,
+      "sources": [
+        "https://openalex.org/W4388739427",
+        "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=j2NbakMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=j2NbakMAAAAJ:ML0RJ9NH7IQC"
+      ],
+      "members": [
+        "Manuel Roveri"
+      ]
+    },
+    {
+      "title": "Autonomous Intelligent Remote Sensing System for Military Threat Object Detection",
+      "year": 2023,
+      "authors": "Lorenzo Epifani, Antonio Mario Caruso",
+      "venue": "IEEE International Workshop on Technologies for Defense and Security (TechDefense)",
+      "url": "https://doi.org/10.1109/techdefense59795.2023.10380845",
+      "doi": "https://doi.org/10.1109/techdefense59795.2023.10380845",
+      "preprint": false,
+      "sources": [
+        "https://openalex.org/W4390678321"
+      ],
+      "members": [
+        "Lorenzo Epifani"
+      ]
+    },
+    {
+      "title": "Coupling QoS Co-Simulation with Online Adaptive Arrival Forecasting",
+      "year": 2023,
+      "authors": "Yichong Chen, Manuel Roveri, Shreshth Tuli, Giuliano Casale",
+      "venue": "International Conference on Network and Service Management (CNSM)",
+      "url": "https://doi.org/10.23919/cnsm59352.2023.10327805",
+      "doi": "https://doi.org/10.23919/cnsm59352.2023.10327805",
+      "preprint": false,
+      "sources": [
+        "https://openalex.org/W4389077442",
+        "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=j2NbakMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=j2NbakMAAAAJ:4MWp96NkSFoC"
+      ],
+      "members": [
+        "Manuel Roveri"
+      ]
+    },
+    {
+      "title": "EDANAS: Adaptive Neural Architecture Search for Early Exit Neural Networks",
+      "year": 2023,
+      "authors": "Matteo Gambella, Manuel Roveri",
+      "venue": "International Joint Conference on Neural Networks (IJCNN)",
+      "url": "https://doi.org/10.1109/ijcnn54540.2023.10191876",
+      "doi": "https://doi.org/10.1109/ijcnn54540.2023.10191876",
+      "preprint": false,
+      "sources": [
+        "https://openalex.org/W4385482751",
+        "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=j2NbakMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=j2NbakMAAAAJ:URolC5Kub84C"
+      ],
+      "members": [
+        "Manuel Roveri",
+        "Matteo Gambella"
+      ]
+    },
+    {
+      "title": "Evolving Fuzzy Prediction Intervals in Nonstationary Environments",
+      "year": 2023,
+      "authors": "Oscar Cartagena, Francesco Trovò, Manuel Roveri, Doris A. Sáez",
+      "venue": "IEEE Transactions on Emerging Topics in Computational Intelligence",
+      "url": "https://doi.org/10.1109/tetci.2023.3296486",
+      "doi": "https://doi.org/10.1109/tetci.2023.3296486",
+      "preprint": false,
+      "sources": [
+        "https://openalex.org/W4385286347",
+        "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=j2NbakMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=j2NbakMAAAAJ:vDijr-p_gm4C"
+      ],
+      "members": [
+        "Manuel Roveri"
+      ]
+    },
+    {
+      "title": "GreenTea: Time-series Exploration as-a-Service for environmental science",
+      "year": 2023,
+      "authors": "Francesco Puoti, Alessandro Falcetta, Manuel Roveri, Diego Riva, Davide Chiggiato",
+      "venue": "IEEE Conference on Artificial Intelligence (CAI)",
+      "url": "https://doi.org/10.1109/cai54212.2023.00138",
+      "doi": "https://doi.org/10.1109/cai54212.2023.00138",
+      "preprint": false,
+      "sources": [
+        "https://openalex.org/W4385485152",
+        "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=j2NbakMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=j2NbakMAAAAJ:uWiczbcajpAC"
+      ],
+      "members": [
+        "Alessandro Falcetta",
+        "Francesco Puoti",
+        "Manuel Roveri"
+      ]
+    },
+    {
+      "title": "Scheduling Inputs in Early Exit Neural Networks",
+      "year": 2023,
+      "authors": "Giuliano Casale, Manuel Roveri",
+      "venue": "IEEE Transactions on Computers",
+      "url": "https://doi.org/10.1109/tc.2023.3333189",
+      "doi": "https://doi.org/10.1109/tc.2023.3333189",
+      "preprint": false,
+      "sources": [
+        "https://openalex.org/W4388855155",
+        "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=j2NbakMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=j2NbakMAAAAJ:Z5m8FVwuT1cC"
+      ],
+      "members": [
+        "Manuel Roveri"
+      ]
+    },
+    {
+      "title": "Star-Shaped Space of Solutions of the Spherical Negative Perceptron",
+      "year": 2023,
+      "authors": "Brandon Livio Annesi, Clarissa Lauditi, Carlo Lucibello, Enrico M. Malatesta, Gabriele Perugini, Fabrizio Pittorino, Luca Saglietti",
+      "venue": "Physical Review Letters",
+      "url": "https://doi.org/10.1103/physrevlett.131.227301",
+      "doi": "https://doi.org/10.1103/physrevlett.131.227301",
+      "preprint": false,
+      "sources": [
+        "https://openalex.org/W4377130718",
+        "https://openalex.org/W4389130403"
+      ],
+      "members": [
+        "Fabrizio Pittorino"
+      ]
+    },
+    {
+      "title": "TEBAKA: Territorial Basic Knowledge Acquisition. An Agritech Project for Italy: Results on Self-Supervised Semantic Segmentation",
+      "year": 2023,
+      "authors": "Lorenzo Epifani, Vincenzo D'Avino, Antonio Mario Caruso",
+      "venue": "IEEE Symposium on Computers and Communications (ISCC)",
+      "url": "https://doi.org/10.1109/iscc58397.2023.10218242",
+      "doi": "https://doi.org/10.1109/iscc58397.2023.10218242",
+      "preprint": false,
+      "sources": [
+        "https://openalex.org/W4386207836"
+      ],
+      "members": [
+        "Lorenzo Epifani"
+      ]
+    },
+    {
+      "title": "TIFeD: a Tiny Integer-based Federated learning algorithm with Direct feedback alignment",
+      "year": 2023,
+      "authors": "Luca Colombo, Alessandro Falcetta, Manuel Roveri",
+      "venue": "International Conference on AI-ML Systems (AIMLSystems)",
+      "url": "https://doi.org/10.1145/3639856.3639867",
+      "doi": "https://doi.org/10.1145/3639856.3639867",
+      "preprint": false,
+      "sources": [
+        "https://openalex.org/W4397026682",
+        "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=j2NbakMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=j2NbakMAAAAJ:hMsQuOkrut0C"
+      ],
+      "members": [
+        "Alessandro Falcetta",
+        "Luca Colombo",
+        "Manuel Roveri"
+      ]
+    },
+    {
+      "title": "To Personalize or Not To Personalize? Soft Personalization and the Ethics of ML for Health",
+      "year": 2023,
+      "authors": "Alessandro Falcetta, Massimo Pavan, Stefano Canali, Viola Schiaffonati, Manuel Roveri",
+      "venue": "IEEE International Conference on Data Science and Advanced Analytics (DSAA)",
+      "url": "https://doi.org/10.1109/dsaa60987.2023.10302472",
+      "doi": "https://doi.org/10.1109/dsaa60987.2023.10302472",
+      "preprint": false,
+      "sources": [
+        "https://openalex.org/W4388425990",
+        "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=j2NbakMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=j2NbakMAAAAJ:BUYA1_V_uYcC"
+      ],
+      "members": [
+        "Alessandro Falcetta",
+        "Manuel Roveri",
+        "Massimo Pavan"
+      ]
+    },
+    {
+      "title": "Training Encrypted Neural Networks on Encrypted Data with Fully Homomorphic Encryption",
+      "year": 2023,
+      "authors": "Luca Colombo, Alessandro Falcetta, Manuel Roveri",
+      "venue": "Venue not specified",
+      "url": "https://doi.org/10.1145/3689945.3694802",
+      "doi": "https://doi.org/10.1145/3689945.3694802",
+      "preprint": false,
+      "sources": [
+        "https://openalex.org/W4404515059",
+        "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=j2NbakMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=j2NbakMAAAAJ:kz9GbA2Ns4gC"
+      ],
+      "members": [
+        "Alessandro Falcetta",
+        "Luca Colombo",
+        "Manuel Roveri"
+      ]
+    },
+    {
+      "title": "TyBox: An Automatic Design and Code Generation Toolbox for TinyML Incremental On-Device Learning",
+      "year": 2023,
+      "authors": "Massimo Pavan, Eugeniu Ostrovan, Armando Caltabiano, Manuel Roveri",
+      "venue": "ACM Transactions on Embedded Computing Systems",
+      "url": "https://doi.org/10.1145/3604566",
+      "doi": "https://doi.org/10.1145/3604566",
+      "preprint": false,
+      "sources": [
+        "https://openalex.org/W4381054159",
+        "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=j2NbakMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=j2NbakMAAAAJ:zLWjf1WUPmwC"
+      ],
+      "members": [
+        "Manuel Roveri",
+        "Massimo Pavan"
+      ]
+    },
+    {
+      "title": "A Hybrid Active-Passive Approach to Imbalanced Nonstationary Data Stream Classification",
+      "year": 2022,
+      "authors": "Kleanthis Malialis, Manuel Roveri, Cesare Alippi, Christos G. Panayiotou, Marios M. Polycarpou",
+      "venue": "IEEE Symposium Series on Computational Intelligence (SSCI)",
+      "url": "https://doi.org/10.1109/ssci51031.2022.10022140",
+      "doi": "https://doi.org/10.1109/ssci51031.2022.10022140",
+      "preprint": false,
+      "sources": [
+        "https://openalex.org/W4318604466",
+        "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=j2NbakMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=j2NbakMAAAAJ:j8SEvjWlNXcC"
+      ],
+      "members": [
+        "Manuel Roveri"
+      ]
+    },
+    {
+      "title": "AI, Machine Learning e Data Mining",
+      "year": 2022,
+      "authors": "A Bonarini, C Alippi, M Colombetti, F Amigoni, G Boracchi, V Caglioti, ...",
+      "venue": "POLITECNICA 40, 225-236 , 2022",
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=j2NbakMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=j2NbakMAAAAJ:kzcrU_BdoSEC",
+      "doi": null,
+      "preprint": false,
+      "sources": [
+        "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=j2NbakMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=j2NbakMAAAAJ:kzcrU_BdoSEC"
+      ],
+      "members": [
+        "Manuel Roveri"
+      ]
+    },
+    {
+      "title": "An Optimized U-Net for Unbalanced Multi-Organ Segmentation",
+      "year": 2022,
+      "authors": "Raffaele Berzoini, Aurora Anna Francesca Colombo, Susanna Bardini, Antonello Conelli, Eleonora D’Arnese, Marco Domenico Santambrogio",
+      "venue": "Annual International Conference of the IEEE Engineering in Medicine and Biology Society (EMBC)",
+      "url": "https://doi.org/10.1109/embc48229.2022.9871288",
+      "doi": "https://doi.org/10.1109/embc48229.2022.9871288",
+      "preprint": false,
+      "sources": [
+        "https://openalex.org/W4294975570"
+      ],
+      "members": [
+        "Aurora Anna Francesca Colombo"
+      ]
+    },
+    {
+      "title": "CNAS: Constrained Neural Architecture Search",
+      "year": 2022,
+      "authors": "Matteo Gambella, Alessandro Falcetta, Manuel Roveri",
+      "venue": "Conference proceedings/Conference proceedings - IEEE International Conference on Systems, Man, and Cybernetics",
+      "url": "https://doi.org/10.1109/smc53654.2022.9945080",
+      "doi": "https://doi.org/10.1109/smc53654.2022.9945080",
+      "preprint": false,
+      "sources": [
+        "https://openalex.org/W4309374366",
+        "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=j2NbakMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=j2NbakMAAAAJ:t7zJ5fGR-2UC"
+      ],
+      "members": [
+        "Alessandro Falcetta",
+        "Manuel Roveri",
+        "Matteo Gambella"
+      ]
+    },
+    {
+      "title": "Deep learning via message passing algorithms based on belief propagation",
+      "year": 2022,
+      "authors": "Carlo Lucibello, Fabrizio Pittorino, Gabriele Perugini, Riccardo Zecchina",
+      "venue": "Machine Learning Science and Technology",
+      "url": "https://doi.org/10.1088/2632-2153/ac7d3b",
+      "doi": "https://doi.org/10.1088/2632-2153/ac7d3b",
+      "preprint": false,
+      "sources": [
+        "https://openalex.org/W3208681360"
+      ],
+      "members": [
+        "Fabrizio Pittorino"
+      ]
+    },
+    {
+      "title": "Deep networks on toroids: removing symmetries reveals the structure of flat regions in the landscape geometry*",
+      "year": 2022,
+      "authors": "Fabrizio Pittorino, Antonio Ferraro, Gabriele Perugini, Christoph Feinauer, Carlo Baldassi, Riccardo Zecchina",
+      "venue": "Journal of Statistical Mechanics Theory and Experiment",
+      "url": "https://doi.org/10.1088/1742-5468/ac9832",
+      "doi": "https://doi.org/10.1088/1742-5468/ac9832",
+      "preprint": false,
+      "sources": [
+        "https://openalex.org/W4225905778",
+        "https://openalex.org/W4309880056"
+      ],
+      "members": [
+        "Fabrizio Pittorino"
+      ]
+    },
+    {
+      "title": "Guest Editorial: Computational Intelligence for Human-in-the-Loop Cyber Physical Systems",
+      "year": 2022,
+      "authors": "Alireza Jolfaei, Muhammad Usman, Manuel Roveri, Quan Z. Sheng, Marimuthu Swami Palaniswami, Krishna Kant",
+      "venue": "IEEE Transactions on Emerging Topics in Computational Intelligence",
+      "url": "https://doi.org/10.1109/tetci.2021.3139998",
+      "doi": "https://doi.org/10.1109/tetci.2021.3139998",
+      "preprint": false,
+      "sources": [
+        "https://openalex.org/W4206951276",
+        "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=j2NbakMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=j2NbakMAAAAJ:_Ybze24A_UAC"
+      ],
+      "members": [
+        "Manuel Roveri"
+      ]
+    },
+    {
+      "title": "Is Tiny Deep Learning the New Deep Learning?",
+      "year": 2022,
+      "authors": "Manuel Roveri",
+      "venue": "Lecture notes on data engineering and communications technologies",
+      "url": "https://doi.org/10.1007/978-981-19-3391-2_2",
+      "doi": "https://doi.org/10.1007/978-981-19-3391-2_2",
+      "preprint": false,
+      "sources": [
+        "https://openalex.org/W4294068536",
+        "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=j2NbakMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=j2NbakMAAAAJ:35r97b3x0nAC"
+      ],
+      "members": [
+        "Manuel Roveri"
+      ]
+    },
+    {
+      "title": "On-device subject recognition in UWB-radar data with Tiny Machine Learning",
+      "year": 2022,
+      "authors": "M Pavan, A Caltabiano, M Roveri",
+      "venue": "CEUR Workshop Proceedings 3252, 1-8 , 2022",
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=j2NbakMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=j2NbakMAAAAJ:uJ-U7cs_P_0C",
+      "doi": null,
+      "preprint": false,
+      "sources": [
+        "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=j2NbakMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=j2NbakMAAAAJ:uJ-U7cs_P_0C"
+      ],
+      "members": [
+        "Manuel Roveri"
+      ]
+    },
+    {
+      "title": "Pgt: a prompt based generative transformer for the patent domain",
+      "year": 2022,
+      "authors": "D Christofidellis, AB Torres, A Dave, M Roveri, K Schmidt, S Swaminathan, ...",
+      "venue": "ICML 2022 workshop on knowledge retrieval and language models , 2022",
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=j2NbakMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=j2NbakMAAAAJ:NJ774b8OgUMC",
+      "doi": null,
+      "preprint": false,
+      "sources": [
+        "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=j2NbakMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=j2NbakMAAAAJ:NJ774b8OgUMC"
+      ],
+      "members": [
+        "Manuel Roveri"
+      ]
+    },
+    {
+      "title": "Privacy-Preserving Deep Learning With Homomorphic Encryption: An Introduction",
+      "year": 2022,
+      "authors": "Alessandro Falcetta, Manuel Roveri",
+      "venue": "IEEE Computational Intelligence Magazine",
+      "url": "https://doi.org/10.1109/mci.2022.3180883",
+      "doi": "https://doi.org/10.1109/mci.2022.3180883",
+      "preprint": false,
+      "sources": [
+        "https://openalex.org/W4285792693",
+        "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=j2NbakMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=j2NbakMAAAAJ:evX43VCCuoAC"
+      ],
+      "members": [
+        "Alessandro Falcetta",
+        "Manuel Roveri"
+      ]
+    },
+    {
+      "title": "Privacy-preserving time series prediction with temporal convolutional neural networks",
+      "year": 2022,
+      "authors": "Alessandro Falcetta, Manuel Roveri",
+      "venue": "International Joint Conference on Neural Networks (IJCNN)",
+      "url": "https://doi.org/10.1109/ijcnn55064.2022.9892823",
+      "doi": "https://doi.org/10.1109/ijcnn55064.2022.9892823",
+      "preprint": false,
+      "sources": [
+        "https://openalex.org/W4312568906",
+        "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=j2NbakMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=j2NbakMAAAAJ:fEOibwPWpKIC"
+      ],
+      "members": [
+        "Alessandro Falcetta",
+        "Manuel Roveri"
+      ]
+    },
+    {
+      "title": "Publication Beyond Words",
+      "year": 2022,
+      "authors": "GG Yen, KC Tan, V Piuri, IMM Polycarpou, JM Zurada, ...",
+      "venue": "IEEE Computational Intelligence Magazine , 2022",
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=j2NbakMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=j2NbakMAAAAJ:z_wVstp3MssC",
+      "doi": null,
+      "preprint": false,
+      "sources": [
+        "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=j2NbakMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=j2NbakMAAAAJ:z_wVstp3MssC"
+      ],
+      "members": [
+        "Manuel Roveri"
+      ]
+    },
+    {
+      "title": "T4C: A Framework for Time-Series Clustering-as-a-Service",
+      "year": 2022,
+      "authors": "A Falcetta, M Roveri",
+      "venue": "CEUR WORKSHOP PROCEEDINGS 3252, 1-10 , 2022",
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=j2NbakMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=j2NbakMAAAAJ:VLnqNzywnoUC",
+      "doi": null,
+      "preprint": false,
+      "sources": [
+        "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=j2NbakMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=j2NbakMAAAAJ:VLnqNzywnoUC"
+      ],
+      "members": [
+        "Manuel Roveri"
+      ]
+    },
+    {
+      "title": "Tiny Machine Learning for Concept Drift",
+      "year": 2022,
+      "authors": "Simone Disabato, Manuel Roveri",
+      "venue": "IEEE Transactions on Neural Networks and Learning Systems",
+      "url": "https://doi.org/10.1109/tnnls.2022.3229897",
+      "doi": "https://doi.org/10.1109/tnnls.2022.3229897",
+      "preprint": false,
+      "sources": [
+        "https://openalex.org/W3187658556",
+        "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=j2NbakMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=j2NbakMAAAAJ:PR6Y55bgFSsC"
+      ],
+      "members": [
+        "Manuel Roveri"
+      ]
+    },
+    {
+      "title": "TinyML for UWB-radar based presence detection",
+      "year": 2022,
+      "authors": "Massimo Pavan, Armando Caltabiano, Manuel Roveri",
+      "venue": "International Joint Conference on Neural Networks (IJCNN)",
+      "url": "https://doi.org/10.1109/ijcnn55064.2022.9892925",
+      "doi": "https://doi.org/10.1109/ijcnn55064.2022.9892925",
+      "preprint": false,
+      "sources": [
+        "https://openalex.org/W4312975782",
+        "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=j2NbakMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=j2NbakMAAAAJ:-_dYPAW6P2MC"
+      ],
+      "members": [
+        "Manuel Roveri",
+        "Massimo Pavan"
+      ]
+    },
+    {
+      "title": "A Machine-Learning Approach for the Prediction of Internal Corrosion in Pipeline Infrastructures",
+      "year": 2021,
+      "authors": "Giuseppe Canonaco, Manuel Roveri, Cesare Alippi, Fabrizio Podenzani, Antonio Bennardo, Marco Conti, Nicola Mancini",
+      "venue": "IEEE International Instrumentation and Measurement Technology Conference",
+      "url": "https://doi.org/10.1109/i2mtc50364.2021.9460039",
+      "doi": "https://doi.org/10.1109/i2mtc50364.2021.9460039",
+      "preprint": false,
+      "sources": [
+        "https://openalex.org/W3175804347",
+        "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=j2NbakMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=j2NbakMAAAAJ:1yQoGdGgb4wC"
+      ],
+      "members": [
+        "Manuel Roveri"
+      ]
+    },
+    {
+      "title": "A transfer-learning approach for corrosion prediction in pipeline infrastructures",
+      "year": 2021,
+      "authors": "Giuseppe Canonaco, Manuel Roveri, Cesare Alippi, Fabrizio Podenzani, Antonio Bennardo, Marco Conti, Nicola Mancini",
+      "venue": "Applied Intelligence",
+      "url": "https://doi.org/10.1007/s10489-021-02771-y",
+      "doi": "https://doi.org/10.1007/s10489-021-02771-y",
+      "preprint": false,
+      "sources": [
+        "https://openalex.org/W3202910338",
+        "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=j2NbakMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=j2NbakMAAAAJ:UHK10RUVsp4C"
+      ],
+      "members": [
+        "Manuel Roveri"
+      ]
+    },
+    {
+      "title": "Adaptive Federated Learning in Presence of Concept Drift",
+      "year": 2021,
+      "authors": "Giuseppe Canonaco, Alex Bergamasco, Alessio Mongelluzzo, Manuel Roveri",
+      "venue": "International Joint Conference on Neural Networks (IJCNN)",
+      "url": "https://doi.org/10.1109/ijcnn52387.2021.9533710",
+      "doi": "https://doi.org/10.1109/ijcnn52387.2021.9533710",
+      "preprint": false,
+      "sources": [
+        "https://openalex.org/W3200187410",
+        "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=j2NbakMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=j2NbakMAAAAJ:dQ2og3OwTAUC"
+      ],
+      "members": [
+        "Manuel Roveri"
+      ]
+    },
+    {
+      "title": "Birdsong Detection at the Edge with Deep Learning",
+      "year": 2021,
+      "authors": "Simone Disabato, Giuseppe Canonaco, Paul G. Flikkema, Manuel Roveri, Cesare Alippi",
+      "venue": "IEEE International Conference on Smart Computing",
+      "url": "https://doi.org/10.1109/smartcomp52413.2021.00022",
+      "doi": "https://doi.org/10.1109/smartcomp52413.2021.00022",
+      "preprint": false,
+      "sources": [
+        "https://openalex.org/W3206326404",
+        "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=j2NbakMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=j2NbakMAAAAJ:JQOojiI6XY0C"
+      ],
+      "members": [
+        "Manuel Roveri"
+      ]
+    },
+    {
+      "title": "Distributed deep convolutional neural networks for the internet-of-things",
+      "year": 2021,
+      "authors": "S Disabato, M Roveri, C Alippi",
+      "venue": "IEEE Transactions on computers 70 (8), 1239-1252 , 2021",
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=j2NbakMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=j2NbakMAAAAJ:Mojj43d5GZwC",
+      "doi": null,
+      "preprint": false,
+      "sources": [
+        "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=j2NbakMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=j2NbakMAAAAJ:Mojj43d5GZwC"
+      ],
+      "members": [
+        "Manuel Roveri"
+      ]
+    },
+    {
+      "title": "Entropic gradient descent algorithms and wide flat minima",
+      "year": 2021,
+      "authors": "Fabrizio Pittorino, Carlo Lucibello, Christoph Feinauer, Gabriele Perugini, Carlo Baldassi, Elizaveta Demyanenko, Riccardo Zecchina",
+      "venue": "Archivio istituzionale della Ricerca - Bocconi",
+      "url": "https://doi.org/10.1088/1742-5468/ac3ae8",
+      "doi": "https://doi.org/10.1088/1742-5468/ac3ae8",
+      "preprint": false,
+      "sources": [
+        "https://openalex.org/W3034334241",
+        "https://openalex.org/W4205795626"
+      ],
+      "members": [
+        "Fabrizio Pittorino"
+      ]
+    },
+    {
+      "title": "Fast inactivation of SARS-CoV-2 by UV-C and ozone exposure on different materials",
+      "year": 2021,
+      "authors": "Elena Criscuolo, Roberta A. Diotti, Roberto Ferrarese, Cesare Alippi, Gabriele Viscardi, Carlo Signorelli, Nicasio Mancini, Massimo Clementi, Nicola Clementi",
+      "venue": "Emerging Microbes & Infections",
+      "url": "https://doi.org/10.1080/22221751.2021.1872354",
+      "doi": "https://doi.org/10.1080/22221751.2021.1872354",
+      "preprint": false,
+      "sources": [
+        "https://openalex.org/W3118349660"
+      ],
+      "members": [
+        "Gabriele Viscardi"
+      ]
+    },
+    {
+      "title": "Leak detection and localization in water distribution networks by combining expert knowledge and data-driven models",
+      "year": 2021,
+      "authors": "Adrià Soldevila, Giacomo Boracchi, Manuel Roveri, Sebastián Tornil-Sin, Vicenç Puig",
+      "venue": "Neural Computing and Applications",
+      "url": "https://doi.org/10.1007/s00521-021-06666-4",
+      "doi": "https://doi.org/10.1007/s00521-021-06666-4",
+      "preprint": false,
+      "sources": [
+        "https://openalex.org/W3213253658",
+        "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=j2NbakMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=j2NbakMAAAAJ:uLbwQdceFCQC"
+      ],
+      "members": [
+        "Manuel Roveri"
+      ]
+    },
+    {
+      "title": "Learning in non-stationary environments: from a specific application to more general algorithms",
+      "year": 2021,
+      "authors": "G Canonaco",
+      "venue": "Venue not specified",
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=j2NbakMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=j2NbakMAAAAJ:Ri6SYOTghG4C",
+      "doi": null,
+      "preprint": false,
+      "sources": [
+        "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=j2NbakMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=j2NbakMAAAAJ:Ri6SYOTghG4C"
+      ],
+      "members": [
+        "Manuel Roveri"
+      ]
+    },
+    {
+      "title": "Order symmetry breaking and broad distribution of events in spiking neural networks with continuous membrane potential",
+      "year": 2021,
+      "authors": "Marco Stucchi, Fabrizio Pittorino, Matteo di Volo, A. Vezzani, Raffaella Burioni",
+      "venue": "Chaos Solitons & Fractals",
+      "url": "https://doi.org/10.1016/j.chaos.2021.110946",
+      "doi": "https://doi.org/10.1016/j.chaos.2021.110946",
+      "preprint": false,
+      "sources": [
+        "https://openalex.org/W3140686576"
+      ],
+      "members": [
+        "Fabrizio Pittorino"
+      ]
+    },
+    {
+      "title": "Reckon: a real-world, context-aware knowledge-based lab",
+      "year": 2021,
+      "authors": "P Agnello, SM Ansaldi, E Lenzi, A Mongelluzzo, D Piantella, M Roveri, ...",
+      "venue": "29th Italian Symposium on Advanced Database Systems, SEBD 2994, 466-473 , 2021",
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=j2NbakMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=j2NbakMAAAAJ:hkOj_22Ku90C",
+      "doi": null,
+      "preprint": false,
+      "sources": [
+        "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=j2NbakMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=j2NbakMAAAAJ:hkOj_22Ku90C"
+      ],
+      "members": [
+        "Manuel Roveri"
+      ]
+    },
+    {
+      "title": "RECKOn: a REal-world, Context-aware KnOwledge-based lab (Discussion Paper).",
+      "year": 2021,
+      "authors": "Patrizia Agnello, Silvia Ansaldi, Emilia Lenzi, Alessio Mongelluzzo, Davide Piantella, Manuel Roveri, Fabio Alberto Schreiber, Alessandra Scutti, Mahsa Shekari, Letizia Tanca",
+      "venue": "SEBD",
+      "url": "http://ceur-ws.org/Vol-2994/paper53.pdf",
+      "doi": null,
+      "preprint": false,
+      "sources": [
+        "https://openalex.org/W3216361924"
+      ],
+      "members": [
+        "Manuel Roveri"
+      ]
+    },
+    {
+      "title": "RECKONition: a NLP-based system for industrial accidents at work prevention",
+      "year": 2021,
+      "authors": "P Agnello, SM Ansaldi, E Lenzi, A Mongelluzzo, M Roveri",
+      "venue": "arXiv preprint arXiv:2104.14150 , 2021",
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=j2NbakMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=j2NbakMAAAAJ:VL0QpB8kHFEC",
+      "doi": null,
+      "preprint": true,
+      "sources": [
+        "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=j2NbakMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=j2NbakMAAAAJ:VL0QpB8kHFEC"
+      ],
+      "members": [
+        "Manuel Roveri"
+      ]
+    },
+    {
+      "title": "RECKONition: a NLP-based system for Industrial Accidents at Work Prevention (Discussion Paper).",
+      "year": 2021,
+      "authors": "Patrizia Agnello, Silvia Ansaldi, Emilia Lenzi, Alessio Mongelluzzo, Manuel Roveri",
+      "venue": "SEBD",
+      "url": "http://ceur-ws.org/Vol-2994/paper52.pdf",
+      "doi": null,
+      "preprint": false,
+      "sources": [
+        "https://openalex.org/W3216991779"
+      ],
+      "members": [
+        "Manuel Roveri"
+      ]
+    },
+    {
+      "title": "Time-variant variational transfer for value functions",
+      "year": 2021,
+      "authors": "G Canonaco, A Soprani, M Giuliani, A Castelletti, M Roveri, M Restelli",
+      "venue": "Uncertainty in artificial intelligence, 876-886 , 2021",
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=j2NbakMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=j2NbakMAAAAJ:dTyEYWd-f8wC",
+      "doi": null,
+      "preprint": false,
+      "sources": [
+        "https://openalex.org/W3029635095",
+        "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=j2NbakMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=j2NbakMAAAAJ:dTyEYWd-f8wC"
+      ],
+      "members": [
+        "Manuel Roveri"
+      ]
+    },
+    {
+      "title": "A Computational Intelligence Characterization of Solar Magnetograms",
+      "year": 2020,
+      "authors": "Julio J. Valdés, Ljubomir Nikolić, Simone Disabato, Manuel Roveri",
+      "venue": "International Joint Conference on Neural Networks (IJCNN)",
+      "url": "https://doi.org/10.1109/ijcnn48605.2020.9206596",
+      "doi": "https://doi.org/10.1109/ijcnn48605.2020.9206596",
+      "preprint": false,
+      "sources": [
+        "https://openalex.org/W3090313225",
+        "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=j2NbakMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=j2NbakMAAAAJ:L7CI7m0gUJcC"
+      ],
+      "members": [
+        "Manuel Roveri"
+      ]
+    },
+    {
+      "title": "A First Step Towards a Streaming Linked Data Life-Cycle",
+      "year": 2020,
+      "authors": "Riccardo Tommasini, Mohamed Ragab, Alessandro Falcetta, Emanuele Della Valle, Sherif Sakr",
+      "venue": "Lecture notes in computer science",
+      "url": "https://doi.org/10.1007/978-3-030-62466-8_39",
+      "doi": "https://doi.org/10.1007/978-3-030-62466-8_39",
+      "preprint": false,
+      "sources": [
+        "https://openalex.org/W3097119315"
+      ],
+      "members": [
+        "Alessandro Falcetta"
+      ]
+    },
+    {
+      "title": "A Privacy-Preserving Distributed Architecture for Deep-Learning-as-a-Service",
+      "year": 2020,
+      "authors": "Simone Disabato, Alessandro Falcetta, Alessio Mongelluzzo, Manuel Roveri",
+      "venue": "International Joint Conference on Neural Networks (IJCNN)",
+      "url": "https://doi.org/10.1109/ijcnn48605.2020.9207619",
+      "doi": "https://doi.org/10.1109/ijcnn48605.2020.9207619",
+      "preprint": false,
+      "sources": [
+        "https://openalex.org/W3012986730",
+        "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=j2NbakMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=j2NbakMAAAAJ:PELIpwtuRlgC"
+      ],
+      "members": [
+        "Alessandro Falcetta",
+        "Manuel Roveri"
+      ]
+    },
+    {
+      "title": "An energy harvesting solution for computation offloading in Fog Computing networks",
+      "year": 2020,
+      "authors": "Arash Bozorgchenani, Simone Disabato, Daniele Tarchi, Manuel Roveri",
+      "venue": "Computer Communications",
+      "url": "https://doi.org/10.1016/j.comcom.2020.06.032",
+      "doi": "https://doi.org/10.1016/j.comcom.2020.06.032",
+      "preprint": false,
+      "sources": [
+        "https://openalex.org/W3039388782",
+        "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=j2NbakMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=j2NbakMAAAAJ:eq2jaN3J8jMC"
+      ],
+      "members": [
+        "Manuel Roveri"
+      ]
+    },
+    {
+      "title": "Corrosion Prediction in Oil and Gas Pipelines: a Machine Learning Approach",
+      "year": 2020,
+      "authors": "Giuseppe Canonaco, Manuel Roveri, Cesare Alippi, Fabrizio Podenzani, Antonio Bennardo, Marco Conti, Nicola Mancini",
+      "venue": "IEEE International Instrumentation and Measurement Technology Conference",
+      "url": "https://doi.org/10.1109/i2mtc43012.2020.9128607",
+      "doi": "https://doi.org/10.1109/i2mtc43012.2020.9128607",
+      "preprint": false,
+      "sources": [
+        "https://openalex.org/W3040004454",
+        "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=j2NbakMAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=j2NbakMAAAAJ:SdhP9T11ey4C"
+      ],
+      "members": [
+        "Manuel Roveri"
+      ]
+    },
+    {
+      "title": "Guest Editorial Special Issue on Recent Advances in Theory, Methodology, and Applications of Imbalanced Learning",
+      "year": 2020,
+      "authors": "Jing‐Hao Xue, Zhanyu Ma, Manuel Roveri, Nathalie Japkowicz",
+      "venue": "IEEE Transactions on Neural Networks and Learning Systems",
+      "url": "https://doi.org/10.1109/tnnls.2020.3003494",
+      "doi": "https://doi.org/10.1109/tnnls.2020.3003494",
+      "preprint": false,
+      "sources": [
+        "https://openalex.org/W3047585104",
+        "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=j2NbakMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=j2NbakMAAAAJ:WqliGbK-hY8C"
+      ],
+      "members": [
+        "Manuel Roveri"
+      ]
+    },
+    {
+      "title": "Incremental On-Device Tiny Machine Learning",
+      "year": 2020,
+      "authors": "Simone Disabato, Manuel Roveri",
+      "venue": "Venue not specified",
+      "url": "https://doi.org/10.1145/3417313.3429378",
+      "doi": "https://doi.org/10.1145/3417313.3429378",
+      "preprint": false,
+      "sources": [
+        "https://openalex.org/W3096106062",
+        "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=j2NbakMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=j2NbakMAAAAJ:LjlpjdlvIbIC"
+      ],
+      "members": [
+        "Manuel Roveri"
+      ]
+    },
+    {
+      "title": "Method and system for object detection and classification",
+      "year": 2020,
+      "authors": "AL BASSO, M GALIMBERTI, C ALIPPI, G BORACCHI, M ROVERI",
+      "venue": "US Patent App. 16/620,651 , 2020",
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=j2NbakMAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=j2NbakMAAAAJ:JoZmwDi-zQgC",
+      "doi": null,
+      "preprint": false,
+      "sources": [
+        "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=j2NbakMAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=j2NbakMAAAAJ:JoZmwDi-zQgC",
+        "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=j2NbakMAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=j2NbakMAAAAJ:_B80troHkn4C"
+      ],
+      "members": [
+        "Manuel Roveri"
+      ]
+    },
+    {
+      "title": "Model-Free Non-Stationarity Detection and Adaptation in Reinforcement Learning",
+      "year": 2020,
+      "authors": "Giuseppe Canonaco, Marcello Restelli, Manuel Roveri",
+      "venue": "Frontiers in artificial intelligence and applications",
+      "url": "https://doi.org/10.3233/faia200200",
+      "doi": "https://doi.org/10.3233/faia200200",
+      "preprint": false,
+      "sources": [
+        "https://openalex.org/W3090054192",
+        "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=j2NbakMAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=j2NbakMAAAAJ:9vf0nzSNQJEC"
+      ],
+      "members": [
+        "Manuel Roveri"
+      ]
+    },
+    {
+      "title": "Prototyping and Metrological Characterization of a Data Acquisition and Processing System Based on Edge Computing",
+      "year": 2020,
+      "authors": "Giuseppe Lorenzini, Fabio Conti, Giovanni Raffaele Maria Parenti, Diego Scaccabarozzi, Manuel Roveri, Marco Tarabini",
+      "venue": "IEEE International Workshop on Metrology for Industry 4.0 & IoT (MetroInd4.0&IoT)",
+      "url": "https://doi.org/10.1109/metroind4.0iot48571.2020.9138188",
+      "doi": "https://doi.org/10.1109/metroind4.0iot48571.2020.9138188",
+      "preprint": false,
+      "sources": [
+        "https://openalex.org/W3041445895",
+        "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=j2NbakMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=j2NbakMAAAAJ:5awf1xo2G04C"
+      ],
+      "members": [
+        "Manuel Roveri"
+      ]
+    },
+    {
+      "title": "Bootstrapping the Publication of Linked Data Streams.",
+      "year": 2019,
+      "authors": "Riccardo Tommasini, Mohamed Ragab, Alessandro Falcetta, Emanuele Della Valle, Sherif Sakr",
+      "venue": "Venue not specified",
+      "url": "http://ceur-ws.org/Vol-2456/paper8.pdf",
+      "doi": null,
+      "preprint": false,
+      "sources": [
+        "https://openalex.org/W2977989724"
+      ],
+      "members": [
+        "Alessandro Falcetta"
+      ]
+    },
+    {
+      "title": "False Data Detection for Fog and Internet of Things Networks",
+      "year": 2019,
+      "authors": "Romano Fantacci, Francesca Nizzi, Tommaso Pecorella, Laura Pierucci, Manuel Roveri",
+      "venue": "Sensors",
+      "url": "https://doi.org/10.3390/s19194235",
+      "doi": "https://doi.org/10.3390/s19194235",
+      "preprint": false,
+      "sources": [
+        "https://openalex.org/W2975756383",
+        "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=j2NbakMAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=j2NbakMAAAAJ:AXPGKjj_ei8C"
+      ],
+      "members": [
+        "Manuel Roveri"
+      ]
+    },
+    {
+      "title": "INDIANA: An interactive system for assisting database exploration",
+      "year": 2019,
+      "authors": "Antonio Giuzio, Giansalvatore Mecca, Elisa Quintarelli, Manuel Roveri, Donatello Santoro, Letizia Tanca",
+      "venue": "Information Systems",
+      "url": "https://doi.org/10.1016/j.is.2019.01.003",
+      "doi": "https://doi.org/10.1016/j.is.2019.01.003",
+      "preprint": false,
+      "sources": [
+        "https://openalex.org/W2917364341",
+        "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=j2NbakMAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=j2NbakMAAAAJ:t6usbXjVLHcC"
+      ],
+      "members": [
+        "Manuel Roveri"
+      ]
+    },
+    {
+      "title": "Learning Convolutional Neural Networks in presence of Concept Drift",
+      "year": 2019,
+      "authors": "Simone Disabato, Manuel Roveri",
+      "venue": "International Joint Conference on Neural Networks (IJCNN)",
+      "url": "https://doi.org/10.1109/ijcnn.2019.8851731",
+      "doi": "https://doi.org/10.1109/ijcnn.2019.8851731",
+      "preprint": false,
+      "sources": [
+        "https://openalex.org/W2977584137",
+        "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=j2NbakMAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=j2NbakMAAAAJ:eMMeJKvmdy0C"
+      ],
+      "members": [
+        "Manuel Roveri"
+      ]
+    },
+    {
+      "title": "Learning Discrete-Time Markov Chains Under Concept Drift",
+      "year": 2019,
+      "authors": "Manuel Roveri",
+      "venue": "IEEE Transactions on Neural Networks and Learning Systems",
+      "url": "https://doi.org/10.1109/tnnls.2018.2886956",
+      "doi": "https://doi.org/10.1109/tnnls.2018.2886956",
+      "preprint": false,
+      "sources": [
+        "https://openalex.org/W2908934556",
+        "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=j2NbakMAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=j2NbakMAAAAJ:bnK-pcrLprsC"
+      ],
+      "members": [
+        "Manuel Roveri"
+      ]
+    },
+    {
+      "title": "Shaping the learning landscape in neural networks around wide flat minima",
+      "year": 2019,
+      "authors": "Carlo Baldassi, Fabrizio Pittorino, Riccardo Zecchina",
+      "venue": "Proceedings of the National Academy of Sciences",
+      "url": "https://doi.org/10.1073/pnas.1908636117",
+      "doi": "https://doi.org/10.1073/pnas.1908636117",
+      "preprint": false,
+      "sources": [
+        "https://openalex.org/W2998438489"
+      ],
+      "members": [
+        "Fabrizio Pittorino"
+      ]
+    },
+    {
+      "title": "Capacity Planning of Fog Computing",
+      "year": 2018,
+      "authors": "R Pinciroli, M Gribaudo, M Roveri, G Serazzi",
+      "venue": "New Frontiers in Quantitative Methods in Informatics: 7th Workshop, InfQ … , 2018",
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=j2NbakMAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=j2NbakMAAAAJ:WJVC3Jt7v1AC",
+      "doi": null,
+      "preprint": false,
+      "sources": [
+        "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=j2NbakMAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=j2NbakMAAAAJ:WJVC3Jt7v1AC"
+      ],
+      "members": [
+        "Manuel Roveri"
+      ]
+    },
+    {
+      "title": "Capacity Planning of Fog Computing Infrastructures for Smart Monitoring",
+      "year": 2018,
+      "authors": "Riccardo Pinciroli, Marco Gribaudo, Manuel Roveri, Giuseppe Serazzi",
+      "venue": "Communications in computer and information science",
+      "url": "https://doi.org/10.1007/978-3-319-91632-3_6",
+      "doi": "https://doi.org/10.1007/978-3-319-91632-3_6",
+      "preprint": false,
+      "sources": [
+        "https://openalex.org/W2804288890",
+        "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=j2NbakMAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=j2NbakMAAAAJ:D_sINldO8mEC"
+      ],
+      "members": [
+        "Manuel Roveri"
+      ]
+    },
+    {
+      "title": "Intelligent Cyber-Physical Systems for Industry 4.0",
+      "year": 2018,
+      "authors": "Dario Cogliati, Mirko Falchetto, Danilo Pietro Pau, Manuel Roveri, Gabriele Viscardi",
+      "venue": "International Conference on Artificial Intelligence for Industries (AI4I)",
+      "url": "https://doi.org/10.1109/ai4i.2018.8665681",
+      "doi": "https://doi.org/10.1109/ai4i.2018.8665681",
+      "preprint": false,
+      "sources": [
+        "https://openalex.org/W2922368727",
+        "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=j2NbakMAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=j2NbakMAAAAJ:HE397vMXCloC"
+      ],
+      "members": [
+        "Gabriele Viscardi",
+        "Manuel Roveri"
+      ]
+    },
+    {
+      "title": "Moving Convolutional Neural Networks to Embedded Systems: The AlexNet and VGG-16 Case",
+      "year": 2018,
+      "authors": "Cesare Alippi, Simone Disabato, Manuel Roveri",
+      "venue": "ACM/IEEE International Conference on Information Processing in Sensor Networks (IPSN)",
+      "url": "https://doi.org/10.1109/ipsn.2018.00049",
+      "doi": "https://doi.org/10.1109/ipsn.2018.00049",
+      "preprint": false,
+      "sources": [
+        "https://openalex.org/W2798371872",
+        "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=j2NbakMAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=j2NbakMAAAAJ:eJXPG6dFmWUC"
+      ],
+      "members": [
+        "Manuel Roveri"
+      ]
+    },
+    {
+      "title": "Reducing the Computation Load of Convolutional Neural Networks through Gate Classification",
+      "year": 2018,
+      "authors": "Simone Disabato, Manuel Roveri",
+      "venue": "International Joint Conference on Neural Networks (IJCNN)",
+      "url": "https://doi.org/10.1109/ijcnn.2018.8489276",
+      "doi": "https://doi.org/10.1109/ijcnn.2018.8489276",
+      "preprint": false,
+      "sources": [
+        "https://openalex.org/W2897392914",
+        "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=j2NbakMAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=j2NbakMAAAAJ:kRWSkSYxWN8C"
+      ],
+      "members": [
+        "Manuel Roveri"
+      ]
+    },
+    {
+      "title": "A lightweight and energy-efficient Internet-of-birds tracking system",
+      "year": 2017,
+      "authors": "Cesare Alippi, Roberto Ambrosini, Violetta Longoni, Dario Cogliati, Manuel Roveri",
+      "venue": "IEEE International Conference on Pervasive Computing and Communications",
+      "url": "https://doi.org/10.1109/percom.2017.7917862",
+      "doi": "https://doi.org/10.1109/percom.2017.7917862",
+      "preprint": false,
+      "sources": [
+        "https://openalex.org/W2611780176",
+        "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=j2NbakMAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=j2NbakMAAAAJ:08ZZubdj9fEC"
+      ],
+      "members": [
+        "Manuel Roveri"
+      ]
+    },
+    {
+      "title": "A spectrum-based adaptive sampling algorithm for smart sensing",
+      "year": 2017,
+      "authors": "Ilaria Scarabottolo, Cesare Alippi, Manuel Roveri",
+      "venue": "IEEE SmartWorld, Ubiquitous Intelligence & Computing, Advanced & Trusted Computing, Scalable Computing & Communications, Cloud & Big Data Computing, Internet of People and Smart City Innovation (SmartWorld/SCALCOM/UIC/ATC/CBDCom/IOP/SCI)",
+      "url": "https://doi.org/10.1109/uic-atc.2017.8397444",
+      "doi": "https://doi.org/10.1109/uic-atc.2017.8397444",
+      "preprint": false,
+      "sources": [
+        "https://openalex.org/W2811374263",
+        "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=j2NbakMAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=j2NbakMAAAAJ:fQNAKQ3IYiAC"
+      ],
+      "members": [
+        "Manuel Roveri"
+      ]
+    },
+    {
+      "title": "Above and Below the Ocean Surface: A WSN Framework for Monitoring the Great Barrier Reef",
+      "year": 2017,
+      "authors": "Cesare Alippi, Manuel Roveri",
+      "venue": "CRC Press eBooks",
+      "url": "https://doi.org/10.1201/b15479-12",
+      "doi": "https://doi.org/10.1201/b15479-12",
+      "preprint": false,
+      "sources": [
+        "https://openalex.org/W2948420132",
+        "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=j2NbakMAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=j2NbakMAAAAJ:N5tVd3kTz84C"
+      ],
+      "members": [
+        "Manuel Roveri"
+      ]
+    },
+    {
+      "title": "An ensemble approach for cognitive fault detection and isolation in sensor networks",
+      "year": 2017,
+      "authors": "M Roveri, F Trovò",
+      "venue": "International journal of neural systems 27 (03), 1650047 , 2017",
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=j2NbakMAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=j2NbakMAAAAJ:SP6oXDckpogC",
+      "doi": null,
+      "preprint": false,
+      "sources": [
+        "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=j2NbakMAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=j2NbakMAAAAJ:SP6oXDckpogC"
+      ],
+      "members": [
+        "Manuel Roveri"
+      ]
+    },
+    {
+      "title": "An Improved Hilbert-Huang Transform for Non-linear and Time-Variant Signals",
+      "year": 2017,
+      "authors": "Cesare Alippi, Wen Qi, Manuel Roveri",
+      "venue": "Smart innovation, systems and technologies",
+      "url": "https://doi.org/10.1007/978-3-319-56904-8_11",
+      "doi": "https://doi.org/10.1007/978-3-319-56904-8_11",
+      "preprint": false,
+      "sources": [
+        "https://openalex.org/W2753647214",
+        "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=j2NbakMAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=j2NbakMAAAAJ:sSrBHYA8nusC"
+      ],
+      "members": [
+        "Manuel Roveri"
+      ]
+    },
+    {
+      "title": "Chaos and Correlated Avalanches in Excitatory Neural Networks with Synaptic Plasticity",
+      "year": 2017,
+      "authors": "Fabrizio Pittorino, Miguel Ibáñez-Berganza, Matteo di Volo, A. Vezzani, Raffaella Burioni",
+      "venue": "Physical Review Letters",
+      "url": "https://doi.org/10.1103/physrevlett.118.098102",
+      "doi": "https://doi.org/10.1103/physrevlett.118.098102",
+      "preprint": false,
+      "sources": [
+        "https://openalex.org/W2528210136"
+      ],
+      "members": [
+        "Fabrizio Pittorino"
+      ]
+    },
+    {
+      "title": "Complex emergent dynamics in neural networks with synaptic plasticity",
+      "year": 2017,
+      "authors": "Fabrizio Pittorino",
+      "venue": "DSpaceUnipr (University of Parma)",
+      "url": "http://hdl.handle.net/1889/3330",
+      "doi": null,
+      "preprint": false,
+      "sources": [
+        "https://openalex.org/W2717467734"
+      ],
+      "members": [
+        "Fabrizio Pittorino"
+      ]
+    },
+    {
+      "title": "Detecting changes at the sensor level in cyber-physical systems: Methodology and technological implementation",
+      "year": 2017,
+      "authors": "Cesare Alippi, Viviana D'Alto, Mirko Falchetto, Danilo Pietro Pau, Manuel Roveri",
+      "venue": "International Joint Conference on Neural Networks (IJCNN)",
+      "url": "https://doi.org/10.1109/ijcnn.2017.7966066",
+      "doi": "https://doi.org/10.1109/ijcnn.2017.7966066",
+      "preprint": false,
+      "sources": [
+        "https://openalex.org/W2734429352",
+        "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=j2NbakMAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=j2NbakMAAAAJ:4fKUyHm3Qg0C"
+      ],
+      "members": [
+        "Manuel Roveri"
+      ]
+    },
+    {
+      "title": "Dispositivo e procedimento di rilevazione",
+      "year": 2017,
+      "authors": "C Alippi, M Roveri, G Boracchi, A Basso, M Galimberti",
+      "venue": "Venue not specified",
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=j2NbakMAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=j2NbakMAAAAJ:mvPsJ3kp5DgC",
+      "doi": null,
+      "preprint": false,
+      "sources": [
+        "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=j2NbakMAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=j2NbakMAAAAJ:mvPsJ3kp5DgC"
+      ],
+      "members": [
+        "Manuel Roveri"
+      ]
+    },
+    {
+      "title": "INDIANA the Database Explorer",
+      "year": 2017,
+      "authors": "Antonio Giuzio, Giansalvatore Mecca, Elisa Quintarelli, Manuel Roveri, Donatello Santoro, Letizia Tanca",
+      "venue": "Venue not specified",
+      "url": "http://www.db.unibas.it/projects/indiana/articles/DatabaseExploration-TR2017.pdf",
+      "doi": null,
+      "preprint": false,
+      "sources": [
+        "https://openalex.org/W2735678858",
+        "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=j2NbakMAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=j2NbakMAAAAJ:l7t_Zn2s7bgC"
+      ],
+      "members": [
+        "Manuel Roveri"
+      ]
+    },
+    {
+      "title": "Learning in Nonstationary Environments: A Hybrid Approach",
+      "year": 2017,
+      "authors": "Cesare Alippi, Wen Qi, Manuel Roveri",
+      "venue": "Lecture notes in computer science",
+      "url": "https://doi.org/10.1007/978-3-319-59060-8_63",
+      "doi": "https://doi.org/10.1007/978-3-319-59060-8_63",
+      "preprint": false,
+      "sources": [
+        "https://openalex.org/W2617162786",
+        "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=j2NbakMAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=j2NbakMAAAAJ:vRqMK49ujn8C"
+      ],
+      "members": [
+        "Manuel Roveri"
+      ]
+    },
+    {
+      "title": "The (Not) Far-Away Path to Smart Cyber-Physical Systems: An Information-Centric Framework",
+      "year": 2017,
+      "authors": "Cesare Alippi, Manuel Roveri",
+      "venue": "Computer",
+      "url": "https://doi.org/10.1109/mc.2017.111",
+      "doi": "https://doi.org/10.1109/mc.2017.111",
+      "preprint": false,
+      "sources": [
+        "https://openalex.org/W2609848772",
+        "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=j2NbakMAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=j2NbakMAAAAJ:tOudhMTPpwUC"
+      ],
+      "members": [
+        "Manuel Roveri"
+      ]
+    }
+  ]
+}

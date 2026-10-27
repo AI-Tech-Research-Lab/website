@@ -1,0 +1,68 @@
+[
+  {
+    "name": "Manuel Roveri",
+    "openalex_id": "A5035547226",
+    "orcid": "https://orcid.org/0000-0001-7828-7687",
+    "verified_against": "Name and Politecnico di Milano affiliation; ORCID where available"
+  },
+  {
+    "name": "Fabrizio Pittorino",
+    "openalex_id": "A5035460406",
+    "orcid": "https://orcid.org/0000-0002-1919-6141",
+    "verified_against": "Name and Politecnico di Milano affiliation; ORCID where available"
+  },
+  {
+    "name": "Gabriele Viscardi",
+    "openalex_id": "A5043850699",
+    "orcid": null,
+    "verified_against": "Name and Politecnico di Milano affiliation; ORCID where available"
+  },
+  {
+    "name": "Alessandro Falcetta",
+    "openalex_id": "A5080950812",
+    "orcid": "https://orcid.org/0000-0003-0460-1690",
+    "verified_against": "Name and Politecnico di Milano affiliation; ORCID where available"
+  },
+  {
+    "name": "Massimo Pavan",
+    "openalex_id": "A5045681032",
+    "orcid": "https://orcid.org/0000-0002-5964-5685",
+    "verified_against": "Name and Politecnico di Milano affiliation; ORCID where available"
+  },
+  {
+    "name": "Aurora Anna Francesca Colombo",
+    "openalex_id": "A5014281963",
+    "orcid": null,
+    "verified_against": "Name and Politecnico di Milano affiliation; ORCID where available"
+  },
+  {
+    "name": "Luca Colombo",
+    "openalex_id": "A5102789002",
+    "orcid": "https://orcid.org/0000-0002-1986-6459",
+    "verified_against": "Name and Politecnico di Milano affiliation; ORCID where available"
+  },
+  {
+    "name": "Lorenzo Epifani",
+    "openalex_id": "A5092704632",
+    "orcid": "https://orcid.org/0009-0000-0375-4631",
+    "verified_against": "Name and Politecnico di Milano affiliation; ORCID where available"
+  },
+  {
+    "name": "Matteo Gambella",
+    "openalex_id": "A5008809497",
+    "orcid": "https://orcid.org/0000-0001-9734-670X",
+    "verified_against": "Name and Politecnico di Milano affiliation; ORCID where available"
+  },
+  {
+    "name": "Francesco Puoti",
+    "openalex_id": "A5092581717",
+    "orcid": "https://orcid.org/0009-0006-4661-3613",
+    "verified_against": "Name and Politecnico di Milano affiliation; ORCID where available"
+  },
+  {
+    "name": "Hazem Hesham Yousef Shalby",
+    "openalex_id": "A5107079574",
+    "orcid": "https://orcid.org/0009-0003-0182-3885",
+    "verified_against": "Name and Politecnico di Milano affiliation; ORCID where available"
+  }
+]

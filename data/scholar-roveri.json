@@ -1,0 +1,3650 @@
+{
+  "retrieved_on": "2026-10-27",
+  "records": [
+    {
+      "title": "Homomorphic Encryption: The Missing Piece in Federated Learning",
+      "year": 2026,
+      "authors": "AAF Colombo, A Falcetta, M Roveri",
+      "venue": "IEEE Transactions on Artificial Intelligence , 2026",
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=j2NbakMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=j2NbakMAAAAJ:kh2fBNsKQNwC",
+      "doi": null,
+      "preprint": false,
+      "sources": [
+        "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=j2NbakMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=j2NbakMAAAAJ:kh2fBNsKQNwC"
+      ],
+      "members": [
+        "Manuel Roveri"
+      ]
+    },
+    {
+      "title": "Memory-Efficient Integer-Only Training of Deep Neural Networks",
+      "year": 2026,
+      "authors": "HHY Shalby, F Pittorino, M Roveri",
+      "venue": "arXiv preprint arXiv:2610.16298 , 2026",
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=j2NbakMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=j2NbakMAAAAJ:IUKN3-7HHlwC",
+      "doi": null,
+      "preprint": true,
+      "sources": [
+        "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=j2NbakMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=j2NbakMAAAAJ:IUKN3-7HHlwC"
+      ],
+      "members": [
+        "Manuel Roveri"
+      ]
+    },
+    {
+      "title": "Development of a Low-Cost Portable Sensors Toolbox for Methane Emissions Quantification in Landfills",
+      "year": 2026,
+      "authors": "L Bertin, M Mentasti, F Pittorino, E Zanni, G Viscardi, Y Ponzani, ...",
+      "venue": "Chemical Engineering Transactions 127, 103-108 , 2026",
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=j2NbakMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=j2NbakMAAAAJ:OTTXONDVkokC",
+      "doi": null,
+      "preprint": false,
+      "sources": [
+        "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=j2NbakMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=j2NbakMAAAAJ:OTTXONDVkokC"
+      ],
+      "members": [
+        "Manuel Roveri"
+      ]
+    },
+    {
+      "title": "CARSS: Leveraging Online Arrival Forecasting and Co-Simulation for Adaptive Scheduling",
+      "year": 2026,
+      "authors": "Y Chen, M Roveri, S Tuli, G Casale",
+      "venue": "IEEE Transactions on Parallel and Distributed Systems , 2026",
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=j2NbakMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=j2NbakMAAAAJ:mlAyqtXpCwEC",
+      "doi": null,
+      "preprint": false,
+      "sources": [
+        "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=j2NbakMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=j2NbakMAAAAJ:mlAyqtXpCwEC"
+      ],
+      "members": [
+        "Manuel Roveri"
+      ]
+    },
+    {
+      "title": "Measuring Methane Emissions in Ambient Air with a Low-Cost, Portable Sensor System: Focus on Scalability and Transferability of the Model",
+      "year": 2026,
+      "authors": "L Bertin, M Mentasti, F Pittorino, V Villa, E Zanni, G Viscardi, Y Ponzani, ...",
+      "venue": "Sensors 26 (13), 4321 , 2026",
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=j2NbakMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=j2NbakMAAAAJ:_5tno0g5mFcC",
+      "doi": null,
+      "preprint": false,
+      "sources": [
+        "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=j2NbakMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=j2NbakMAAAAJ:_5tno0g5mFcC"
+      ],
+      "members": [
+        "Manuel Roveri"
+      ]
+    },
+    {
+      "title": "What changes after deployment? A survey on On-device Learning in TinyML",
+      "year": 2026,
+      "authors": "M Pavan, L Pezzarossa, F Pittorino, M Roveri, X Fafoutis",
+      "venue": "arXiv preprint arXiv:2605.31226 , 2026",
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=j2NbakMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=j2NbakMAAAAJ:sNmaIFBj_lkC",
+      "doi": null,
+      "preprint": true,
+      "sources": [
+        "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=j2NbakMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=j2NbakMAAAAJ:sNmaIFBj_lkC"
+      ],
+      "members": [
+        "Manuel Roveri"
+      ]
+    },
+    {
+      "title": "HERCULES: Hardware-Efficient, Robust, Continual Learning Neural Architecture Search",
+      "year": 2026,
+      "authors": "M Gambella, F Pittorino, M Roveri",
+      "venue": "arXiv preprint arXiv:2605.04103 , 2026",
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=j2NbakMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=j2NbakMAAAAJ:XvxMoLDsR5gC",
+      "doi": null,
+      "preprint": true,
+      "sources": [
+        "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=j2NbakMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=j2NbakMAAAAJ:XvxMoLDsR5gC"
+      ],
+      "members": [
+        "Manuel Roveri"
+      ]
+    },
+    {
+      "title": "Cerberus: Advancing Continuous On-Device Learning with Multi-Head Object Detection",
+      "year": 2026,
+      "authors": "HHY Shalby, J Moosmann, D Trojaniello, M Magno, M Roveri",
+      "venue": "IEEE Sensors Journal , 2026",
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=j2NbakMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=j2NbakMAAAAJ:4hFrxpcac9AC",
+      "doi": null,
+      "preprint": false,
+      "sources": [
+        "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=j2NbakMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=j2NbakMAAAAJ:4hFrxpcac9AC"
+      ],
+      "members": [
+        "Manuel Roveri"
+      ]
+    },
+    {
+      "title": "Bep: A binary error propagation algorithm for binary neural networks training",
+      "year": 2026,
+      "authors": "L Colombo, F Pittorino, D Zambon, C Baldassi, M Roveri, C Alippi",
+      "venue": "International Conference on Learning Representations 2026, 25044-25061 , 2026",
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=j2NbakMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=j2NbakMAAAAJ:GtLg2Ama23sC",
+      "doi": null,
+      "preprint": false,
+      "sources": [
+        "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=j2NbakMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=j2NbakMAAAAJ:GtLg2Ama23sC"
+      ],
+      "members": [
+        "Manuel Roveri"
+      ]
+    },
+    {
+      "title": "Position Paper: From Edge AI to Adaptive Edge AI",
+      "year": 2026,
+      "authors": "F Pittorino, M Roveri",
+      "venue": "arXiv preprint arXiv:2604.07360 , 2026",
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=j2NbakMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=j2NbakMAAAAJ:a9-T7VOCCH8C",
+      "doi": null,
+      "preprint": true,
+      "sources": [
+        "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=j2NbakMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=j2NbakMAAAAJ:a9-T7VOCCH8C"
+      ],
+      "members": [
+        "Manuel Roveri"
+      ]
+    },
+    {
+      "title": "PEMPEM: Encrypted Ensemble Training for Internet-of-Things Time-Series Forecasting",
+      "year": 2026,
+      "authors": "A Falcetta, M Roveri",
+      "venue": "2026 IEEE International Conference on Pervasive Computing and Communications … , 2026",
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=j2NbakMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=j2NbakMAAAAJ:6ZxmRoH8BuwC",
+      "doi": null,
+      "preprint": false,
+      "sources": [
+        "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=j2NbakMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=j2NbakMAAAAJ:6ZxmRoH8BuwC"
+      ],
+      "members": [
+        "Manuel Roveri"
+      ]
+    },
+    {
+      "title": "DQT: Dynamic quantization training via dequantization-free nested integer arithmetic",
+      "year": 2026,
+      "authors": "HHY Shalby, F Pittorino, F Palermo, D Trojaniello, M Roveri",
+      "venue": "Proceedings of the AAAI Conference on Artificial Intelligence 40 (30), 25252 … , 2026",
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=j2NbakMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=j2NbakMAAAAJ:PVjk1bu6vJQC",
+      "doi": null,
+      "preprint": false,
+      "sources": [
+        "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=j2NbakMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=j2NbakMAAAAJ:PVjk1bu6vJQC"
+      ],
+      "members": [
+        "Manuel Roveri"
+      ]
+    },
+    {
+      "title": "Infoq: Mixed-precision quantization via global information flow",
+      "year": 2026,
+      "authors": "ME Akbulut, HHY Shalby, F Pittorino, M Roveri",
+      "venue": "Proceedings of the AAAI Conference on Artificial Intelligence 40 (24), 19598 … , 2026",
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=j2NbakMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=j2NbakMAAAAJ:5qfkUJPXOUwC",
+      "doi": null,
+      "preprint": false,
+      "sources": [
+        "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=j2NbakMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=j2NbakMAAAAJ:5qfkUJPXOUwC"
+      ],
+      "members": [
+        "Manuel Roveri"
+      ]
+    },
+    {
+      "title": "EmbBERT: Attention under 2 MB memory",
+      "year": 2026,
+      "authors": "R Bravin, M Pavan, HHY Shalby, F Pittorino, M Roveri",
+      "venue": "Neural Networks, 108800 , 2026",
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=j2NbakMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=j2NbakMAAAAJ:HtEfBTGE9r8C",
+      "doi": null,
+      "preprint": false,
+      "sources": [
+        "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=j2NbakMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=j2NbakMAAAAJ:HtEfBTGE9r8C"
+      ],
+      "members": [
+        "Manuel Roveri"
+      ]
+    },
+    {
+      "title": "SQUAD: Scalable Quorum Adaptive Decisions via ensemble of early exit neural networks",
+      "year": 2026,
+      "authors": "M Gambella, F Pittorino, G Casale, M Roveri",
+      "venue": "arXiv preprint arXiv:2601.22711 , 2026",
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=j2NbakMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=j2NbakMAAAAJ:NXb4pA-qfm4C",
+      "doi": null,
+      "preprint": true,
+      "sources": [
+        "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=j2NbakMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=j2NbakMAAAAJ:NXb4pA-qfm4C"
+      ],
+      "members": [
+        "Manuel Roveri"
+      ]
+    },
+    {
+      "title": "Long-term time series forecasting: the good, the bad, and the ugly",
+      "year": 2026,
+      "authors": "L Epifani, A Falcetta, M Roveri",
+      "venue": "IEEE Computational Intelligence Magazine 21 (1), 37-56 , 2026",
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=j2NbakMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=j2NbakMAAAAJ:0izLItjtcgwC",
+      "doi": null,
+      "preprint": false,
+      "sources": [
+        "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=j2NbakMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=j2NbakMAAAAJ:0izLItjtcgwC"
+      ],
+      "members": [
+        "Manuel Roveri"
+      ]
+    },
+    {
+      "title": "Training TFHE-Based Neural Networks with Approximated Floating-Point Arithmetic",
+      "year": 2026,
+      "authors": "E Nicoletti, F Pittorino, A Falcetta, L Colombo, M Roveri",
+      "venue": "Proceedings on Privacy Enhancing Technologies , 2026",
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=j2NbakMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=j2NbakMAAAAJ:2VqYfGB8ITEC",
+      "doi": null,
+      "preprint": false,
+      "sources": [
+        "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=j2NbakMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=j2NbakMAAAAJ:2VqYfGB8ITEC"
+      ],
+      "members": [
+        "Manuel Roveri"
+      ]
+    },
+    {
+      "title": "A Survey of Quantization Techniques in Embedded AI Toolchains",
+      "year": 2025,
+      "authors": "MA Hasanpour, X Fafoutis, M Roveri",
+      "venue": "2025 IEEE Annual Congress on Artificial Intelligence of Things (AIoT), 520-527 , 2025",
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=j2NbakMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=j2NbakMAAAAJ:4fGpz3EwCPoC",
+      "doi": null,
+      "preprint": false,
+      "sources": [
+        "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=j2NbakMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=j2NbakMAAAAJ:4fGpz3EwCPoC"
+      ],
+      "members": [
+        "Manuel Roveri"
+      ]
+    },
+    {
+      "title": "Big data, machine learning, and personalization in health systems: ethical issues and emerging trade-offs",
+      "year": 2025,
+      "authors": "S Canali, A Falcetta, M Pavan, M Roveri, V Schiaffonati",
+      "venue": "Science and Engineering Ethics 31 (5), 29 , 2025",
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=j2NbakMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=j2NbakMAAAAJ:bz8QjSJIRt4C",
+      "doi": null,
+      "preprint": false,
+      "sources": [
+        "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=j2NbakMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=j2NbakMAAAAJ:bz8QjSJIRt4C"
+      ],
+      "members": [
+        "Manuel Roveri"
+      ]
+    },
+    {
+      "title": "Architecture-aware minimization (A 2 M): how to find flat minima in neural architecture search",
+      "year": 2025,
+      "authors": "M Gambella, F Pittorino, M Roveri",
+      "venue": "Machine Learning: Science and Technology 6 (3), 035016 , 2025",
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=j2NbakMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=j2NbakMAAAAJ:Dip1O2bNi0gC",
+      "doi": null,
+      "preprint": false,
+      "sources": [
+        "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=j2NbakMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=j2NbakMAAAAJ:Dip1O2bNi0gC"
+      ],
+      "members": [
+        "Manuel Roveri"
+      ]
+    },
+    {
+      "title": "Training multi-layer binary neural networks with random local binary error signals",
+      "year": 2025,
+      "authors": "L Colombo, F Pittorino, M Roveri",
+      "venue": "Machine Learning: Science and Technology 6 (3), 035015 , 2025",
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=j2NbakMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=j2NbakMAAAAJ:oNZyr7d5Mn4C",
+      "doi": null,
+      "preprint": false,
+      "sources": [
+        "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=j2NbakMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=j2NbakMAAAAJ:oNZyr7d5Mn4C"
+      ],
+      "members": [
+        "Manuel Roveri"
+      ]
+    },
+    {
+      "title": "SELA: Smart Edge LLM Agent to Optimize Response Trade-offs of AI Assistants",
+      "year": 2025,
+      "authors": "S Tuli, G Casale, M Roveri",
+      "venue": "Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous … , 2025",
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=j2NbakMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=j2NbakMAAAAJ:rmuvC79q63oC",
+      "doi": null,
+      "preprint": false,
+      "sources": [
+        "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=j2NbakMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=j2NbakMAAAAJ:rmuvC79q63oC"
+      ],
+      "members": [
+        "Manuel Roveri"
+      ]
+    },
+    {
+      "title": "DQT: Dynamic Quantization Training via Dequantization-Free Nested Integer Arithmetic",
+      "year": 2025,
+      "authors": "H Hesham Yousef Shalby, F Pittorino, F Palermo, D Trojaniello, M Roveri",
+      "venue": "arXiv e-prints, arXiv: 2508.09176 , 2025",
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=j2NbakMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=j2NbakMAAAAJ:86PQX7AUzd4C",
+      "doi": null,
+      "preprint": true,
+      "sources": [
+        "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=j2NbakMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=j2NbakMAAAAJ:86PQX7AUzd4C"
+      ],
+      "members": [
+        "Manuel Roveri"
+      ]
+    },
+    {
+      "title": "Nachos: Neural architecture search for hardware-constrained early-exit neural networks",
+      "year": 2025,
+      "authors": "M Gambella, J Pomponi, S Scardapane, M Roveri",
+      "venue": "IEEE Transactions on Neural Networks and Learning Systems , 2025",
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=j2NbakMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=j2NbakMAAAAJ:BwyfMAYsbu0C",
+      "doi": null,
+      "preprint": false,
+      "sources": [
+        "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=j2NbakMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=j2NbakMAAAAJ:BwyfMAYsbu0C"
+      ],
+      "members": [
+        "Manuel Roveri"
+      ]
+    },
+    {
+      "title": "Sensitivity Analysis Exploration of ML Architectures to TinyML Techniques",
+      "year": 2025,
+      "authors": "I Sharifirad, J Boudjadar, M Roveri, PG Larsen",
+      "venue": "2025 International Conference on Advanced Machine Learning and Data Science … , 2025",
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=j2NbakMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=j2NbakMAAAAJ:YohjEiUPhakC",
+      "doi": null,
+      "preprint": false,
+      "sources": [
+        "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=j2NbakMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=j2NbakMAAAAJ:YohjEiUPhakC"
+      ],
+      "members": [
+        "Manuel Roveri"
+      ]
+    },
+    {
+      "title": "HEDEL: Homomorphically Encrypted Distributed Ensemble Learning",
+      "year": 2025,
+      "authors": "R Pazzi, A Falcetta, M Roveri",
+      "venue": "2025 International Joint Conference on Neural Networks (IJCNN), 1-8 , 2025",
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=j2NbakMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=j2NbakMAAAAJ:LO7wyVUgiFcC",
+      "doi": null,
+      "preprint": false,
+      "sources": [
+        "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=j2NbakMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=j2NbakMAAAAJ:LO7wyVUgiFcC"
+      ],
+      "members": [
+        "Manuel Roveri"
+      ]
+    },
+    {
+      "title": "TActiLE: Tiny active learning for wearable devices",
+      "year": 2025,
+      "authors": "M Pavan, C Galimberti, M Roveri",
+      "venue": "2025 International Joint Conference on Neural Networks (IJCNN), 1-8 , 2025",
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=j2NbakMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=j2NbakMAAAAJ:ruyezt5ZtCIC",
+      "doi": null,
+      "preprint": false,
+      "sources": [
+        "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=j2NbakMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=j2NbakMAAAAJ:ruyezt5ZtCIC"
+      ],
+      "members": [
+        "Manuel Roveri"
+      ]
+    },
+    {
+      "title": "DYNAMAX: Dynamic computing for Transformers and Mamba based architectures",
+      "year": 2025,
+      "authors": "M Nogales, M Gambella, M Roveri",
+      "venue": "2025 International Joint Conference on Neural Networks (IJCNN), 1-8 , 2025",
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=j2NbakMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=j2NbakMAAAAJ:q3CdL3IzO_QC",
+      "doi": null,
+      "preprint": false,
+      "sources": [
+        "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=j2NbakMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=j2NbakMAAAAJ:q3CdL3IzO_QC"
+      ],
+      "members": [
+        "Manuel Roveri"
+      ]
+    },
+    {
+      "title": "Ceed: Collaborative early exit neural network inference at the edge",
+      "year": 2025,
+      "authors": "Y Chen, Z Niu, M Roveri, G Casale",
+      "venue": "IEEE INFOCOM 2025-IEEE Conference on Computer Communications, 1-10 , 2025",
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=j2NbakMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=j2NbakMAAAAJ:FPJr55Dyh1AC",
+      "doi": null,
+      "preprint": false,
+      "sources": [
+        "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=j2NbakMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=j2NbakMAAAAJ:FPJr55Dyh1AC"
+      ],
+      "members": [
+        "Manuel Roveri"
+      ]
+    },
+    {
+      "title": "SEAL: Searching Expandable Architectures for Incremental Learning",
+      "year": 2025,
+      "authors": "M Gambella, M Roveri",
+      "venue": "arXiv preprint arXiv:2505.10457 , 2025",
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=j2NbakMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=j2NbakMAAAAJ:XoXfffV-tXoC",
+      "doi": null,
+      "preprint": true,
+      "sources": [
+        "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=j2NbakMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=j2NbakMAAAAJ:XoXfffV-tXoC"
+      ],
+      "members": [
+        "Manuel Roveri"
+      ]
+    },
+    {
+      "title": "Advancements in context recognition for edge devices and smart eyewear: Sensors and applications",
+      "year": 2025,
+      "authors": "F Palermo, L Casciano, L Demagh, A Teliti, N Antonello, G Gervasoni, ...",
+      "venue": "IEEE Access , 2025",
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=j2NbakMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=j2NbakMAAAAJ:HbR8gkJAVGIC",
+      "doi": null,
+      "preprint": false,
+      "sources": [
+        "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=j2NbakMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=j2NbakMAAAAJ:HbR8gkJAVGIC"
+      ],
+      "members": [
+        "Manuel Roveri"
+      ]
+    },
+    {
+      "title": "On-Sensor Convolutional Neural Networks with Early-Exits",
+      "year": 2025,
+      "authors": "HHY Shalby, A De Vecchi, A Scandelli, P Bartoli, D Trojaniello, M Roveri, ...",
+      "venue": "2025 IEEE Symposium on Computational Intelligence on Engineering/Cyber … , 2025",
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=j2NbakMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=j2NbakMAAAAJ:xtoqd-5pKcoC",
+      "doi": null,
+      "preprint": false,
+      "sources": [
+        "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=j2NbakMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=j2NbakMAAAAJ:xtoqd-5pKcoC"
+      ],
+      "members": [
+        "Manuel Roveri"
+      ]
+    },
+    {
+      "title": "Dendron: enhancing human activity recognition with on-device tinyml learning",
+      "year": 2025,
+      "authors": "HHY Shalby, M Roveri",
+      "venue": "2025 IEEE Symposium on Computational Intelligence on Engineering/Cyber … , 2025",
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=j2NbakMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=j2NbakMAAAAJ:SpbeaW3--B0C",
+      "doi": null,
+      "preprint": false,
+      "sources": [
+        "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=j2NbakMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=j2NbakMAAAAJ:SpbeaW3--B0C"
+      ],
+      "members": [
+        "Manuel Roveri"
+      ]
+    },
+    {
+      "title": "On-Sensor Convolutional Neural Networks with Early-Exits",
+      "year": 2025,
+      "authors": "H Hesham Yousef Shalby, A De Vecchi, A Scandelli, P Bartoli, ...",
+      "venue": "arXiv e-prints, arXiv: 2503.16939 , 2025",
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=j2NbakMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=j2NbakMAAAAJ:edDO8Oi4QzsC",
+      "doi": null,
+      "preprint": true,
+      "sources": [
+        "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=j2NbakMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=j2NbakMAAAAJ:edDO8Oi4QzsC"
+      ],
+      "members": [
+        "Manuel Roveri"
+      ]
+    },
+    {
+      "title": "Dendron: Enhancing Human Activity Recognition with On-Device TinyML Learning",
+      "year": 2025,
+      "authors": "H Hesham Yousef Shalby, M Roveri",
+      "venue": "arXiv e-prints, arXiv: 2503.01353 , 2025",
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=j2NbakMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=j2NbakMAAAAJ:foquWX3nUaYC",
+      "doi": null,
+      "preprint": true,
+      "sources": [
+        "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=j2NbakMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=j2NbakMAAAAJ:foquWX3nUaYC"
+      ],
+      "members": [
+        "Manuel Roveri"
+      ]
+    },
+    {
+      "title": "Embbert-q: Breaking memory barriers in embedded nlp",
+      "year": 2025,
+      "authors": "R Bravin, M Pavan, HHY Shalby, F Pittorino, M Roveri",
+      "venue": "Available at SSRN 5113385 , 2025",
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=j2NbakMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=j2NbakMAAAAJ:-FonjvnnhkoC",
+      "doi": null,
+      "preprint": false,
+      "sources": [
+        "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=j2NbakMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=j2NbakMAAAAJ:-FonjvnnhkoC"
+      ],
+      "members": [
+        "Manuel Roveri"
+      ]
+    },
+    {
+      "title": "SYSTEM AND COMPUTER-IMPLEMENTED METHOD FOR PROCESSING INPUT DATA THROUGH A NEURAL NETWORK USING A DYNAMIC NESTED QUANTIZATION, WEARABLE DEVICE COMPRISING SUCH A SYSTEM",
+      "year": 2025,
+      "authors": "M Roveri, F Pittorino, HHY Shalby",
+      "venue": "Venue not specified",
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=j2NbakMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=j2NbakMAAAAJ:umqufdRvDiIC",
+      "doi": null,
+      "preprint": false,
+      "sources": [
+        "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=j2NbakMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=j2NbakMAAAAJ:umqufdRvDiIC"
+      ],
+      "members": [
+        "Manuel Roveri"
+      ]
+    },
+    {
+      "title": "Low-cost portable sensor toolbox for methane emissions quantification in landfills",
+      "year": 2025,
+      "authors": "V Villa, M Mentasti, L Bertin, D Vernola, E Zanni, M Ardito, G Viscardi, ...",
+      "venue": "Proceedings Sardinia, 20th International Symposium on Waste Management … , 2025",
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=j2NbakMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=j2NbakMAAAAJ:FAceZFleit8C",
+      "doi": null,
+      "preprint": false,
+      "sources": [
+        "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=j2NbakMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=j2NbakMAAAAJ:FAceZFleit8C"
+      ],
+      "members": [
+        "Manuel Roveri"
+      ]
+    },
+    {
+      "title": "Preliminary evaluation of a portable electronic nose for landfill odours classification and quantification",
+      "year": 2025,
+      "authors": "D Vernola, V Villa, E Zanni, G Viscardi, R Dellaca, L Capelli, M Roveri",
+      "venue": "Proceedings Sardinia, 20th International Symposium on Waste Management … , 2025",
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=j2NbakMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=j2NbakMAAAAJ:_FM0Bhl9EiAC",
+      "doi": null,
+      "preprint": false,
+      "sources": [
+        "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=j2NbakMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=j2NbakMAAAAJ:_FM0Bhl9EiAC"
+      ],
+      "members": [
+        "Manuel Roveri"
+      ]
+    },
+    {
+      "title": "NITRO-D: native integer-only training of deep convolutional neural networks",
+      "year": 2025,
+      "authors": "A Pirillo, L Colombo, M Roveri",
+      "venue": "ECAI 2025: 28th European Conference on Artificial Intelligence 25-30 October … , 2025",
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=j2NbakMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=j2NbakMAAAAJ:tYavs44e6CUC",
+      "doi": null,
+      "preprint": false,
+      "sources": [
+        "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=j2NbakMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=j2NbakMAAAAJ:tYavs44e6CUC"
+      ],
+      "members": [
+        "Manuel Roveri"
+      ]
+    },
+    {
+      "title": "Vett: Vectordb-enabled transfer-learning for time-series forecasting",
+      "year": 2024,
+      "authors": "A Falcetta, G Cristofaro, L Epifani, M Roveri",
+      "venue": "Proceedings of the 4th International Conference on AI-ML Systems, 1-9 , 2024",
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=j2NbakMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=j2NbakMAAAAJ:PoWvk5oyLR8C",
+      "doi": null,
+      "preprint": false,
+      "sources": [
+        "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=j2NbakMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=j2NbakMAAAAJ:PoWvk5oyLR8C"
+      ],
+      "members": [
+        "Manuel Roveri"
+      ]
+    },
+    {
+      "title": "Quantifying cryptocurrency unpredictability: A comprehensive study of complexity and forecasting",
+      "year": 2024,
+      "authors": "F Puoti, F Pittorino, M Roveri",
+      "venue": "Proceedings of the 4th international conference on AI-ML systems, 1-8 , 2024",
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=j2NbakMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=j2NbakMAAAAJ:e_rmSamDkqQC",
+      "doi": null,
+      "preprint": false,
+      "sources": [
+        "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=j2NbakMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=j2NbakMAAAAJ:e_rmSamDkqQC"
+      ],
+      "members": [
+        "Manuel Roveri"
+      ]
+    },
+    {
+      "title": "Tinysv: Speaker verification in tinyml with on-device learning",
+      "year": 2024,
+      "authors": "M Pavan, G Mombelli, F Sinacori, M Roveri",
+      "venue": "Proceedings of the 4th International Conference on AI-ML Systems, 1-10 , 2024",
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=j2NbakMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=j2NbakMAAAAJ:KUbvn5osdkgC",
+      "doi": null,
+      "preprint": false,
+      "sources": [
+        "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=j2NbakMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=j2NbakMAAAAJ:KUbvn5osdkgC"
+      ],
+      "members": [
+        "Manuel Roveri"
+      ]
+    },
+    {
+      "title": "A layer-wise personalization approach for transformer-based federated anomaly detection",
+      "year": 2024,
+      "authors": "L Barbieri, M Brambilla, M Roveri",
+      "venue": "2024 2nd International Conference on Federated Learning Technologies and … , 2024",
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=j2NbakMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=j2NbakMAAAAJ:WZBGuue-350C",
+      "doi": null,
+      "preprint": false,
+      "sources": [
+        "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=j2NbakMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=j2NbakMAAAAJ:WZBGuue-350C"
+      ],
+      "members": [
+        "Manuel Roveri"
+      ]
+    },
+    {
+      "title": "StreamTinyNet: video streaming analysis with spatial-temporal TinyML",
+      "year": 2024,
+      "authors": "H Hesham Yousef Shalby, M Pavan, M Roveri",
+      "venue": "arXiv e-prints, arXiv: 2407.17524 , 2024",
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=j2NbakMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=j2NbakMAAAAJ:gsN89kCJA0AC",
+      "doi": null,
+      "preprint": true,
+      "sources": [
+        "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=j2NbakMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=j2NbakMAAAAJ:gsN89kCJA0AC"
+      ],
+      "members": [
+        "Manuel Roveri"
+      ]
+    },
+    {
+      "title": "StreamTinyNet: video streaming analysis with spatial-temporal TinyML",
+      "year": 2024,
+      "authors": "HHY Shalby, M Pavan, M Roveri",
+      "venue": "2024 International Joint Conference on Neural Networks (IJCNN), 1-8 , 2024",
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=j2NbakMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=j2NbakMAAAAJ:TIZ-Mc8IlK0C",
+      "doi": null,
+      "preprint": false,
+      "sources": [
+        "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=j2NbakMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=j2NbakMAAAAJ:TIZ-Mc8IlK0C"
+      ],
+      "members": [
+        "Manuel Roveri"
+      ]
+    },
+    {
+      "title": "Flatnas: optimizing flatness in neural architecture search for out-of-distribution robustness",
+      "year": 2024,
+      "authors": "M Gambella, F Pittorino, M Roveri",
+      "venue": "2024 International Joint Conference on Neural Networks (IJCNN), 1-8 , 2024",
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=j2NbakMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=j2NbakMAAAAJ:p__nRnzSRKYC",
+      "doi": null,
+      "preprint": false,
+      "sources": [
+        "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=j2NbakMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=j2NbakMAAAAJ:p__nRnzSRKYC"
+      ],
+      "members": [
+        "Manuel Roveri"
+      ]
+    },
+    {
+      "title": "ChainNet: A customized graph neural network model for loss-aware edge AI service deployment",
+      "year": 2024,
+      "authors": "Z Niu, M Roveri, G Casale",
+      "venue": "2024 54th Annual IEEE/IFIP International Conference on Dependable Systems … , 2024",
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=j2NbakMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=j2NbakMAAAAJ:b1wdh0AR-JQC",
+      "doi": null,
+      "preprint": false,
+      "sources": [
+        "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=j2NbakMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=j2NbakMAAAAJ:b1wdh0AR-JQC"
+      ],
+      "members": [
+        "Manuel Roveri"
+      ]
+    },
+    {
+      "title": "TinyML4D: scaling embedded machine learning education in the developing world",
+      "year": 2024,
+      "authors": "B Plancher, S Buttrich, J Ellis, N Goveas, L Kazimierski, JL Sotelo, M Lukic, ...",
+      "venue": "Proceedings of the AAAI symposium series 3 (1), 508-515 , 2024",
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=j2NbakMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=j2NbakMAAAAJ:g3aElNc5_aQC",
+      "doi": null,
+      "preprint": false,
+      "sources": [
+        "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=j2NbakMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=j2NbakMAAAAJ:g3aElNc5_aQC"
+      ],
+      "members": [
+        "Manuel Roveri"
+      ]
+    },
+    {
+      "title": "Tybox: An automatic design and code generation toolbox for tinyml incremental on-device learning",
+      "year": 2024,
+      "authors": "M Pavan, E Ostrovan, A Caltabiano, M Roveri",
+      "venue": "ACM Transactions on Embedded Computing Systems 23 (3), 1-27 , 2024",
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=j2NbakMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=j2NbakMAAAAJ:zLWjf1WUPmwC",
+      "doi": null,
+      "preprint": false,
+      "sources": [
+        "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=j2NbakMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=j2NbakMAAAAJ:zLWjf1WUPmwC"
+      ],
+      "members": [
+        "Manuel Roveri"
+      ]
+    },
+    {
+      "title": "A lightweight neural architecture search model for medical image classification",
+      "year": 2024,
+      "authors": "L Xie, E Lomurno, M Gambella, D Ardagna, M Roveri, M Matteucci, Q Shi",
+      "venue": "arXiv preprint arXiv:2405.03462 , 2024",
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=j2NbakMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=j2NbakMAAAAJ:ILKRHgRFtOwC",
+      "doi": null,
+      "preprint": true,
+      "sources": [
+        "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=j2NbakMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=j2NbakMAAAAJ:ILKRHgRFtOwC"
+      ],
+      "members": [
+        "Manuel Roveri"
+      ]
+    },
+    {
+      "title": "EVAD: encrypted vibrational anomaly detection with homomorphic encryption",
+      "year": 2024,
+      "authors": "A Falcetta, M Roveri",
+      "venue": "Neural Computing and Applications 36 (13), 7359-7372 , 2024",
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=j2NbakMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=j2NbakMAAAAJ:vbGhcppDl1QC",
+      "doi": null,
+      "preprint": false,
+      "sources": [
+        "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=j2NbakMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=j2NbakMAAAAJ:vbGhcppDl1QC"
+      ],
+      "members": [
+        "Manuel Roveri"
+      ]
+    },
+    {
+      "title": "COMPUTER IMPLEMENTED METHOD FOR OBTAINING AN OUTPUT RESPONSE TO A NATURAL LANGUAGE INPUT PROMPT",
+      "year": 2024,
+      "authors": "M Roveri, S Tuli, G Casale, T Diana, P Francesca, O Tommaso",
+      "venue": "Venue not specified",
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=j2NbakMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=j2NbakMAAAAJ:0N-VGjzr574C",
+      "doi": null,
+      "preprint": false,
+      "sources": [
+        "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=j2NbakMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=j2NbakMAAAAJ:0N-VGjzr574C"
+      ],
+      "members": [
+        "Manuel Roveri"
+      ]
+    },
+    {
+      "title": "WEARABLE DEVICE WITH A HUMAN ACTIVITY RECOGNITION SYSTEM AND A HUMAN ACTIVITY RECOGNITION METHOD FOR DETERMINING THE HUMAN ACTIVITY OF A USER WEARING THE WEARABLE DEVICE",
+      "year": 2024,
+      "authors": "T Ongarello, D Trojaniello, F Palermo, M Roveri, HHY Shalby",
+      "venue": "Venue not specified",
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=j2NbakMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=j2NbakMAAAAJ:Ug5p-4gJ2f0C",
+      "doi": null,
+      "preprint": false,
+      "sources": [
+        "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=j2NbakMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=j2NbakMAAAAJ:Ug5p-4gJ2f0C"
+      ],
+      "members": [
+        "Manuel Roveri"
+      ]
+    },
+    {
+      "title": "Enhancing privacy-preserving cancer classification with convolutional neural networks",
+      "year": 2024,
+      "authors": "AAF Colombo, L Colombo, A Falcetta, M Roveri",
+      "venue": "Biocomputing 2025: Proceedings of the Pacific Symposium, 565-579 , 2024",
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=j2NbakMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=j2NbakMAAAAJ:M7yex6snE4oC",
+      "doi": null,
+      "preprint": false,
+      "sources": [
+        "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=j2NbakMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=j2NbakMAAAAJ:M7yex6snE4oC"
+      ],
+      "members": [
+        "Manuel Roveri"
+      ]
+    },
+    {
+      "title": "The ESCAPE Project: Sensor Selection for the Development of a Portable System for Landfill Surface Emission Monitoring",
+      "year": 2024,
+      "authors": "V Villa, D Vernola, S Robbiani, BJ Lotesoriere, C Ratti, G Viscardi, ...",
+      "venue": "Chemical Engineering Transactions 112, 145-150 , 2024",
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=j2NbakMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=j2NbakMAAAAJ:k8Z6L05lTy4C",
+      "doi": null,
+      "preprint": false,
+      "sources": [
+        "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=j2NbakMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=j2NbakMAAAAJ:k8Z6L05lTy4C"
+      ],
+      "members": [
+        "Manuel Roveri"
+      ]
+    },
+    {
+      "title": "Innovative approach to monitor GHG emissions from landfills and brownfield sites by combining ground measurements and satellite observations",
+      "year": 2024,
+      "authors": "Y Ponzani, D Vernola, V Villa, S Robbiani, BJ Lotesoriere, G Viscardi, ...",
+      "venue": "Procedia Environmental Science, Engineering And Management 11 (4), 599-609 , 2024",
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=j2NbakMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=j2NbakMAAAAJ:VaXvl8Fpj5cC",
+      "doi": null,
+      "preprint": false,
+      "sources": [
+        "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=j2NbakMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=j2NbakMAAAAJ:VaXvl8Fpj5cC"
+      ],
+      "members": [
+        "Manuel Roveri"
+      ]
+    },
+    {
+      "title": "Modellazione integrata per la gestione urbana delle risorse idriche durante periodi di siccità",
+      "year": 2024,
+      "authors": "S Piazza, A Galletti, M Sambito, M Roveri, F Puoti, A Raimondi",
+      "venue": "Atti del XXXIX Convegno Nazionale di Idraulica e Costruzioni Idrauliche … , 2024",
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=j2NbakMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=j2NbakMAAAAJ:LI9QrySNdTsC",
+      "doi": null,
+      "preprint": false,
+      "sources": [
+        "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=j2NbakMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=j2NbakMAAAAJ:LI9QrySNdTsC"
+      ],
+      "members": [
+        "Manuel Roveri"
+      ]
+    },
+    {
+      "title": "Integrated modelling for water resource management during droughts",
+      "year": 2024,
+      "authors": "S Piazza, A Galletti, M Sambito, M Roveri, F Puoti, A Raimondi",
+      "venue": "Book of abstracts RETURN Dissemination Workshop, 69-70 , 2024",
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=j2NbakMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=j2NbakMAAAAJ:lmc2jWPfTJgC",
+      "doi": null,
+      "preprint": false,
+      "sources": [
+        "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=j2NbakMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=j2NbakMAAAAJ:lmc2jWPfTJgC"
+      ],
+      "members": [
+        "Manuel Roveri"
+      ]
+    },
+    {
+      "title": "An efficient neural architecture search model for medical image classification",
+      "year": 2024,
+      "authors": "L Xie, E Lomurno, M Gambella, D Ardagna, M Roveri, M Matteucci, Q Shi",
+      "venue": "ESANN 2024 Proceedings-32ndEuropean Symposium on Artificial Neural Networks … , 2024",
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=j2NbakMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=j2NbakMAAAAJ:MLfJN-KU85MC",
+      "doi": null,
+      "preprint": false,
+      "sources": [
+        "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=j2NbakMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=j2NbakMAAAAJ:MLfJN-KU85MC"
+      ],
+      "members": [
+        "Manuel Roveri"
+      ]
+    },
+    {
+      "title": "Reknon: tecnologie abilitanti per il monitoraggio degli elementi di contesto (operatore-macchina-ambiente) per la prevenzione di incidenti sul lavoro",
+      "year": 2024,
+      "authors": "D Accordini, P Agnello, SM Ansaldi, S Arrigoni, F Braghin, E Cagno, ...",
+      "venue": "Inail , 2024",
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=j2NbakMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=j2NbakMAAAAJ:tuHXwOkdijsC",
+      "doi": null,
+      "preprint": false,
+      "sources": [
+        "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=j2NbakMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=j2NbakMAAAAJ:tuHXwOkdijsC"
+      ],
+      "members": [
+        "Manuel Roveri"
+      ]
+    },
+    {
+      "title": "Scheduling inputs in early exit neural networks",
+      "year": 2023,
+      "authors": "G Casale, M Roveri",
+      "venue": "IEEE Transactions on Computers 73 (2), 451-465 , 2023",
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=j2NbakMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=j2NbakMAAAAJ:Z5m8FVwuT1cC",
+      "doi": null,
+      "preprint": false,
+      "sources": [
+        "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=j2NbakMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=j2NbakMAAAAJ:Z5m8FVwuT1cC"
+      ],
+      "members": [
+        "Manuel Roveri"
+      ]
+    },
+    {
+      "title": "Training encrypted neural networks on encrypted data with fully homomorphic encryption",
+      "year": 2023,
+      "authors": "L Colombo, A Falcetta, M Roveri",
+      "venue": "Proceedings of the 12th Workshop on Encrypted Computing & Applied … , 2023",
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=j2NbakMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=j2NbakMAAAAJ:kz9GbA2Ns4gC",
+      "doi": null,
+      "preprint": false,
+      "sources": [
+        "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=j2NbakMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=j2NbakMAAAAJ:kz9GbA2Ns4gC"
+      ],
+      "members": [
+        "Manuel Roveri"
+      ]
+    },
+    {
+      "title": "A tiny transformer-based anomaly detection framework for IoT solutions",
+      "year": 2023,
+      "authors": "L Barbieri, M Brambilla, M Stefanutti, C Romano, N De Carlo, M Roveri",
+      "venue": "IEEE Open Journal of Signal Processing 4, 462-478 , 2023",
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=j2NbakMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=j2NbakMAAAAJ:ML0RJ9NH7IQC",
+      "doi": null,
+      "preprint": false,
+      "sources": [
+        "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=j2NbakMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=j2NbakMAAAAJ:ML0RJ9NH7IQC"
+      ],
+      "members": [
+        "Manuel Roveri"
+      ]
+    },
+    {
+      "title": "Coupling QoS Co-Simulation with Online Adaptive Arrival Forecasting",
+      "year": 2023,
+      "authors": "Y Chen, M Roveri, S Tuli, G Casale",
+      "venue": "2023 19th International Conference on Network and Service Management (CNSM), 1-9 , 2023",
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=j2NbakMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=j2NbakMAAAAJ:4MWp96NkSFoC",
+      "doi": null,
+      "preprint": false,
+      "sources": [
+        "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=j2NbakMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=j2NbakMAAAAJ:4MWp96NkSFoC"
+      ],
+      "members": [
+        "Manuel Roveri"
+      ]
+    },
+    {
+      "title": "TIFeD: a Tiny Integer-based Federated learning algorithm with Direct feedback alignment",
+      "year": 2023,
+      "authors": "L Colombo, A Falcetta, M Roveri",
+      "venue": "Proceedings of the Third International Conference on AI-ML Systems, 1-8 , 2023",
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=j2NbakMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=j2NbakMAAAAJ:hMsQuOkrut0C",
+      "doi": null,
+      "preprint": false,
+      "sources": [
+        "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=j2NbakMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=j2NbakMAAAAJ:hMsQuOkrut0C"
+      ],
+      "members": [
+        "Manuel Roveri"
+      ]
+    },
+    {
+      "title": "To personalize or not to personalize? Soft personalization and the ethics of ML for health",
+      "year": 2023,
+      "authors": "A Falcetta, M Pavan, S Canali, V Schiaffonati, M Roveri",
+      "venue": "2023 IEEE 10th International Conference on Data Science and Advanced … , 2023",
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=j2NbakMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=j2NbakMAAAAJ:BUYA1_V_uYcC",
+      "doi": null,
+      "preprint": false,
+      "sources": [
+        "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=j2NbakMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=j2NbakMAAAAJ:BUYA1_V_uYcC"
+      ],
+      "members": [
+        "Manuel Roveri"
+      ]
+    },
+    {
+      "title": "Unveiling the Potential of Tiny Machine Learning for Enhanced People Counting in UWB Radar Data",
+      "year": 2023,
+      "authors": "M Pavan, LG Navarro, A Caltabiano, M Roveri",
+      "venue": "Joint European Conference on Machine Learning and Knowledge Discovery in … , 2023",
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=j2NbakMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=j2NbakMAAAAJ:kuK5TVdYjLIC",
+      "doi": null,
+      "preprint": false,
+      "sources": [
+        "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=j2NbakMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=j2NbakMAAAAJ:kuK5TVdYjLIC"
+      ],
+      "members": [
+        "Manuel Roveri"
+      ]
+    },
+    {
+      "title": "Evolving fuzzy prediction intervals in nonstationary environments",
+      "year": 2023,
+      "authors": "O Cartagena, F Trovò, M Roveri, D Sáez",
+      "venue": "IEEE Transactions on Emerging Topics in Computational Intelligence 8 (1 … , 2023",
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=j2NbakMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=j2NbakMAAAAJ:vDijr-p_gm4C",
+      "doi": null,
+      "preprint": false,
+      "sources": [
+        "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=j2NbakMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=j2NbakMAAAAJ:vDijr-p_gm4C"
+      ],
+      "members": [
+        "Manuel Roveri"
+      ]
+    },
+    {
+      "title": "Edanas: Adaptive neural architecture search for early exit neural networks",
+      "year": 2023,
+      "authors": "M Gambella, M Roveri",
+      "venue": "2023 International Joint Conference on Neural Networks (IJCNN), 1-8 , 2023",
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=j2NbakMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=j2NbakMAAAAJ:URolC5Kub84C",
+      "doi": null,
+      "preprint": false,
+      "sources": [
+        "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=j2NbakMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=j2NbakMAAAAJ:URolC5Kub84C"
+      ],
+      "members": [
+        "Manuel Roveri"
+      ]
+    },
+    {
+      "title": "GreenTea: Time-series Exploration as-a-Service for environmental science",
+      "year": 2023,
+      "authors": "F Puoti, A Falcetta, M Roveri, D Riva, D Chiggiato",
+      "venue": "2023 IEEE Conference on Artificial Intelligence (CAI), 311-313 , 2023",
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=j2NbakMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=j2NbakMAAAAJ:uWiczbcajpAC",
+      "doi": null,
+      "preprint": false,
+      "sources": [
+        "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=j2NbakMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=j2NbakMAAAAJ:uWiczbcajpAC"
+      ],
+      "members": [
+        "Manuel Roveri"
+      ]
+    },
+    {
+      "title": "Tiny machine learning for concept drift",
+      "year": 2022,
+      "authors": "S Disabato, M Roveri",
+      "venue": "IEEE Transactions on Neural Networks and Learning Systems 35 (6), 8470-8481 , 2022",
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=j2NbakMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=j2NbakMAAAAJ:PR6Y55bgFSsC",
+      "doi": null,
+      "preprint": false,
+      "sources": [
+        "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=j2NbakMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=j2NbakMAAAAJ:PR6Y55bgFSsC"
+      ],
+      "members": [
+        "Manuel Roveri"
+      ]
+    },
+    {
+      "title": "A hybrid active-passive approach to imbalanced nonstationary data stream classification",
+      "year": 2022,
+      "authors": "K Malialis, M Roveri, C Alippi, CG Panayiotou, MM Polycarpou",
+      "venue": "2022 IEEE Symposium Series on Computational Intelligence (SSCI), 1021-1027 , 2022",
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=j2NbakMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=j2NbakMAAAAJ:j8SEvjWlNXcC",
+      "doi": null,
+      "preprint": false,
+      "sources": [
+        "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=j2NbakMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=j2NbakMAAAAJ:j8SEvjWlNXcC"
+      ],
+      "members": [
+        "Manuel Roveri"
+      ]
+    },
+    {
+      "title": "Publication Beyond Words",
+      "year": 2022,
+      "authors": "GG Yen, KC Tan, V Piuri, IMM Polycarpou, JM Zurada, ...",
+      "venue": "IEEE Computational Intelligence Magazine , 2022",
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=j2NbakMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=j2NbakMAAAAJ:z_wVstp3MssC",
+      "doi": null,
+      "preprint": false,
+      "sources": [
+        "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=j2NbakMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=j2NbakMAAAAJ:z_wVstp3MssC"
+      ],
+      "members": [
+        "Manuel Roveri"
+      ]
+    },
+    {
+      "title": "CNAS: Constrained neural architecture search",
+      "year": 2022,
+      "authors": "M Gambella, A Falcetta, M Roveri",
+      "venue": "2022 IEEE International Conference on Systems, Man, and Cybernetics (SMC … , 2022",
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=j2NbakMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=j2NbakMAAAAJ:t7zJ5fGR-2UC",
+      "doi": null,
+      "preprint": false,
+      "sources": [
+        "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=j2NbakMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=j2NbakMAAAAJ:t7zJ5fGR-2UC"
+      ],
+      "members": [
+        "Manuel Roveri"
+      ]
+    },
+    {
+      "title": "Is tiny deep learning the new deep learning?",
+      "year": 2022,
+      "authors": "M Roveri",
+      "venue": "Computational Intelligence and Data Analytics: Proceedings of ICCIDA 2022, 23-39 , 2022",
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=j2NbakMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=j2NbakMAAAAJ:35r97b3x0nAC",
+      "doi": null,
+      "preprint": false,
+      "sources": [
+        "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=j2NbakMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=j2NbakMAAAAJ:35r97b3x0nAC"
+      ],
+      "members": [
+        "Manuel Roveri"
+      ]
+    },
+    {
+      "title": "Privacy-preserving deep learning with homomorphic encryption: An introduction",
+      "year": 2022,
+      "authors": "A Falcetta, M Roveri",
+      "venue": "IEEE Computational Intelligence Magazine 17 (3), 14-25 , 2022",
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=j2NbakMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=j2NbakMAAAAJ:evX43VCCuoAC",
+      "doi": null,
+      "preprint": false,
+      "sources": [
+        "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=j2NbakMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=j2NbakMAAAAJ:evX43VCCuoAC"
+      ],
+      "members": [
+        "Manuel Roveri"
+      ]
+    },
+    {
+      "title": "Privacy-preserving time series prediction with temporal convolutional neural networks",
+      "year": 2022,
+      "authors": "A Falcetta, M Roveri",
+      "venue": "2022 International Joint Conference on Neural Networks (IJCNN), 1-8 , 2022",
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=j2NbakMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=j2NbakMAAAAJ:fEOibwPWpKIC",
+      "doi": null,
+      "preprint": false,
+      "sources": [
+        "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=j2NbakMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=j2NbakMAAAAJ:fEOibwPWpKIC"
+      ],
+      "members": [
+        "Manuel Roveri"
+      ]
+    },
+    {
+      "title": "TinyML for UWB-radar based presence detection",
+      "year": 2022,
+      "authors": "M Pavan, A Caltabiano, M Roveri",
+      "venue": "2022 International Joint Conference on Neural Networks (IJCNN), 1-8 , 2022",
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=j2NbakMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=j2NbakMAAAAJ:-_dYPAW6P2MC",
+      "doi": null,
+      "preprint": false,
+      "sources": [
+        "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=j2NbakMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=j2NbakMAAAAJ:-_dYPAW6P2MC"
+      ],
+      "members": [
+        "Manuel Roveri"
+      ]
+    },
+    {
+      "title": "Pgt: a prompt based generative transformer for the patent domain",
+      "year": 2022,
+      "authors": "D Christofidellis, AB Torres, A Dave, M Roveri, K Schmidt, S Swaminathan, ...",
+      "venue": "ICML 2022 workshop on knowledge retrieval and language models , 2022",
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=j2NbakMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=j2NbakMAAAAJ:NJ774b8OgUMC",
+      "doi": null,
+      "preprint": false,
+      "sources": [
+        "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=j2NbakMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=j2NbakMAAAAJ:NJ774b8OgUMC"
+      ],
+      "members": [
+        "Manuel Roveri"
+      ]
+    },
+    {
+      "title": "A transfer-learning approach for corrosion prediction in pipeline infrastructures",
+      "year": 2022,
+      "authors": "G Canonaco, M Roveri, C Alippi, F Podenzani, A Bennardo, M Conti, ...",
+      "venue": "Applied Intelligence 52 (7), 7622-7637 , 2022",
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=j2NbakMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=j2NbakMAAAAJ:UHK10RUVsp4C",
+      "doi": null,
+      "preprint": false,
+      "sources": [
+        "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=j2NbakMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=j2NbakMAAAAJ:UHK10RUVsp4C"
+      ],
+      "members": [
+        "Manuel Roveri"
+      ]
+    },
+    {
+      "title": "Leak detection and localization in water distribution networks by combining expert knowledge and data-driven models",
+      "year": 2022,
+      "authors": "A Soldevila, G Boracchi, M Roveri, S Tornil-Sin, V Puig",
+      "venue": "Neural Computing and Applications 34 (6), 4759-4779 , 2022",
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=j2NbakMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=j2NbakMAAAAJ:uLbwQdceFCQC",
+      "doi": null,
+      "preprint": false,
+      "sources": [
+        "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=j2NbakMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=j2NbakMAAAAJ:uLbwQdceFCQC"
+      ],
+      "members": [
+        "Manuel Roveri"
+      ]
+    },
+    {
+      "title": "Guest editorial: Computational intelligence for human-in-the-loop cyber physical systems",
+      "year": 2022,
+      "authors": "A Jolfaei, M Usman, M Roveri, M Sheng, M Palaniswami, K Kant",
+      "venue": "IEEE Transactions on Emerging Topics in Computational Intelligence 6 (1), 2-5 , 2022",
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=j2NbakMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=j2NbakMAAAAJ:_Ybze24A_UAC",
+      "doi": null,
+      "preprint": false,
+      "sources": [
+        "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=j2NbakMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=j2NbakMAAAAJ:_Ybze24A_UAC"
+      ],
+      "members": [
+        "Manuel Roveri"
+      ]
+    },
+    {
+      "title": "T4C: A Framework for Time-Series Clustering-as-a-Service",
+      "year": 2022,
+      "authors": "A Falcetta, M Roveri",
+      "venue": "CEUR WORKSHOP PROCEEDINGS 3252, 1-10 , 2022",
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=j2NbakMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=j2NbakMAAAAJ:VLnqNzywnoUC",
+      "doi": null,
+      "preprint": false,
+      "sources": [
+        "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=j2NbakMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=j2NbakMAAAAJ:VLnqNzywnoUC"
+      ],
+      "members": [
+        "Manuel Roveri"
+      ]
+    },
+    {
+      "title": "On-device subject recognition in UWB-radar data with Tiny Machine Learning",
+      "year": 2022,
+      "authors": "M Pavan, A Caltabiano, M Roveri",
+      "venue": "CEUR Workshop Proceedings 3252, 1-8 , 2022",
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=j2NbakMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=j2NbakMAAAAJ:uJ-U7cs_P_0C",
+      "doi": null,
+      "preprint": false,
+      "sources": [
+        "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=j2NbakMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=j2NbakMAAAAJ:uJ-U7cs_P_0C"
+      ],
+      "members": [
+        "Manuel Roveri"
+      ]
+    },
+    {
+      "title": "AI, Machine Learning e Data Mining",
+      "year": 2022,
+      "authors": "A Bonarini, C Alippi, M Colombetti, F Amigoni, G Boracchi, V Caglioti, ...",
+      "venue": "POLITECNICA 40, 225-236 , 2022",
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=j2NbakMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=j2NbakMAAAAJ:kzcrU_BdoSEC",
+      "doi": null,
+      "preprint": false,
+      "sources": [
+        "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=j2NbakMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=j2NbakMAAAAJ:kzcrU_BdoSEC"
+      ],
+      "members": [
+        "Manuel Roveri"
+      ]
+    },
+    {
+      "title": "Time-variant variational transfer for value functions",
+      "year": 2021,
+      "authors": "G Canonaco, A Soprani, M Giuliani, A Castelletti, M Roveri, M Restelli",
+      "venue": "Uncertainty in artificial intelligence, 876-886 , 2021",
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=j2NbakMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=j2NbakMAAAAJ:dTyEYWd-f8wC",
+      "doi": null,
+      "preprint": false,
+      "sources": [
+        "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=j2NbakMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=j2NbakMAAAAJ:dTyEYWd-f8wC"
+      ],
+      "members": [
+        "Manuel Roveri"
+      ]
+    },
+    {
+      "title": "Birdsong detection at the edge with deep learning",
+      "year": 2021,
+      "authors": "S Disabato, G Canonaco, PG Flikkema, M Roveri, C Alippi",
+      "venue": "2021 IEEE international conference on smart computing (SMARTCOMP), 9-16 , 2021",
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=j2NbakMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=j2NbakMAAAAJ:JQOojiI6XY0C",
+      "doi": null,
+      "preprint": false,
+      "sources": [
+        "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=j2NbakMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=j2NbakMAAAAJ:JQOojiI6XY0C"
+      ],
+      "members": [
+        "Manuel Roveri"
+      ]
+    },
+    {
+      "title": "Adaptive federated learning in presence of concept drift",
+      "year": 2021,
+      "authors": "G Canonaco, A Bergamasco, A Mongelluzzo, M Roveri",
+      "venue": "2021 International Joint Conference on Neural Networks (IJCNN), 1-7 , 2021",
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=j2NbakMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=j2NbakMAAAAJ:dQ2og3OwTAUC",
+      "doi": null,
+      "preprint": false,
+      "sources": [
+        "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=j2NbakMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=j2NbakMAAAAJ:dQ2og3OwTAUC"
+      ],
+      "members": [
+        "Manuel Roveri"
+      ]
+    },
+    {
+      "title": "A machine-learning approach for the prediction of internal corrosion in pipeline infrastructures",
+      "year": 2021,
+      "authors": "G Canonaco, M Roveri, C Alippi, F Podenzani, A Bennardo, M Conti, ...",
+      "venue": "2021 IEEE International Instrumentation and Measurement Technology … , 2021",
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=j2NbakMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=j2NbakMAAAAJ:1yQoGdGgb4wC",
+      "doi": null,
+      "preprint": false,
+      "sources": [
+        "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=j2NbakMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=j2NbakMAAAAJ:1yQoGdGgb4wC"
+      ],
+      "members": [
+        "Manuel Roveri"
+      ]
+    },
+    {
+      "title": "RECKONition: a NLP-based system for industrial accidents at work prevention",
+      "year": 2021,
+      "authors": "P Agnello, SM Ansaldi, E Lenzi, A Mongelluzzo, M Roveri",
+      "venue": "arXiv preprint arXiv:2104.14150 , 2021",
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=j2NbakMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=j2NbakMAAAAJ:VL0QpB8kHFEC",
+      "doi": null,
+      "preprint": true,
+      "sources": [
+        "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=j2NbakMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=j2NbakMAAAAJ:VL0QpB8kHFEC"
+      ],
+      "members": [
+        "Manuel Roveri"
+      ]
+    },
+    {
+      "title": "Distributed deep convolutional neural networks for the internet-of-things",
+      "year": 2021,
+      "authors": "S Disabato, M Roveri, C Alippi",
+      "venue": "IEEE Transactions on computers 70 (8), 1239-1252 , 2021",
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=j2NbakMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=j2NbakMAAAAJ:Mojj43d5GZwC",
+      "doi": null,
+      "preprint": false,
+      "sources": [
+        "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=j2NbakMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=j2NbakMAAAAJ:Mojj43d5GZwC"
+      ],
+      "members": [
+        "Manuel Roveri"
+      ]
+    },
+    {
+      "title": "Learning in non-stationary environments: from a specific application to more general algorithms",
+      "year": 2021,
+      "authors": "G Canonaco",
+      "venue": "Venue not specified",
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=j2NbakMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=j2NbakMAAAAJ:Ri6SYOTghG4C",
+      "doi": null,
+      "preprint": false,
+      "sources": [
+        "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=j2NbakMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=j2NbakMAAAAJ:Ri6SYOTghG4C"
+      ],
+      "members": [
+        "Manuel Roveri"
+      ]
+    },
+    {
+      "title": "Reckon: a real-world, context-aware knowledge-based lab",
+      "year": 2021,
+      "authors": "P Agnello, SM Ansaldi, E Lenzi, A Mongelluzzo, D Piantella, M Roveri, ...",
+      "venue": "29th Italian Symposium on Advanced Database Systems, SEBD 2994, 466-473 , 2021",
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=j2NbakMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=j2NbakMAAAAJ:hkOj_22Ku90C",
+      "doi": null,
+      "preprint": false,
+      "sources": [
+        "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=j2NbakMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=j2NbakMAAAAJ:hkOj_22Ku90C"
+      ],
+      "members": [
+        "Manuel Roveri"
+      ]
+    },
+    {
+      "title": "Incremental on-device tiny machine learning",
+      "year": 2020,
+      "authors": "S Disabato, M Roveri",
+      "venue": "Proceedings of the 2nd International workshop on challenges in artificial … , 2020",
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=j2NbakMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=j2NbakMAAAAJ:LjlpjdlvIbIC",
+      "doi": null,
+      "preprint": false,
+      "sources": [
+        "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=j2NbakMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=j2NbakMAAAAJ:LjlpjdlvIbIC"
+      ],
+      "members": [
+        "Manuel Roveri"
+      ]
+    },
+    {
+      "title": "Guest editorial special issue on recent advances in theory, methodology, and applications of imbalanced learning",
+      "year": 2020,
+      "authors": "JH Xue, Z Ma, M Roveri, N Japkowicz",
+      "venue": "IEEE Transactions on Neural Networks and Learning Systems 31 (8), 2688-2690 , 2020",
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=j2NbakMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=j2NbakMAAAAJ:WqliGbK-hY8C",
+      "doi": null,
+      "preprint": false,
+      "sources": [
+        "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=j2NbakMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=j2NbakMAAAAJ:WqliGbK-hY8C"
+      ],
+      "members": [
+        "Manuel Roveri"
+      ]
+    },
+    {
+      "title": "A Computational Intelligence Characterization of Solar Magnetograms",
+      "year": 2020,
+      "authors": "JJ Valdés, L Nikolić, S Disabato, M Roveri",
+      "venue": "2020 International Joint Conference on Neural Networks (IJCNN), 1-8 , 2020",
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=j2NbakMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=j2NbakMAAAAJ:L7CI7m0gUJcC",
+      "doi": null,
+      "preprint": false,
+      "sources": [
+        "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=j2NbakMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=j2NbakMAAAAJ:L7CI7m0gUJcC"
+      ],
+      "members": [
+        "Manuel Roveri"
+      ]
+    },
+    {
+      "title": "A privacy-preserving distributed architecture for deep-learning-as-a-service",
+      "year": 2020,
+      "authors": "S Disabato, A Falcetta, A Mongelluzzo, M Roveri",
+      "venue": "2020 International Joint Conference on Neural Networks (IJCNN), 1-8 , 2020",
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=j2NbakMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=j2NbakMAAAAJ:PELIpwtuRlgC",
+      "doi": null,
+      "preprint": false,
+      "sources": [
+        "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=j2NbakMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=j2NbakMAAAAJ:PELIpwtuRlgC"
+      ],
+      "members": [
+        "Manuel Roveri"
+      ]
+    },
+    {
+      "title": "An energy harvesting solution for computation offloading in Fog Computing networks",
+      "year": 2020,
+      "authors": "A Bozorgchenani, S Disabato, D Tarchi, M Roveri",
+      "venue": "Computer Communications 160, 577-587 , 2020",
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=j2NbakMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=j2NbakMAAAAJ:eq2jaN3J8jMC",
+      "doi": null,
+      "preprint": false,
+      "sources": [
+        "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=j2NbakMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=j2NbakMAAAAJ:eq2jaN3J8jMC"
+      ],
+      "members": [
+        "Manuel Roveri"
+      ]
+    },
+    {
+      "title": "Prototyping and metrological characterization of a data acquisition and processing system based on edge computing",
+      "year": 2020,
+      "authors": "G Lorenzini, F Conti, GRM Parenti, D Scaccabarozzi, M Roveri, ...",
+      "venue": "2020 IEEE International Workshop on Metrology for Industry 4.0 & IoT, 162-166 , 2020",
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=j2NbakMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=j2NbakMAAAAJ:5awf1xo2G04C",
+      "doi": null,
+      "preprint": false,
+      "sources": [
+        "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=j2NbakMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=j2NbakMAAAAJ:5awf1xo2G04C"
+      ],
+      "members": [
+        "Manuel Roveri"
+      ]
+    },
+    {
+      "title": "Corrosion prediction in oil and gas pipelines: a machine learning approach",
+      "year": 2020,
+      "authors": "G Canonaco, M Roveri, C Alippi, F Podenzani, A Bennardo, M Conti, ...",
+      "venue": "2020 IEEE international instrumentation and measurement technology … , 2020",
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=j2NbakMAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=j2NbakMAAAAJ:SdhP9T11ey4C",
+      "doi": null,
+      "preprint": false,
+      "sources": [
+        "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=j2NbakMAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=j2NbakMAAAAJ:SdhP9T11ey4C"
+      ],
+      "members": [
+        "Manuel Roveri"
+      ]
+    },
+    {
+      "title": "Method and system for object detection and classification",
+      "year": 2020,
+      "authors": "AL BASSO, M GALIMBERTI, C ALIPPI, G BORACCHI, M ROVERI",
+      "venue": "US Patent App. 16/620,651 , 2020",
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=j2NbakMAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=j2NbakMAAAAJ:JoZmwDi-zQgC",
+      "doi": null,
+      "preprint": false,
+      "sources": [
+        "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=j2NbakMAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=j2NbakMAAAAJ:JoZmwDi-zQgC"
+      ],
+      "members": [
+        "Manuel Roveri"
+      ]
+    },
+    {
+      "title": "Model-free non-stationarity detection and adaptation in reinforcement learning",
+      "year": 2020,
+      "authors": "G Canonaco, M Restelli, M Roveri",
+      "venue": "ECAI 2020: 24th European Conference on Artificial Intelligence, 29 August–8 … , 2020",
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=j2NbakMAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=j2NbakMAAAAJ:9vf0nzSNQJEC",
+      "doi": null,
+      "preprint": false,
+      "sources": [
+        "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=j2NbakMAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=j2NbakMAAAAJ:9vf0nzSNQJEC"
+      ],
+      "members": [
+        "Manuel Roveri"
+      ]
+    },
+    {
+      "title": "False data detection for fog and internet of things networks",
+      "year": 2019,
+      "authors": "R Fantacci, F Nizzi, T Pecorella, L Pierucci, M Roveri",
+      "venue": "Sensors 19 (19), 4235 , 2019",
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=j2NbakMAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=j2NbakMAAAAJ:AXPGKjj_ei8C",
+      "doi": null,
+      "preprint": false,
+      "sources": [
+        "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=j2NbakMAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=j2NbakMAAAAJ:AXPGKjj_ei8C"
+      ],
+      "members": [
+        "Manuel Roveri"
+      ]
+    },
+    {
+      "title": "Learning convolutional neural networks in presence of concept drift",
+      "year": 2019,
+      "authors": "S Disabato, M Roveri",
+      "venue": "2019 International Joint Conference on Neural Networks (IJCNN), 1-8 , 2019",
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=j2NbakMAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=j2NbakMAAAAJ:eMMeJKvmdy0C",
+      "doi": null,
+      "preprint": false,
+      "sources": [
+        "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=j2NbakMAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=j2NbakMAAAAJ:eMMeJKvmdy0C"
+      ],
+      "members": [
+        "Manuel Roveri"
+      ]
+    },
+    {
+      "title": "INDIANA: An interactive system for assisting database exploration",
+      "year": 2019,
+      "authors": "A Giuzio, G Mecca, E Quintarelli, M Roveri, D Santoro, L Tanca",
+      "venue": "Information Systems 83, 40-56 , 2019",
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=j2NbakMAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=j2NbakMAAAAJ:t6usbXjVLHcC",
+      "doi": null,
+      "preprint": false,
+      "sources": [
+        "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=j2NbakMAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=j2NbakMAAAAJ:t6usbXjVLHcC"
+      ],
+      "members": [
+        "Manuel Roveri"
+      ]
+    },
+    {
+      "title": "Learning discrete-time markov chains under concept drift",
+      "year": 2019,
+      "authors": "M Roveri",
+      "venue": "IEEE transactions on neural networks and learning systems 30 (9), 2570-2582 , 2019",
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=j2NbakMAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=j2NbakMAAAAJ:bnK-pcrLprsC",
+      "doi": null,
+      "preprint": false,
+      "sources": [
+        "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=j2NbakMAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=j2NbakMAAAAJ:bnK-pcrLprsC"
+      ],
+      "members": [
+        "Manuel Roveri"
+      ]
+    },
+    {
+      "title": "Intelligent cyber-physical systems for industry 4.0",
+      "year": 2018,
+      "authors": "D Cogliati, M Falchetto, D Pau, M Roveri, G Viscardi",
+      "venue": "2018 First International Conference on Artificial Intelligence for … , 2018",
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=j2NbakMAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=j2NbakMAAAAJ:HE397vMXCloC",
+      "doi": null,
+      "preprint": false,
+      "sources": [
+        "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=j2NbakMAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=j2NbakMAAAAJ:HE397vMXCloC"
+      ],
+      "members": [
+        "Manuel Roveri"
+      ]
+    },
+    {
+      "title": "Reducing the computation load of convolutional neural networks through gate classification",
+      "year": 2018,
+      "authors": "S Disabato, M Roveri",
+      "venue": "2018 International Joint Conference on Neural Networks (IJCNN), 1-8 , 2018",
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=j2NbakMAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=j2NbakMAAAAJ:kRWSkSYxWN8C",
+      "doi": null,
+      "preprint": false,
+      "sources": [
+        "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=j2NbakMAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=j2NbakMAAAAJ:kRWSkSYxWN8C"
+      ],
+      "members": [
+        "Manuel Roveri"
+      ]
+    },
+    {
+      "title": "Capacity Planning of Fog Computing",
+      "year": 2018,
+      "authors": "R Pinciroli, M Gribaudo, M Roveri, G Serazzi",
+      "venue": "New Frontiers in Quantitative Methods in Informatics: 7th Workshop, InfQ … , 2018",
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=j2NbakMAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=j2NbakMAAAAJ:WJVC3Jt7v1AC",
+      "doi": null,
+      "preprint": false,
+      "sources": [
+        "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=j2NbakMAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=j2NbakMAAAAJ:WJVC3Jt7v1AC"
+      ],
+      "members": [
+        "Manuel Roveri"
+      ]
+    },
+    {
+      "title": "Moving convolutional neural networks to embedded systems: the alexnet and VGG-16 case",
+      "year": 2018,
+      "authors": "C Alippi, S Disabato, M Roveri",
+      "venue": "2018 17th ACM/IEEE International Conference on Information Processing in … , 2018",
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=j2NbakMAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=j2NbakMAAAAJ:eJXPG6dFmWUC",
+      "doi": null,
+      "preprint": false,
+      "sources": [
+        "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=j2NbakMAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=j2NbakMAAAAJ:eJXPG6dFmWUC"
+      ],
+      "members": [
+        "Manuel Roveri"
+      ]
+    },
+    {
+      "title": "METHOD AND SYSTEM FOR OBJECT DETECTION AND CLASSIFICATION",
+      "year": 2018,
+      "authors": "M Roveri, C Alippi, G Boracchi, A Basso, M Galimberti",
+      "venue": "Venue not specified",
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=j2NbakMAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=j2NbakMAAAAJ:_B80troHkn4C",
+      "doi": null,
+      "preprint": false,
+      "sources": [
+        "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=j2NbakMAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=j2NbakMAAAAJ:_B80troHkn4C"
+      ],
+      "members": [
+        "Manuel Roveri"
+      ]
+    },
+    {
+      "title": "Capacity planning of fog computing infrastructures for smart monitoring",
+      "year": 2017,
+      "authors": "R Pinciroli, M Gribaudo, M Roveri, G Serazzi",
+      "venue": "Workshop on New Frontiers in Quantitative Methods in Informatics, 72-81 , 2017",
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=j2NbakMAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=j2NbakMAAAAJ:D_sINldO8mEC",
+      "doi": null,
+      "preprint": false,
+      "sources": [
+        "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=j2NbakMAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=j2NbakMAAAAJ:D_sINldO8mEC"
+      ],
+      "members": [
+        "Manuel Roveri"
+      ]
+    },
+    {
+      "title": "Above and Below the Ocean Surface: A WSN Framework for Monitoring the Great Barrier Reef",
+      "year": 2017,
+      "authors": "C Alippi, M Roveri",
+      "venue": "Building Sensor Networks: From Design to Applications, 271-289 , 2017",
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=j2NbakMAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=j2NbakMAAAAJ:N5tVd3kTz84C",
+      "doi": null,
+      "preprint": false,
+      "sources": [
+        "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=j2NbakMAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=j2NbakMAAAAJ:N5tVd3kTz84C"
+      ],
+      "members": [
+        "Manuel Roveri"
+      ]
+    },
+    {
+      "title": "An Improved Hilbert-Huang Transform for Non-linear and Time-Variant Signals",
+      "year": 2017,
+      "authors": "C Alippi, W Qi, M Roveri",
+      "venue": "Multidisciplinary Approaches to Neural Computing, 109-117 , 2017",
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=j2NbakMAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=j2NbakMAAAAJ:sSrBHYA8nusC",
+      "doi": null,
+      "preprint": false,
+      "sources": [
+        "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=j2NbakMAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=j2NbakMAAAAJ:sSrBHYA8nusC"
+      ],
+      "members": [
+        "Manuel Roveri"
+      ]
+    },
+    {
+      "title": "A spectrum-based adaptive sampling algorithm for smart sensing",
+      "year": 2017,
+      "authors": "I Scarabottolo, C Alippi, M Roveri",
+      "venue": "2017 IEEE SmartWorld, Ubiquitous Intelligence & Computing, Advanced … , 2017",
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=j2NbakMAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=j2NbakMAAAAJ:fQNAKQ3IYiAC",
+      "doi": null,
+      "preprint": false,
+      "sources": [
+        "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=j2NbakMAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=j2NbakMAAAAJ:fQNAKQ3IYiAC"
+      ],
+      "members": [
+        "Manuel Roveri"
+      ]
+    },
+    {
+      "title": "Learning in nonstationary environments: A hybrid approach",
+      "year": 2017,
+      "authors": "C Alippi, W Qi, M Roveri",
+      "venue": "International Conference on Artificial Intelligence and Soft Computing, 703-714 , 2017",
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=j2NbakMAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=j2NbakMAAAAJ:vRqMK49ujn8C",
+      "doi": null,
+      "preprint": false,
+      "sources": [
+        "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=j2NbakMAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=j2NbakMAAAAJ:vRqMK49ujn8C"
+      ],
+      "members": [
+        "Manuel Roveri"
+      ]
+    },
+    {
+      "title": "Detecting changes at the sensor level in cyber-physical systems: Methodology and technological implementation",
+      "year": 2017,
+      "authors": "C Alippi, V D'Alto, M Falchetto, D Pau, M Roveri",
+      "venue": "2017 International Joint Conference on Neural Networks (IJCNN), 1780-1786 , 2017",
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=j2NbakMAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=j2NbakMAAAAJ:4fKUyHm3Qg0C",
+      "doi": null,
+      "preprint": false,
+      "sources": [
+        "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=j2NbakMAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=j2NbakMAAAAJ:4fKUyHm3Qg0C"
+      ],
+      "members": [
+        "Manuel Roveri"
+      ]
+    },
+    {
+      "title": "An ensemble approach for cognitive fault detection and isolation in sensor networks",
+      "year": 2017,
+      "authors": "M Roveri, F Trovò",
+      "venue": "International journal of neural systems 27 (03), 1650047 , 2017",
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=j2NbakMAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=j2NbakMAAAAJ:SP6oXDckpogC",
+      "doi": null,
+      "preprint": false,
+      "sources": [
+        "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=j2NbakMAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=j2NbakMAAAAJ:SP6oXDckpogC"
+      ],
+      "members": [
+        "Manuel Roveri"
+      ]
+    },
+    {
+      "title": "The (not) far-away path to smart cyber-physical systems: An information-centric framework",
+      "year": 2017,
+      "authors": "C Alippi, M Roveri",
+      "venue": "Computer 50 (4), 38-47 , 2017",
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=j2NbakMAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=j2NbakMAAAAJ:tOudhMTPpwUC",
+      "doi": null,
+      "preprint": false,
+      "sources": [
+        "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=j2NbakMAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=j2NbakMAAAAJ:tOudhMTPpwUC"
+      ],
+      "members": [
+        "Manuel Roveri"
+      ]
+    },
+    {
+      "title": "INDIANA the Database Explorer",
+      "year": 2017,
+      "authors": "A Giuzio, G Mecca, E Quintarelli, M Roveri, D Santoro, L Tanca",
+      "venue": "Technical Report. Università della Basilicata, Politecnico di Milano , 2017",
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=j2NbakMAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=j2NbakMAAAAJ:l7t_Zn2s7bgC",
+      "doi": null,
+      "preprint": false,
+      "sources": [
+        "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=j2NbakMAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=j2NbakMAAAAJ:l7t_Zn2s7bgC"
+      ],
+      "members": [
+        "Manuel Roveri"
+      ]
+    },
+    {
+      "title": "A lightweight and energy-efficient Internet-of-birds tracking system",
+      "year": 2017,
+      "authors": "C Alippi, R Ambrosini, V Longoni, D Cogliati, M Roveri",
+      "venue": "2017 IEEE International Conference on Pervasive Computing and Communications … , 2017",
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=j2NbakMAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=j2NbakMAAAAJ:08ZZubdj9fEC",
+      "doi": null,
+      "preprint": false,
+      "sources": [
+        "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=j2NbakMAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=j2NbakMAAAAJ:08ZZubdj9fEC"
+      ],
+      "members": [
+        "Manuel Roveri"
+      ]
+    },
+    {
+      "title": "Dispositivo e procedimento di rilevazione",
+      "year": 2017,
+      "authors": "C Alippi, M Roveri, G Boracchi, A Basso, M Galimberti",
+      "venue": "Venue not specified",
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=j2NbakMAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=j2NbakMAAAAJ:mvPsJ3kp5DgC",
+      "doi": null,
+      "preprint": false,
+      "sources": [
+        "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=j2NbakMAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=j2NbakMAAAAJ:mvPsJ3kp5DgC"
+      ],
+      "members": [
+        "Manuel Roveri"
+      ]
+    },
+    {
+      "title": "Model-free fault detection and isolation in large-scale cyber-physical systems",
+      "year": 2016,
+      "authors": "C Alippi, S Ntalampiras, M Roveri",
+      "venue": "IEEE Transactions on Emerging Topics in Computational Intelligence 1 (1), 61-71 , 2016",
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=j2NbakMAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=j2NbakMAAAAJ:Tiz5es2fbqcC",
+      "doi": null,
+      "preprint": false,
+      "sources": [
+        "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=j2NbakMAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=j2NbakMAAAAJ:Tiz5es2fbqcC"
+      ],
+      "members": [
+        "Manuel Roveri"
+      ]
+    },
+    {
+      "title": "A cloud to the ground: The new frontier of intelligent and autonomous networks of things",
+      "year": 2016,
+      "authors": "C Alippi, R Fantacci, D Marabissi, M Roveri",
+      "venue": "IEEE Communications Magazine 54 (12), 14-20 , 2016",
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=j2NbakMAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=j2NbakMAAAAJ:XiSMed-E-HIC",
+      "doi": null,
+      "preprint": false,
+      "sources": [
+        "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=j2NbakMAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=j2NbakMAAAAJ:XiSMed-E-HIC"
+      ],
+      "members": [
+        "Manuel Roveri"
+      ]
+    },
+    {
+      "title": "An incremental learning mechanism for human activity recognition",
+      "year": 2016,
+      "authors": "S Ntalampiras, M Roveri",
+      "venue": "2016 IEEE symposium series on computational intelligence (SSCI), 1-6 , 2016",
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=j2NbakMAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=j2NbakMAAAAJ:WbkHhVStYXYC",
+      "doi": null,
+      "preprint": false,
+      "sources": [
+        "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=j2NbakMAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=j2NbakMAAAAJ:WbkHhVStYXYC"
+      ],
+      "members": [
+        "Manuel Roveri"
+      ]
+    },
+    {
+      "title": "Designing HMMs in the age of big data",
+      "year": 2016,
+      "authors": "C Alippi, S Ntalampiras, M Roveri",
+      "venue": "INNS Conference on Big Data, 120-130 , 2016",
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=j2NbakMAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=j2NbakMAAAAJ:OU6Ihb5iCvQC",
+      "doi": null,
+      "preprint": false,
+      "sources": [
+        "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=j2NbakMAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=j2NbakMAAAAJ:OU6Ihb5iCvQC"
+      ],
+      "members": [
+        "Manuel Roveri"
+      ]
+    },
+    {
+      "title": "A CPM-Based Change Detection Test for Big Data",
+      "year": 2016,
+      "authors": "G Tacconelli, M Roveri",
+      "venue": "INNS Conference on Big Data, 100-110 , 2016",
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=j2NbakMAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=j2NbakMAAAAJ:uWQEDVKXjbEC",
+      "doi": null,
+      "preprint": false,
+      "sources": [
+        "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=j2NbakMAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=j2NbakMAAAAJ:uWQEDVKXjbEC"
+      ],
+      "members": [
+        "Manuel Roveri"
+      ]
+    },
+    {
+      "title": "A cognitive monitoring system for detecting and isolating contaminants and faults in intelligent buildings",
+      "year": 2016,
+      "authors": "G Boracchi, M Michaelides, M Roveri",
+      "venue": "IEEE Transactions on Systems, Man, and Cybernetics: Systems 48 (3), 433-447 , 2016",
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=j2NbakMAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=j2NbakMAAAAJ:p2g8aNsByqUC",
+      "doi": null,
+      "preprint": false,
+      "sources": [
+        "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=j2NbakMAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=j2NbakMAAAAJ:p2g8aNsByqUC"
+      ],
+      "members": [
+        "Manuel Roveri"
+      ]
+    },
+    {
+      "title": "Model-vs. data-based approaches applied to fault diagnosis in potable water supply networks",
+      "year": 2016,
+      "authors": "MÀ Cugueró-Escofet, J Quevedo, C Alippi, M Roveri, V Puig, D García, ...",
+      "venue": "Journal of Hydroinformatics 18 (5), 831-850 , 2016",
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=j2NbakMAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=j2NbakMAAAAJ:dshw04ExmUIC",
+      "doi": null,
+      "preprint": false,
+      "sources": [
+        "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=j2NbakMAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=j2NbakMAAAAJ:dshw04ExmUIC"
+      ],
+      "members": [
+        "Manuel Roveri"
+      ]
+    },
+    {
+      "title": "Online model-free sensor fault identification and dictionary learning in cyber-physical systems",
+      "year": 2016,
+      "authors": "C Alippi, S Ntalampiras, M Roveri",
+      "venue": "2016 International joint conference on neural networks (IJCNN), 756-762 , 2016",
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=j2NbakMAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=j2NbakMAAAAJ:u9iWguZQMMsC",
+      "doi": null,
+      "preprint": false,
+      "sources": [
+        "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=j2NbakMAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=j2NbakMAAAAJ:u9iWguZQMMsC"
+      ],
+      "members": [
+        "Manuel Roveri"
+      ]
+    },
+    {
+      "title": "Making intelligent the embedded systems through cognitive outlier and fault detection",
+      "year": 2016,
+      "authors": "M Roveri, F Trovò",
+      "venue": "Advances in Neural Networks: Computational Intelligence for ICT, 381-390 , 2016",
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=j2NbakMAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=j2NbakMAAAAJ:UxriW0iASnsC",
+      "doi": null,
+      "preprint": false,
+      "sources": [
+        "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=j2NbakMAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=j2NbakMAAAAJ:UxriW0iASnsC"
+      ],
+      "members": [
+        "Manuel Roveri"
+      ]
+    },
+    {
+      "title": "Model-vs. data-based approaches applied to fault diagnosis in potable water supply networks",
+      "year": 2016,
+      "authors": "MÀ Cugueró, JJ Quevedo Casín, C Alippi, M Roveri, V Puig Cayuela, ...",
+      "venue": "Venue not specified",
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=j2NbakMAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=j2NbakMAAAAJ:ZuybSZzF8UAC",
+      "doi": null,
+      "preprint": false,
+      "sources": [
+        "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=j2NbakMAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=j2NbakMAAAAJ:ZuybSZzF8UAC"
+      ],
+      "members": [
+        "Manuel Roveri"
+      ]
+    },
+    {
+      "title": "Hierarchical change-detection tests",
+      "year": 2016,
+      "authors": "C Alippi, G Boracchi, M Roveri",
+      "venue": "IEEE transactions on neural networks and learning systems 28 (2), 246-258 , 2016",
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=j2NbakMAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=j2NbakMAAAAJ:xtRiw3GOFMkC",
+      "doi": null,
+      "preprint": false,
+      "sources": [
+        "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=j2NbakMAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=j2NbakMAAAAJ:xtRiw3GOFMkC"
+      ],
+      "members": [
+        "Manuel Roveri"
+      ]
+    },
+    {
+      "title": "Just-in-time adaptive algorithm for optimal parameter setting in 802.15. 4 WSNs",
+      "year": 2016,
+      "authors": "S Brienza, M Roveri, DD Guglielmo, G Anastasi",
+      "venue": "ACM Transactions on Autonomous and Adaptive Systems (TAAS) 10 (4), 1-26 , 2016",
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=j2NbakMAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=j2NbakMAAAAJ:pyW8ca7W8N0C",
+      "doi": null,
+      "preprint": false,
+      "sources": [
+        "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=j2NbakMAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=j2NbakMAAAAJ:pyW8ca7W8N0C"
+      ],
+      "members": [
+        "Manuel Roveri"
+      ]
+    },
+    {
+      "title": "Sistema per l'erogazione automatica di farmaci",
+      "year": 2016,
+      "authors": "C Alippi, M Roveri, G Viscardi",
+      "venue": "Venue not specified",
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=j2NbakMAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=j2NbakMAAAAJ:WA5NYHcadZ8C",
+      "doi": null,
+      "preprint": false,
+      "sources": [
+        "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=j2NbakMAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=j2NbakMAAAAJ:WA5NYHcadZ8C"
+      ],
+      "members": [
+        "Manuel Roveri"
+      ]
+    },
+    {
+      "title": "2015 IEEE Executive Staff",
+      "year": 2016,
+      "authors": "M ABU-KHALAF, AM ALIMI, AFR ARAUJO, AT AZAR, B BAESENS, ...",
+      "venue": "Venue not specified",
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=j2NbakMAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=j2NbakMAAAAJ:abG-DnoFyZgC",
+      "doi": null,
+      "preprint": false,
+      "sources": [
+        "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=j2NbakMAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=j2NbakMAAAAJ:abG-DnoFyZgC"
+      ],
+      "members": [
+        "Manuel Roveri"
+      ]
+    },
+    {
+      "title": "Detecting contaminants in smart buildings by exploiting temporal and spatial correlation",
+      "year": 2015,
+      "authors": "G Boracchi, M Michaelides, M Roveri",
+      "venue": "2015 IEEE Symposium Series on Computational Intelligence, 601-608 , 2015",
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=j2NbakMAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=j2NbakMAAAAJ:NhqRSupF_l8C",
+      "doi": null,
+      "preprint": false,
+      "sources": [
+        "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=j2NbakMAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=j2NbakMAAAAJ:NhqRSupF_l8C"
+      ],
+      "members": [
+        "Manuel Roveri"
+      ]
+    },
+    {
+      "title": "RTI Goes Wild : Radio Tomographic Imaging for Outdoor People Detection and Localization",
+      "year": 2015,
+      "authors": "C Alippi, M Bocca, G Boracchi, N Patwari, M Roveri",
+      "venue": "IEEE Transactions on Mobile Computing 15 (10), 2585-2598 , 2015",
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=j2NbakMAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=j2NbakMAAAAJ:35N4QoGY0k4C",
+      "doi": null,
+      "preprint": false,
+      "sources": [
+        "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=j2NbakMAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=j2NbakMAAAAJ:35N4QoGY0k4C"
+      ],
+      "members": [
+        "Manuel Roveri"
+      ]
+    },
+    {
+      "title": "Sensors and wireless sensor networks as data sources: models and languages",
+      "year": 2015,
+      "authors": "FA Schreiber, M Roveri",
+      "venue": "Data Management in Pervasive Systems, 69-92 , 2015",
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=j2NbakMAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=j2NbakMAAAAJ:bFI3QPDXJZMC",
+      "doi": null,
+      "preprint": false,
+      "sources": [
+        "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=j2NbakMAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=j2NbakMAAAAJ:bFI3QPDXJZMC"
+      ],
+      "members": [
+        "Manuel Roveri"
+      ]
+    },
+    {
+      "title": "Change detection in multivariate datastreams: Likelihood and detectability loss",
+      "year": 2015,
+      "authors": "C Alippi, G Boracchi, D Carrera, M Roveri",
+      "venue": "arXiv preprint arXiv:1510.04850 , 2015",
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=j2NbakMAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=j2NbakMAAAAJ:f2IySw72cVMC",
+      "doi": null,
+      "preprint": true,
+      "sources": [
+        "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=j2NbakMAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=j2NbakMAAAAJ:f2IySw72cVMC"
+      ],
+      "members": [
+        "Manuel Roveri"
+      ]
+    },
+    {
+      "title": "Learning in nonstationary environments: A survey",
+      "year": 2015,
+      "authors": "G Ditzler, M Roveri, C Alippi, R Polikar",
+      "venue": "IEEE Computational intelligence magazine 10 (4), 12-25 , 2015",
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=j2NbakMAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=j2NbakMAAAAJ:a0OBvERweLwC",
+      "doi": null,
+      "preprint": false,
+      "sources": [
+        "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=j2NbakMAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=j2NbakMAAAAJ:a0OBvERweLwC"
+      ],
+      "members": [
+        "Manuel Roveri"
+      ]
+    },
+    {
+      "title": "Towards a statistical framework for attribute comparison in very large relational databases",
+      "year": 2015,
+      "authors": "C Alippi, E Quintarelli, M Roveri, L Tanca",
+      "venue": "BOOK OF ABSTRACTS, 87 , 2015",
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=j2NbakMAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=j2NbakMAAAAJ:_xSYboBqXhAC",
+      "doi": null,
+      "preprint": false,
+      "sources": [
+        "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=j2NbakMAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=j2NbakMAAAAJ:_xSYboBqXhAC"
+      ],
+      "members": [
+        "Manuel Roveri"
+      ]
+    },
+    {
+      "title": "Database challenges for exploratory computing",
+      "year": 2015,
+      "authors": "M Buoncristiano, G Mecca, E Quintarelli, M Roveri, D Santoro, L Tanca",
+      "venue": "ACM SIGMOD Record 44 (2), 17-22 , 2015",
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=j2NbakMAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=j2NbakMAAAAJ:b0M2c_1WBrUC",
+      "doi": null,
+      "preprint": false,
+      "sources": [
+        "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=j2NbakMAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=j2NbakMAAAAJ:b0M2c_1WBrUC"
+      ],
+      "members": [
+        "Manuel Roveri"
+      ]
+    },
+    {
+      "title": "A reprogrammable and intelligent monitoring system for rock-collapse forecasting",
+      "year": 2015,
+      "authors": "C Alippi, G Boracchi, M Roveri",
+      "venue": "IEEE Systems Journal 10 (2), 733-744 , 2015",
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=j2NbakMAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=j2NbakMAAAAJ:zA6iFVUQeVQC",
+      "doi": null,
+      "preprint": false,
+      "sources": [
+        "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=j2NbakMAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=j2NbakMAAAAJ:zA6iFVUQeVQC"
+      ],
+      "members": [
+        "Manuel Roveri"
+      ]
+    },
+    {
+      "title": "Adaptive classifiers for nonstationary environments",
+      "year": 2015,
+      "authors": "C Alippi, G Boracchi, M Roveri, G Ditzler, R Polikar",
+      "venue": "Contemporary issues in systems science and engineering, 265-288 , 2015",
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=j2NbakMAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=j2NbakMAAAAJ:ZHo1McVdvXMC",
+      "doi": null,
+      "preprint": false,
+      "sources": [
+        "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=j2NbakMAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=j2NbakMAAAAJ:ZHo1McVdvXMC"
+      ],
+      "members": [
+        "Manuel Roveri"
+      ]
+    },
+    {
+      "title": "Transactions/Journals Department",
+      "year": 2015,
+      "authors": "M ABU-KHALAF, AM ALIMI, AFR ARAUJO, AT AZAR, B BAESENS, ...",
+      "venue": "Venue not specified",
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=j2NbakMAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=j2NbakMAAAAJ:CHSYGLWDkRkC",
+      "doi": null,
+      "preprint": false,
+      "sources": [
+        "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=j2NbakMAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=j2NbakMAAAAJ:CHSYGLWDkRkC"
+      ],
+      "members": [
+        "Manuel Roveri"
+      ]
+    },
+    {
+      "title": "Exploratory Computing: What is there for the Database Researcher?",
+      "year": 2015,
+      "authors": "M Buoncristiano, G Mecca, E Quintarelli, M Roveri, D Santoro, L Tanca",
+      "venue": "SEBD, 128-135 , 2015",
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=j2NbakMAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=j2NbakMAAAAJ:EUQCXRtRnyEC",
+      "doi": null,
+      "preprint": false,
+      "sources": [
+        "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=j2NbakMAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=j2NbakMAAAAJ:EUQCXRtRnyEC"
+      ],
+      "members": [
+        "Manuel Roveri"
+      ]
+    },
+    {
+      "title": "Learning causal dependencies to detect and diagnose faults in sensor networks",
+      "year": 2014,
+      "authors": "C Alippi, M Roveri, F Trovò",
+      "venue": "2014 IEEE Symposium on Intelligent Embedded Systems (IES), 34-41 , 2014",
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=j2NbakMAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=j2NbakMAAAAJ:M05iB0D1s5AC",
+      "doi": null,
+      "preprint": false,
+      "sources": [
+        "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=j2NbakMAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=j2NbakMAAAAJ:M05iB0D1s5AC"
+      ],
+      "members": [
+        "Manuel Roveri"
+      ]
+    },
+    {
+      "title": "GINGER: a minimizing-effects reprogramming paradigm for distributed sensor networks",
+      "year": 2014,
+      "authors": "A Antola, AL Mezzalira, M Roveri",
+      "venue": "2014 IEEE International Symposium on Robotic and Sensors Environments (ROSE … , 2014",
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=j2NbakMAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=j2NbakMAAAAJ:g5m5HwL7SMYC",
+      "doi": null,
+      "preprint": false,
+      "sources": [
+        "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=j2NbakMAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=j2NbakMAAAAJ:g5m5HwL7SMYC"
+      ],
+      "members": [
+        "Manuel Roveri"
+      ]
+    },
+    {
+      "title": "An ensemble of hmms for cognitive fault detection in distributed sensor networks",
+      "year": 2014,
+      "authors": "M Roveri, F Trovò",
+      "venue": "IFIP International Conference on Artificial Intelligence Applications and … , 2014",
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=j2NbakMAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=j2NbakMAAAAJ:ldfaerwXgEUC",
+      "doi": null,
+      "preprint": false,
+      "sources": [
+        "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=j2NbakMAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=j2NbakMAAAAJ:ldfaerwXgEUC"
+      ],
+      "members": [
+        "Manuel Roveri"
+      ]
+    },
+    {
+      "title": "Algorithms and Tools for Intelligent Monitoring of Critical Infrastructure Systems",
+      "year": 2014,
+      "authors": "C Alippi, R Camplani, A Marullo, M Roveri",
+      "venue": "Intelligent Monitoring, Control, and Security of Critical Infrastructure … , 2014",
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=j2NbakMAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=j2NbakMAAAAJ:2P1L_qKh6hAC",
+      "doi": null,
+      "preprint": false,
+      "sources": [
+        "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=j2NbakMAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=j2NbakMAAAAJ:2P1L_qKh6hAC"
+      ],
+      "members": [
+        "Manuel Roveri"
+      ]
+    },
+    {
+      "title": "A cognitive monitoring system for contaminant detection in intelligent buildings",
+      "year": 2014,
+      "authors": "G Boracchi, M Michaelides, M Roveri",
+      "venue": "2014 International Joint Conference on Neural Networks (IJCNN), 69-76 , 2014",
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=j2NbakMAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=j2NbakMAAAAJ:NaGl4SEjCO4C",
+      "doi": null,
+      "preprint": false,
+      "sources": [
+        "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=j2NbakMAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=j2NbakMAAAAJ:NaGl4SEjCO4C"
+      ],
+      "members": [
+        "Manuel Roveri"
+      ]
+    },
+    {
+      "title": "Exploiting self-similarity for change detection",
+      "year": 2014,
+      "authors": "G Boracchi, M Roveri",
+      "venue": "2014 International Joint Conference on Neural Networks (IJCNN), 3339-3346 , 2014",
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=j2NbakMAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=j2NbakMAAAAJ:RGFaLdJalmkC",
+      "doi": null,
+      "preprint": false,
+      "sources": [
+        "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=j2NbakMAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=j2NbakMAAAAJ:RGFaLdJalmkC"
+      ],
+      "members": [
+        "Manuel Roveri"
+      ]
+    },
+    {
+      "title": "A reconfigurable and element-wise ICI-based change-detection test for streaming data",
+      "year": 2014,
+      "authors": "G Boracchi, M Roveri",
+      "venue": "2014 IEEE International Conference on Computational Intelligence and Virtual … , 2014",
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=j2NbakMAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=j2NbakMAAAAJ:J_g5lzvAfSwC",
+      "doi": null,
+      "preprint": false,
+      "sources": [
+        "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=j2NbakMAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=j2NbakMAAAAJ:J_g5lzvAfSwC"
+      ],
+      "members": [
+        "Manuel Roveri"
+      ]
+    },
+    {
+      "title": "A self-building and cluster-based cognitive fault diagnosis system for sensor networks",
+      "year": 2014,
+      "authors": "C Alippi, M Roveri, F Trovo",
+      "venue": "IEEE Transactions on neural networks and learning systems 25 (6), 1021-1032 , 2014",
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=j2NbakMAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=j2NbakMAAAAJ:ns9cj8rnVeAC",
+      "doi": null,
+      "preprint": false,
+      "sources": [
+        "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=j2NbakMAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=j2NbakMAAAAJ:ns9cj8rnVeAC"
+      ],
+      "members": [
+        "Manuel Roveri"
+      ]
+    },
+    {
+      "title": "Rock collapse forecasting: A novel approach based on the classification of micro-acoustic signals in the wavelet domain",
+      "year": 2013,
+      "authors": "S Ntalampiras, M Roveri",
+      "venue": "SENSORS, 2013 IEEE, 1-4 , 2013",
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=j2NbakMAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=j2NbakMAAAAJ:BqipwSGYUEgC",
+      "doi": null,
+      "preprint": false,
+      "sources": [
+        "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=j2NbakMAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=j2NbakMAAAAJ:BqipwSGYUEgC"
+      ],
+      "members": [
+        "Manuel Roveri"
+      ]
+    },
+    {
+      "title": "A learning-based algorithm for optimal MAC parameters setting in IEEE 802.15. 4 wireless sensor networks",
+      "year": 2013,
+      "authors": "S Brienza, D De Guglielmo, C Alippi, G Anastasi, M Roveri",
+      "venue": "Proceedings of the 10th ACM symposium on Performance evaluation of wireless … , 2013",
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=j2NbakMAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=j2NbakMAAAAJ:hMod-77fHWUC",
+      "doi": null,
+      "preprint": false,
+      "sources": [
+        "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=j2NbakMAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=j2NbakMAAAAJ:hMod-77fHWUC"
+      ],
+      "members": [
+        "Manuel Roveri"
+      ]
+    },
+    {
+      "title": "Ensembles of change-point methods to estimate the change point in residual sequences",
+      "year": 2013,
+      "authors": "C Alippi, G Boracchi, M Roveri",
+      "venue": "Soft Computing 17 (11), 1971-1981 , 2013",
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=j2NbakMAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=j2NbakMAAAAJ:YFjsv_pBGBYC",
+      "doi": null,
+      "preprint": false,
+      "sources": [
+        "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=j2NbakMAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=j2NbakMAAAAJ:YFjsv_pBGBYC"
+      ],
+      "members": [
+        "Manuel Roveri"
+      ]
+    },
+    {
+      "title": "A hierarchy of change-point methods for estimating the time instant of leakages in water distribution networks",
+      "year": 2013,
+      "authors": "G Boracchi, V Puig, M Roveri",
+      "venue": "IFIP International Conference on Artificial Intelligence Applications and … , 2013",
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=j2NbakMAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=j2NbakMAAAAJ:blknAaTinKkC",
+      "doi": null,
+      "preprint": false,
+      "sources": [
+        "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=j2NbakMAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=j2NbakMAAAAJ:blknAaTinKkC"
+      ],
+      "members": [
+        "Manuel Roveri"
+      ]
+    },
+    {
+      "title": "Model ensemble for an effective on-line reconstruction of missing data in sensor networks",
+      "year": 2013,
+      "authors": "C Alippi, S Ntalampiras, M Roveri",
+      "venue": "The 2013 International Joint Conference on Neural Networks (IJCNN), 1-6 , 2013",
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=j2NbakMAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=j2NbakMAAAAJ:GnPB-g6toBAC",
+      "doi": null,
+      "preprint": false,
+      "sources": [
+        "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=j2NbakMAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=j2NbakMAAAAJ:GnPB-g6toBAC"
+      ],
+      "members": [
+        "Manuel Roveri"
+      ]
+    },
+    {
+      "title": "A high-frequency sampling monitoring system for environmental and structural applications",
+      "year": 2013,
+      "authors": "C Alippi, R Camplani, C Galperti, A Marullo, M Roveri",
+      "venue": "ACM Transactions on Sensor Networks (TOSN) 9 (4), 1-32 , 2013",
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=j2NbakMAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=j2NbakMAAAAJ:JV2RwH3_ST0C",
+      "doi": null,
+      "preprint": false,
+      "sources": [
+        "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=j2NbakMAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=j2NbakMAAAAJ:JV2RwH3_ST0C"
+      ],
+      "members": [
+        "Manuel Roveri"
+      ]
+    },
+    {
+      "title": "Temporal/spatial model-based fault diagnosis vs. Hidden Markov models change detection method: Application to the Barcelona water network",
+      "year": 2013,
+      "authors": "J Quevedo, C Alippi, MÀ Cugueró, S Ntalampiras, V Puig, M Roveri, ...",
+      "venue": "21st Mediterranean Conference on Control and Automation, 394-400 , 2013",
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=j2NbakMAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=j2NbakMAAAAJ:NMxIlDl6LWMC",
+      "doi": null,
+      "preprint": false,
+      "sources": [
+        "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=j2NbakMAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=j2NbakMAAAAJ:NMxIlDl6LWMC"
+      ],
+      "members": [
+        "Manuel Roveri"
+      ]
+    },
+    {
+      "title": "An ensemble approach to estimate the fault-time instant",
+      "year": 2013,
+      "authors": "C Alippi, G Boracchi, V Puig, M Roveri",
+      "venue": "2013 Fourth International Conference on Intelligent Control and Information … , 2013",
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=j2NbakMAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=j2NbakMAAAAJ:TFP_iSt0sucC",
+      "doi": null,
+      "preprint": false,
+      "sources": [
+        "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=j2NbakMAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=j2NbakMAAAAJ:TFP_iSt0sucC"
+      ],
+      "members": [
+        "Manuel Roveri"
+      ]
+    },
+    {
+      "title": "A cognitive fault diagnosis system for distributed sensor networks",
+      "year": 2013,
+      "authors": "C Alippi, S Ntalampiras, M Roveri",
+      "venue": "IEEE transactions on neural networks and learning systems 24 (8), 1213-1226 , 2013",
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=j2NbakMAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=j2NbakMAAAAJ:bEWYMUwI8FkC",
+      "doi": null,
+      "preprint": false,
+      "sources": [
+        "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=j2NbakMAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=j2NbakMAAAAJ:bEWYMUwI8FkC"
+      ],
+      "members": [
+        "Manuel Roveri"
+      ]
+    },
+    {
+      "title": "Just-in-time classifiers for recurrent concepts",
+      "year": 2013,
+      "authors": "C Alippi, G Boracchi, M Roveri",
+      "venue": "IEEE transactions on neural networks and learning systems 24 (4), 620-634 , 2013",
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=j2NbakMAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=j2NbakMAAAAJ:iH-uZ7U-co4C",
+      "doi": null,
+      "preprint": false,
+      "sources": [
+        "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=j2NbakMAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=j2NbakMAAAAJ:iH-uZ7U-co4C"
+      ],
+      "members": [
+        "Manuel Roveri"
+      ]
+    },
+    {
+      "title": "Temporal/spatial model-based fault diagnosis vs. hidden Markov models change detection method: application to the Barcelona water network",
+      "year": 2013,
+      "authors": "JJ Quevedo Casín, C Alippi, MÀ Cugueró Escofet, S Ntalampiras, ...",
+      "venue": "Venue not specified",
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=j2NbakMAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=j2NbakMAAAAJ:ClCfbGk0d_YC",
+      "doi": null,
+      "preprint": false,
+      "sources": [
+        "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=j2NbakMAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=j2NbakMAAAAJ:ClCfbGk0d_YC"
+      ],
+      "members": [
+        "Manuel Roveri"
+      ]
+    },
+    {
+      "title": "Netbrick: A high-performance, low-power hardware platform for wireless and hybrid sensor networks",
+      "year": 2012,
+      "authors": "C Alippi, R Camplani, M Roveri, G Viscardi",
+      "venue": "2012 IEEE 9th International Conference on Mobile Ad-Hoc and Sensor Systems … , 2012",
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=j2NbakMAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=j2NbakMAAAAJ:isC4tDSrTZIC",
+      "doi": null,
+      "preprint": false,
+      "sources": [
+        "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=j2NbakMAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=j2NbakMAAAAJ:isC4tDSrTZIC"
+      ],
+      "members": [
+        "Manuel Roveri"
+      ]
+    },
+    {
+      "title": "A “learning from models” cognitive fault diagnosis system",
+      "year": 2012,
+      "authors": "C Alippi, M Roveri, F Trovo",
+      "venue": "International Conference on Artificial Neural Networks, 305-313 , 2012",
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=j2NbakMAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=j2NbakMAAAAJ:j3f4tGmQtD8C",
+      "doi": null,
+      "preprint": false,
+      "sources": [
+        "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=j2NbakMAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=j2NbakMAAAAJ:j3f4tGmQtD8C"
+      ],
+      "members": [
+        "Manuel Roveri"
+      ]
+    },
+    {
+      "title": "An HMM-based change detection method for intelligent embedded sensors",
+      "year": 2012,
+      "authors": "C Alippi, S Ntalampiras, M Roveri",
+      "venue": "The 2012 international joint conference on neural networks (IJCNN), 1-7 , 2012",
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=j2NbakMAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=j2NbakMAAAAJ:4JMBOYKVnBMC",
+      "doi": null,
+      "preprint": false,
+      "sources": [
+        "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=j2NbakMAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=j2NbakMAAAAJ:4JMBOYKVnBMC"
+      ],
+      "members": [
+        "Manuel Roveri"
+      ]
+    },
+    {
+      "title": "On-line reconstruction of missing data in sensor/actuator networks by exploiting temporal and spatial redundancy",
+      "year": 2012,
+      "authors": "C Alippi, G Boracchi, M Roveri",
+      "venue": "The 2012 International Joint Conference on Neural Networks (IJCNN), 1-8 , 2012",
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=j2NbakMAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=j2NbakMAAAAJ:RHpTSmoSYBkC",
+      "doi": null,
+      "preprint": false,
+      "sources": [
+        "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=j2NbakMAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=j2NbakMAAAAJ:RHpTSmoSYBkC"
+      ],
+      "members": [
+        "Manuel Roveri"
+      ]
+    },
+    {
+      "title": "Just-in-time ensemble of classifiers",
+      "year": 2012,
+      "authors": "C Alippi, G Boracchi, M Roveri",
+      "venue": "The 2012 international joint conference on neural networks (IJCNN), 1-8 , 2012",
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=j2NbakMAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=j2NbakMAAAAJ:e5wmG9Sq2KIC",
+      "doi": null,
+      "preprint": false,
+      "sources": [
+        "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=j2NbakMAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=j2NbakMAAAAJ:e5wmG9Sq2KIC"
+      ],
+      "members": [
+        "Manuel Roveri"
+      ]
+    },
+    {
+      "title": "Identifying network failure via detecting changes in power profile",
+      "year": 2012,
+      "authors": "T Mahmoodi, M Roveri",
+      "venue": "2012 IEEE International Conference on Pervasive Computing and Communications … , 2012",
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=j2NbakMAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=j2NbakMAAAAJ:TQgYirikUcIC",
+      "doi": null,
+      "preprint": false,
+      "sources": [
+        "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=j2NbakMAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=j2NbakMAAAAJ:TQgYirikUcIC"
+      ],
+      "members": [
+        "Manuel Roveri"
+      ]
+    },
+    {
+      "title": "A real-time monitoring framework for landslide and rock-collapse forecasting",
+      "year": 2012,
+      "authors": "C Alippi, R Camplani, A Marullo, M Roveri",
+      "venue": "Smart Sensing Technology for Agriculture and Environmental Monitoring, 285-302 , 2012",
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=j2NbakMAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=j2NbakMAAAAJ:-f6ydRqryjwC",
+      "doi": null,
+      "preprint": false,
+      "sources": [
+        "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=j2NbakMAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=j2NbakMAAAAJ:-f6ydRqryjwC"
+      ],
+      "members": [
+        "Manuel Roveri"
+      ]
+    },
+    {
+      "title": "Wireless sensor networks for monitoring vineyards",
+      "year": 2012,
+      "authors": "C Alippi, G Boracchi, R Camplani, M Roveri",
+      "venue": "Methodologies and Technologies for Networked Enterprises: ArtDeco: Adaptive … , 2012",
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=j2NbakMAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=j2NbakMAAAAJ:_Qo2XoVZTnwC",
+      "doi": null,
+      "preprint": false,
+      "sources": [
+        "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=j2NbakMAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=j2NbakMAAAAJ:_Qo2XoVZTnwC"
+      ],
+      "members": [
+        "Manuel Roveri"
+      ]
+    },
+    {
+      "title": "A step towards the prediction of a rock collapse: Analysis of micro-acoustic bursts",
+      "year": 2011,
+      "authors": "C Alippi, G Boracchi, A Marullo, M Roveri",
+      "venue": "SENSORS, 2011 IEEE, 1273-1276 , 2011",
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=j2NbakMAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=j2NbakMAAAAJ:HDshCWvjkbEC",
+      "doi": null,
+      "preprint": false,
+      "sources": [
+        "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=j2NbakMAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=j2NbakMAAAAJ:HDshCWvjkbEC"
+      ],
+      "members": [
+        "Manuel Roveri"
+      ]
+    },
+    {
+      "title": "REEL: A real-time, computationally-efficient, reprogrammable framework for Wireless Sensor Networks",
+      "year": 2011,
+      "authors": "C Alippi, R Camplani, M Roveri, L Vaccaro",
+      "venue": "SENSORS, 2011 IEEE, 1193-1196 , 2011",
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=j2NbakMAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=j2NbakMAAAAJ:hFOr9nPyWt4C",
+      "doi": null,
+      "preprint": false,
+      "sources": [
+        "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=j2NbakMAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=j2NbakMAAAAJ:hFOr9nPyWt4C"
+      ],
+      "members": [
+        "Manuel Roveri"
+      ]
+    },
+    {
+      "title": "A just-in-time adaptive classification system based on the intersection of confidence intervals rule",
+      "year": 2011,
+      "authors": "C Alippi, G Boracchi, M Roveri",
+      "venue": "Neural Networks 24 (8), 791-800 , 2011",
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=j2NbakMAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=j2NbakMAAAAJ:YOwf2qJgpHMC",
+      "doi": null,
+      "preprint": false,
+      "sources": [
+        "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=j2NbakMAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=j2NbakMAAAAJ:YOwf2qJgpHMC"
+      ],
+      "members": [
+        "Manuel Roveri"
+      ]
+    },
+    {
+      "title": "An effective just-in-time adaptive classifier for gradual concept drifts",
+      "year": 2011,
+      "authors": "C Alippi, G Boracchi, M Roveri",
+      "venue": "The 2011 International Joint Conference on Neural Networks, 1675-1682 , 2011",
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=j2NbakMAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=j2NbakMAAAAJ:4DMP91E08xMC",
+      "doi": null,
+      "preprint": false,
+      "sources": [
+        "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=j2NbakMAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=j2NbakMAAAAJ:4DMP91E08xMC"
+      ],
+      "members": [
+        "Manuel Roveri"
+      ]
+    },
+    {
+      "title": "A hierarchical, nonparametric, sequential change-detection test",
+      "year": 2011,
+      "authors": "C Alippi, G Boracchi, M Roveri",
+      "venue": "The 2011 International Joint Conference on Neural Networks, 2889-2896 , 2011",
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=j2NbakMAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=j2NbakMAAAAJ:kNdYIx-mwKoC",
+      "doi": null,
+      "preprint": false,
+      "sources": [
+        "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=j2NbakMAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=j2NbakMAAAAJ:kNdYIx-mwKoC"
+      ],
+      "members": [
+        "Manuel Roveri"
+      ]
+    },
+    {
+      "title": "A distributed self-adaptive nonparametric change-detection test for sensor/actuator networks",
+      "year": 2011,
+      "authors": "C Alippi, G Boracchi, M Roveri",
+      "venue": "International Conference on Artificial Neural Networks, 173-180 , 2011",
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=j2NbakMAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=j2NbakMAAAAJ:IWHjjKOFINEC",
+      "doi": null,
+      "preprint": false,
+      "sources": [
+        "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=j2NbakMAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=j2NbakMAAAAJ:IWHjjKOFINEC"
+      ],
+      "members": [
+        "Manuel Roveri"
+      ]
+    },
+    {
+      "title": "The 2011 International Joint Conference on Neural Networks",
+      "year": 2011,
+      "authors": "Z Chen, S Qiu, MA Masrur, YL Murphy",
+      "venue": "IEEE , 2011",
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=j2NbakMAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=j2NbakMAAAAJ:W5xh706n7nkC",
+      "doi": null,
+      "preprint": false,
+      "sources": [
+        "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=j2NbakMAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=j2NbakMAAAAJ:W5xh706n7nkC"
+      ],
+      "members": [
+        "Manuel Roveri"
+      ]
+    },
+    {
+      "title": "An hybrid wireless-wired monitoring system for real-time rock collapse forecasting",
+      "year": 2010,
+      "authors": "C Alippi, R Camplani, C Galperti, A Marullo, M Roveri",
+      "venue": "The 7th IEEE international conference on mobile ad-hoc and sensor systems … , 2010",
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=j2NbakMAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=j2NbakMAAAAJ:7PzlFSSx8tAC",
+      "doi": null,
+      "preprint": false,
+      "sources": [
+        "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=j2NbakMAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=j2NbakMAAAAJ:7PzlFSSx8tAC"
+      ],
+      "members": [
+        "Manuel Roveri"
+      ]
+    },
+    {
+      "title": "Adaptive classifiers with ICI-based adaptive knowledge base management",
+      "year": 2010,
+      "authors": "C Alippi, G Boracchi, M Roveri",
+      "venue": "International Conference on Artificial Neural Networks, 458-467 , 2010",
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=j2NbakMAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=j2NbakMAAAAJ:WF5omc3nYNoC",
+      "doi": null,
+      "preprint": false,
+      "sources": [
+        "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=j2NbakMAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=j2NbakMAAAAJ:WF5omc3nYNoC"
+      ],
+      "members": [
+        "Manuel Roveri"
+      ]
+    },
+    {
+      "title": "Virtual k-fold cross validation: An effective method for accuracy assessment",
+      "year": 2010,
+      "authors": "C Alippi, M Roveri",
+      "venue": "The 2010 International Joint Conference on Neural Networks (IJCNN), 1-6 , 2010",
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=j2NbakMAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=j2NbakMAAAAJ:9ZlFYXVOiuMC",
+      "doi": null,
+      "preprint": false,
+      "sources": [
+        "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=j2NbakMAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=j2NbakMAAAAJ:9ZlFYXVOiuMC"
+      ],
+      "members": [
+        "Manuel Roveri"
+      ]
+    },
+    {
+      "title": "Change detection tests using the ICI rule",
+      "year": 2010,
+      "authors": "C Alippi, G Boracchi, M Roveri",
+      "venue": "The 2010 international joint conference on neural networks (IJCNN), 1-7 , 2010",
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=j2NbakMAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=j2NbakMAAAAJ:Tyk-4Ss8FVUC",
+      "doi": null,
+      "preprint": false,
+      "sources": [
+        "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=j2NbakMAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=j2NbakMAAAAJ:Tyk-4Ss8FVUC"
+      ],
+      "members": [
+        "Manuel Roveri"
+      ]
+    },
+    {
+      "title": "A robust, adaptive, solar-powered WSN framework for aquatic environmental monitoring",
+      "year": 2010,
+      "authors": "C Alippi, R Camplani, C Galperti, M Roveri",
+      "venue": "IEEE Sensors Journal 11 (1), 45-55 , 2010",
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=j2NbakMAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=j2NbakMAAAAJ:zYLM7Y9cAGgC",
+      "doi": null,
+      "preprint": false,
+      "sources": [
+        "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=j2NbakMAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=j2NbakMAAAAJ:zYLM7Y9cAGgC"
+      ],
+      "members": [
+        "Manuel Roveri"
+      ]
+    },
+    {
+      "title": "Detecting external disturbances on the camera lens in wireless multimedia sensor networks",
+      "year": 2010,
+      "authors": "C Alippi, G Boracchi, R Camplani, M Roveri",
+      "venue": "IEEE Transactions on Instrumentation and Measurement 59 (11), 2982-2990 , 2010",
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=j2NbakMAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=j2NbakMAAAAJ:KlAtU1dfN6UC",
+      "doi": null,
+      "preprint": false,
+      "sources": [
+        "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=j2NbakMAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=j2NbakMAAAAJ:KlAtU1dfN6UC"
+      ],
+      "members": [
+        "Manuel Roveri"
+      ]
+    },
+    {
+      "title": "A virtual machine for energy management in WSNs",
+      "year": 2009,
+      "authors": "C Alippi, R Camplani, M Roveri",
+      "venue": "2009 IEEE International Workshop on Robotic and Sensors Environments, 173-177 , 2009",
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=j2NbakMAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=j2NbakMAAAAJ:L8Ckcad2t8MC",
+      "doi": null,
+      "preprint": false,
+      "sources": [
+        "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=j2NbakMAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=j2NbakMAAAAJ:L8Ckcad2t8MC"
+      ],
+      "members": [
+        "Manuel Roveri"
+      ]
+    },
+    {
+      "title": "Detecting drops on lens in wireless multimedia sensor network nodes",
+      "year": 2009,
+      "authors": "C Alippi, G Boracchi, M Roveri",
+      "venue": "2009 IEEE International Workshop on Robotic and Sensors Environments, 128-133 , 2009",
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=j2NbakMAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=j2NbakMAAAAJ:MXK_kJrjxJIC",
+      "doi": null,
+      "preprint": false,
+      "sources": [
+        "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=j2NbakMAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=j2NbakMAAAAJ:MXK_kJrjxJIC"
+      ],
+      "members": [
+        "Manuel Roveri"
+      ]
+    },
+    {
+      "title": "From labs to real environments: The dark side of WSNs",
+      "year": 2009,
+      "authors": "C Alippi, C Camplani, C Galperti, M Roveri",
+      "venue": "Recent Advances in Sensing Technology, 143-168 , 2009",
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=j2NbakMAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=j2NbakMAAAAJ:ZeXyd9-uunAC",
+      "doi": null,
+      "preprint": false,
+      "sources": [
+        "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=j2NbakMAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=j2NbakMAAAAJ:ZeXyd9-uunAC"
+      ],
+      "members": [
+        "Manuel Roveri"
+      ]
+    },
+    {
+      "title": "An adaptive sampling algorithm for effective energy management in wireless sensor networks with energy-hungry sensors",
+      "year": 2009,
+      "authors": "C Alippi, G Anastasi, M Di Francesco, M Roveri",
+      "venue": "IEEE Transactions on Instrumentation and Measurement 59 (2), 335-344 , 2009",
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=j2NbakMAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=j2NbakMAAAAJ:2osOgNQ5qMEC",
+      "doi": null,
+      "preprint": false,
+      "sources": [
+        "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=j2NbakMAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=j2NbakMAAAAJ:2osOgNQ5qMEC"
+      ],
+      "members": [
+        "Manuel Roveri"
+      ]
+    },
+    {
+      "title": "Just in time classifiers: Managing the slow drift case",
+      "year": 2009,
+      "authors": "C Alippi, G Boracchi, M Roveri",
+      "venue": "2009 International Joint Conference on Neural Networks, 114-120 , 2009",
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=j2NbakMAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=j2NbakMAAAAJ:IjCSPb-OGe4C",
+      "doi": null,
+      "preprint": false,
+      "sources": [
+        "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=j2NbakMAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=j2NbakMAAAAJ:IjCSPb-OGe4C"
+      ],
+      "members": [
+        "Manuel Roveri"
+      ]
+    },
+    {
+      "title": "An adaptive LLC-based and hierarchical power-aware routing algorithm",
+      "year": 2009,
+      "authors": "C Alippi, R Camplani, M Roveri",
+      "venue": "IEEE Transactions on Instrumentation and Measurement 58 (9), 3347-3357 , 2009",
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=j2NbakMAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=j2NbakMAAAAJ:YsMSGLbcyi4C",
+      "doi": null,
+      "preprint": false,
+      "sources": [
+        "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=j2NbakMAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=j2NbakMAAAAJ:YsMSGLbcyi4C"
+      ],
+      "members": [
+        "Manuel Roveri"
+      ]
+    },
+    {
+      "title": "Unsupervised feature selection algorithms for Wireless Sensor Networks",
+      "year": 2009,
+      "authors": "C Alippi, G Baroni, A Bersani, M Roveri",
+      "venue": "2009 IEEE International Conference on Computational Intelligence for … , 2009",
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=j2NbakMAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=j2NbakMAAAAJ:Se3iqnhoufwC",
+      "doi": null,
+      "preprint": false,
+      "sources": [
+        "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=j2NbakMAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=j2NbakMAAAAJ:Se3iqnhoufwC"
+      ],
+      "members": [
+        "Manuel Roveri"
+      ]
+    },
+    {
+      "title": "Energy management in wireless sensor networks with energy-hungry sensors",
+      "year": 2009,
+      "authors": "C Alippi, G Anastasi, M Di Francesco, M Roveri",
+      "venue": "IEEE Instrumentation & Measurement Magazine 12 (2), 16-23 , 2009",
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=j2NbakMAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=j2NbakMAAAAJ:d1gkVwhDpl0C",
+      "doi": null,
+      "preprint": false,
+      "sources": [
+        "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=j2NbakMAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=j2NbakMAAAAJ:d1gkVwhDpl0C"
+      ],
+      "members": [
+        "Manuel Roveri"
+      ]
+    },
+    {
+      "title": "Robustness in neural networks",
+      "year": 2009,
+      "authors": "C Alippi, M Roveri, G Vanini",
+      "venue": "Encyclopedia of Information Science and Technology, Second Edition, 3314-3321 , 2009",
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=j2NbakMAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=j2NbakMAAAAJ:qUcmZB5y_30C",
+      "doi": null,
+      "preprint": false,
+      "sources": [
+        "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=j2NbakMAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=j2NbakMAAAAJ:qUcmZB5y_30C"
+      ],
+      "members": [
+        "Manuel Roveri"
+      ]
+    },
+    {
+      "title": "Just-in-time adaptive classifiers—Part II: Designing the classifier",
+      "year": 2008,
+      "authors": "C Alippi, M Roveri",
+      "venue": "IEEE Transactions on Neural Networks 19 (12), 2053-2064 , 2008",
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=j2NbakMAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=j2NbakMAAAAJ:qjMakFHDy7sC",
+      "doi": null,
+      "preprint": false,
+      "sources": [
+        "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=j2NbakMAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=j2NbakMAAAAJ:qjMakFHDy7sC"
+      ],
+      "members": [
+        "Manuel Roveri"
+      ]
+    },
+    {
+      "title": "Effective design of WSNs: From the lab to the real world",
+      "year": 2008,
+      "authors": "C Alippi, R Camplani, C Galperti, M Roveri",
+      "venue": "2008 3rd International Conference on Sensing Technology, 1-9 , 2008",
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=j2NbakMAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=j2NbakMAAAAJ:eQOLeE2rZwMC",
+      "doi": null,
+      "preprint": false,
+      "sources": [
+        "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=j2NbakMAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=j2NbakMAAAAJ:eQOLeE2rZwMC"
+      ],
+      "members": [
+        "Manuel Roveri"
+      ]
+    },
+    {
+      "title": "Just-in-time adaptive classifiers—Part I: Detecting nonstationary changes",
+      "year": 2008,
+      "authors": "C Alippi, M Roveri",
+      "venue": "IEEE Transactions on Neural Networks 19 (7), 1145-1153 , 2008",
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=j2NbakMAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=j2NbakMAAAAJ:9yKSN-GCB0IC",
+      "doi": null,
+      "preprint": false,
+      "sources": [
+        "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=j2NbakMAAAAJ&cstart=100&pagesize=100&sortby=pubdate&citation_for_view=j2NbakMAAAAJ:9yKSN-GCB0IC"
+      ],
+      "members": [
+        "Manuel Roveri"
+      ]
+    },
+    {
+      "title": "k-NN classifiers: investigating the k= k (n) relationship",
+      "year": 2008,
+      "authors": "C Alippi, M Fuhrman, M Roveri",
+      "venue": "2008 IEEE International Joint Conference on Neural Networks (IEEE World … , 2008",
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=j2NbakMAAAAJ&cstart=200&pagesize=100&sortby=pubdate&citation_for_view=j2NbakMAAAAJ:ULOm3_A8WrAC",
+      "doi": null,
+      "preprint": false,
+      "sources": [
+        "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=j2NbakMAAAAJ&cstart=200&pagesize=100&sortby=pubdate&citation_for_view=j2NbakMAAAAJ:ULOm3_A8WrAC"
+      ],
+      "members": [
+        "Manuel Roveri"
+      ]
+    },
+    {
+      "title": "Towards a credible WSNs deployment: a monitoring framework based on an adaptive communication protocol and energy-harvesting availability",
+      "year": 2008,
+      "authors": "C Alippi, R Camplani, C Galperti, M Roveri, L Sportiello",
+      "venue": "2008 IEEE Instrumentation and Measurement Technology Conference, 66-71 , 2008",
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=j2NbakMAAAAJ&cstart=200&pagesize=100&sortby=pubdate&citation_for_view=j2NbakMAAAAJ:Y0pCki6q_DkC",
+      "doi": null,
+      "preprint": false,
+      "sources": [
+        "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=j2NbakMAAAAJ&cstart=200&pagesize=100&sortby=pubdate&citation_for_view=j2NbakMAAAAJ:Y0pCki6q_DkC"
+      ],
+      "members": [
+        "Manuel Roveri"
+      ]
+    },
+    {
+      "title": "A hierarchical llc routing algorithm for wsns",
+      "year": 2007,
+      "authors": "C Alippi, R Camplani, M Roveri",
+      "venue": "2007 International Workshop on Robotic and Sensors Environments, 1-6 , 2007",
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=j2NbakMAAAAJ&cstart=200&pagesize=100&sortby=pubdate&citation_for_view=j2NbakMAAAAJ:roLk4NBRz8UC",
+      "doi": null,
+      "preprint": false,
+      "sources": [
+        "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=j2NbakMAAAAJ&cstart=200&pagesize=100&sortby=pubdate&citation_for_view=j2NbakMAAAAJ:roLk4NBRz8UC"
+      ],
+      "members": [
+        "Manuel Roveri"
+      ]
+    },
+    {
+      "title": "Adaptive sampling for energy conservation in wireless sensor networks for snow monitoring applications",
+      "year": 2007,
+      "authors": "C Alippi, G Anastasi, C Galperti, F Mancini, M Roveri",
+      "venue": "2007 IEEE International Conference on Mobile Adhoc and Sensor Systems, 1-6 , 2007",
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=j2NbakMAAAAJ&cstart=200&pagesize=100&sortby=pubdate&citation_for_view=j2NbakMAAAAJ:u-x6o8ySG0sC",
+      "doi": null,
+      "preprint": false,
+      "sources": [
+        "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=j2NbakMAAAAJ&cstart=200&pagesize=100&sortby=pubdate&citation_for_view=j2NbakMAAAAJ:u-x6o8ySG0sC"
+      ],
+      "members": [
+        "Manuel Roveri"
+      ]
+    },
+    {
+      "title": "Adaptive Classifiers in Stationary Conditions",
+      "year": 2007,
+      "authors": "C Alippi, M Roveri",
+      "venue": "2007 International Joint Conference on Neural Networks, 1008-1013 , 2007",
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=j2NbakMAAAAJ&cstart=200&pagesize=100&sortby=pubdate&citation_for_view=j2NbakMAAAAJ:hqOjcs7Dif8C",
+      "doi": null,
+      "preprint": false,
+      "sources": [
+        "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=j2NbakMAAAAJ&cstart=200&pagesize=100&sortby=pubdate&citation_for_view=j2NbakMAAAAJ:hqOjcs7Dif8C"
+      ],
+      "members": [
+        "Manuel Roveri"
+      ]
+    },
+    {
+      "title": "Just-in-time adaptive classifiers in non-stationary conditions",
+      "year": 2007,
+      "authors": "C Alippi, M Roveri",
+      "venue": "2007 International Joint Conference on Neural Networks, 1014-1019 , 2007",
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=j2NbakMAAAAJ&cstart=200&pagesize=100&sortby=pubdate&citation_for_view=j2NbakMAAAAJ:ufrVoPGSRksC",
+      "doi": null,
+      "preprint": false,
+      "sources": [
+        "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=j2NbakMAAAAJ&cstart=200&pagesize=100&sortby=pubdate&citation_for_view=j2NbakMAAAAJ:ufrVoPGSRksC"
+      ],
+      "members": [
+        "Manuel Roveri"
+      ]
+    },
+    {
+      "title": "Reducing computational complexity in k-NN based adaptive classifiers",
+      "year": 2007,
+      "authors": "C Alippi, M Roveri",
+      "venue": "2007 IEEE International Conference on Computational Intelligence for … , 2007",
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=j2NbakMAAAAJ&cstart=200&pagesize=100&sortby=pubdate&citation_for_view=j2NbakMAAAAJ:LkGwnXOMwfcC",
+      "doi": null,
+      "preprint": false,
+      "sources": [
+        "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=j2NbakMAAAAJ&cstart=200&pagesize=100&sortby=pubdate&citation_for_view=j2NbakMAAAAJ:LkGwnXOMwfcC"
+      ],
+      "members": [
+        "Manuel Roveri"
+      ]
+    },
+    {
+      "title": "Just-in-time adaptive classifiers",
+      "year": 2007,
+      "authors": "C Alippi, M Roveri",
+      "venue": "Politecnico of Milan, Dipartimento di Elettronica e Informazione, Milan … , 2007",
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=j2NbakMAAAAJ&cstart=200&pagesize=100&sortby=pubdate&citation_for_view=j2NbakMAAAAJ:XiVPGOgt02cC",
+      "doi": null,
+      "preprint": false,
+      "sources": [
+        "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=j2NbakMAAAAJ&cstart=200&pagesize=100&sortby=pubdate&citation_for_view=j2NbakMAAAAJ:XiVPGOgt02cC"
+      ],
+      "members": [
+        "Manuel Roveri"
+      ]
+    },
+    {
+      "title": "Reducing Computational Complexity in k-NN based Adaptive Classifiers",
+      "year": 2007,
+      "authors": "M Roveri",
+      "venue": "Venue not specified",
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=j2NbakMAAAAJ&cstart=200&pagesize=100&sortby=pubdate&citation_for_view=j2NbakMAAAAJ:geHnlv5EZngC",
+      "doi": null,
+      "preprint": false,
+      "sources": [
+        "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=j2NbakMAAAAJ&cstart=200&pagesize=100&sortby=pubdate&citation_for_view=j2NbakMAAAAJ:geHnlv5EZngC"
+      ],
+      "members": [
+        "Manuel Roveri"
+      ]
+    },
+    {
+      "title": "A computational intelligence-based criterion to detect non-stationarity trends",
+      "year": 2006,
+      "authors": "C Alippi, M Roveri",
+      "venue": "The 2006 IEEE International Joint Conference on Neural Network Proceedings … , 2006",
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=j2NbakMAAAAJ&cstart=200&pagesize=100&sortby=pubdate&citation_for_view=j2NbakMAAAAJ:UebtZRa9Y70C",
+      "doi": null,
+      "preprint": false,
+      "sources": [
+        "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=j2NbakMAAAAJ&cstart=200&pagesize=100&sortby=pubdate&citation_for_view=j2NbakMAAAAJ:UebtZRa9Y70C"
+      ],
+      "members": [
+        "Manuel Roveri"
+      ]
+    },
+    {
+      "title": "Genetic techniques for pattern extraction in particle boards images",
+      "year": 2006,
+      "authors": "M Gamassi, V Piuri, F Scotti, M Roveri",
+      "venue": "2006 IEEE International Conference on Computational Intelligence for … , 2006",
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=j2NbakMAAAAJ&cstart=200&pagesize=100&sortby=pubdate&citation_for_view=j2NbakMAAAAJ:3fE2CSJIrl8C",
+      "doi": null,
+      "preprint": false,
+      "sources": [
+        "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=j2NbakMAAAAJ&cstart=200&pagesize=100&sortby=pubdate&citation_for_view=j2NbakMAAAAJ:3fE2CSJIrl8C"
+      ],
+      "members": [
+        "Manuel Roveri"
+      ]
+    },
+    {
+      "title": "Computational intelligence techniques to detect toxic gas presence",
+      "year": 2006,
+      "authors": "C Alippi, G Pelosi, M Roveri",
+      "venue": "2006 IEEE International Conference on Computational Intelligence for … , 2006",
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=j2NbakMAAAAJ&cstart=200&pagesize=100&sortby=pubdate&citation_for_view=j2NbakMAAAAJ:8k81kl-MbHgC",
+      "doi": null,
+      "preprint": false,
+      "sources": [
+        "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=j2NbakMAAAAJ&cstart=200&pagesize=100&sortby=pubdate&citation_for_view=j2NbakMAAAAJ:8k81kl-MbHgC"
+      ],
+      "members": [
+        "Manuel Roveri"
+      ]
+    },
+    {
+      "title": "An adaptive cusum-based test for signal change detection",
+      "year": 2006,
+      "authors": "C Alippi, M Roveri",
+      "venue": "2006 IEEE international symposium on circuits and systems, 4 pp. , 2006",
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=j2NbakMAAAAJ&cstart=200&pagesize=100&sortby=pubdate&citation_for_view=j2NbakMAAAAJ:W7OEmFMy1HYC",
+      "doi": null,
+      "preprint": false,
+      "sources": [
+        "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=j2NbakMAAAAJ&cstart=200&pagesize=100&sortby=pubdate&citation_for_view=j2NbakMAAAAJ:W7OEmFMy1HYC"
+      ],
+      "members": [
+        "Manuel Roveri"
+      ]
+    },
+    {
+      "title": "Message from the chairpersons",
+      "year": 2006,
+      "authors": "FL Peña, EH Ruspini, F Scotti, L Perlovsky, RJ Duro, L Myers, C Alippi, ...",
+      "venue": "Computational Intelligence for Measurement Systems and Applications … , 2006",
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=j2NbakMAAAAJ&cstart=200&pagesize=100&sortby=pubdate&citation_for_view=j2NbakMAAAAJ:olpn-zPbct0C",
+      "doi": null,
+      "preprint": false,
+      "sources": [
+        "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=j2NbakMAAAAJ&cstart=200&pagesize=100&sortby=pubdate&citation_for_view=j2NbakMAAAAJ:olpn-zPbct0C"
+      ],
+      "members": [
+        "Manuel Roveri"
+      ]
+    },
+    {
+      "title": "An adaptive system for automatic invoice-documents classification",
+      "year": 2005,
+      "authors": "C Alippi, F Pessina, M Roveri",
+      "venue": "IEEE International Conference on Image Processing 2005 2, II-526 , 2005",
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=j2NbakMAAAAJ&cstart=200&pagesize=100&sortby=pubdate&citation_for_view=j2NbakMAAAAJ:5nxA0vEk-isC",
+      "doi": null,
+      "preprint": false,
+      "sources": [
+        "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=j2NbakMAAAAJ&cstart=200&pagesize=100&sortby=pubdate&citation_for_view=j2NbakMAAAAJ:5nxA0vEk-isC"
+      ],
+      "members": [
+        "Manuel Roveri"
+      ]
+    },
+    {
+      "title": "Visual inspection of particle boards for quality assessment",
+      "year": 2005,
+      "authors": "V Piuri, F Scotti, M Roveri",
+      "venue": "IEEE International Conference on Image Processing 2005 3, III-521 , 2005",
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=j2NbakMAAAAJ&cstart=200&pagesize=100&sortby=pubdate&citation_for_view=j2NbakMAAAAJ:UeHWp8X0CEIC",
+      "doi": null,
+      "preprint": false,
+      "sources": [
+        "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=j2NbakMAAAAJ&cstart=200&pagesize=100&sortby=pubdate&citation_for_view=j2NbakMAAAAJ:UeHWp8X0CEIC"
+      ],
+      "members": [
+        "Manuel Roveri"
+      ]
+    },
+    {
+      "title": "Computational intelligence in industrial quality control",
+      "year": 2005,
+      "authors": "V Piuri, F Scotti, M Roveri",
+      "venue": "IEEE International Workshop on Intelligent Signal Processing, 2005., 4-9 , 2005",
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=j2NbakMAAAAJ&cstart=200&pagesize=100&sortby=pubdate&citation_for_view=j2NbakMAAAAJ:_FxGoFyzp5QC",
+      "doi": null,
+      "preprint": false,
+      "sources": [
+        "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=j2NbakMAAAAJ&cstart=200&pagesize=100&sortby=pubdate&citation_for_view=j2NbakMAAAAJ:_FxGoFyzp5QC"
+      ],
+      "members": [
+        "Manuel Roveri"
+      ]
+    },
+    {
+      "title": "What planner for ambient intelligence applications?",
+      "year": 2005,
+      "authors": "F Amigoni, N Gatti, C Pinciroli, M Roveri",
+      "venue": "IEEE Transactions on Systems, Man, and Cybernetics-Part A: Systems and … , 2005",
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=j2NbakMAAAAJ&cstart=200&pagesize=100&sortby=pubdate&citation_for_view=j2NbakMAAAAJ:u5HHmVD_uO8C",
+      "doi": null,
+      "preprint": false,
+      "sources": [
+        "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=j2NbakMAAAAJ&cstart=200&pagesize=100&sortby=pubdate&citation_for_view=j2NbakMAAAAJ:u5HHmVD_uO8C"
+      ],
+      "members": [
+        "Manuel Roveri"
+      ]
+    },
+    {
+      "title": "Heuristic solution of a large-scale planning and scheduling problem for a constellation of earth observing satellites",
+      "year": 2004,
+      "authors": "N Bianchessi, V Piuri, G Righini, M Roveri, G Laneve, A Zigrino",
+      "venue": "Venue not specified",
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=j2NbakMAAAAJ&cstart=200&pagesize=100&sortby=pubdate&citation_for_view=j2NbakMAAAAJ:K3LRdlH-MEoC",
+      "doi": null,
+      "preprint": false,
+      "sources": [
+        "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=j2NbakMAAAAJ&cstart=200&pagesize=100&sortby=pubdate&citation_for_view=j2NbakMAAAAJ:K3LRdlH-MEoC"
+      ],
+      "members": [
+        "Manuel Roveri"
+      ]
+    },
+    {
+      "title": "An optimization approach to the planning of earth observing satellites",
+      "year": 2004,
+      "authors": "N Bianchessi, V Piuri, G Righini, M Roveri, G Laneve, A Zigrino",
+      "venue": "Venue not specified",
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=j2NbakMAAAAJ&cstart=200&pagesize=100&sortby=pubdate&citation_for_view=j2NbakMAAAAJ:0EnyYjriUFMC",
+      "doi": null,
+      "preprint": false,
+      "sources": [
+        "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=j2NbakMAAAAJ&cstart=200&pagesize=100&sortby=pubdate&citation_for_view=j2NbakMAAAAJ:0EnyYjriUFMC"
+      ],
+      "members": [
+        "Manuel Roveri"
+      ]
+    },
+    {
+      "title": "A simulation environment for concatenated and turbo codes analysis and optimization",
+      "year": 2003,
+      "authors": "V Piuri, M Roveri",
+      "venue": "2003 46th Midwest Symposium on Circuits and Systems 3, 1210-1212 , 2003",
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=j2NbakMAAAAJ&cstart=200&pagesize=100&sortby=pubdate&citation_for_view=j2NbakMAAAAJ:qxL8FJ1GzNcC",
+      "doi": null,
+      "preprint": false,
+      "sources": [
+        "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=j2NbakMAAAAJ&cstart=200&pagesize=100&sortby=pubdate&citation_for_view=j2NbakMAAAAJ:qxL8FJ1GzNcC"
+      ],
+      "members": [
+        "Manuel Roveri"
+      ]
+    },
+    {
+      "title": "Time Series as Videos: Spectro-Temporal Generative Diffusion",
+      "year": null,
+      "authors": "F Puoti, F Pittorino, M Roveri",
+      "venue": "Venue not specified",
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=j2NbakMAAAAJ&cstart=200&pagesize=100&sortby=pubdate&citation_for_view=j2NbakMAAAAJ:IRz6iEL74y4C",
+      "doi": null,
+      "preprint": false,
+      "sources": [
+        "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=j2NbakMAAAAJ&cstart=200&pagesize=100&sortby=pubdate&citation_for_view=j2NbakMAAAAJ:IRz6iEL74y4C"
+      ],
+      "members": [
+        "Manuel Roveri"
+      ]
+    },
+    {
+      "title": "Generative Diffusion of Time Series as Spectro-Temporal Videos",
+      "year": null,
+      "authors": "F Puoti, F Pittorino, M Roveri",
+      "venue": "Available at SSRN 7009888 , 0",
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=j2NbakMAAAAJ&cstart=200&pagesize=100&sortby=pubdate&citation_for_view=j2NbakMAAAAJ:DUooU5lO8OsC",
+      "doi": null,
+      "preprint": false,
+      "sources": [
+        "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=j2NbakMAAAAJ&cstart=200&pagesize=100&sortby=pubdate&citation_for_view=j2NbakMAAAAJ:DUooU5lO8OsC"
+      ],
+      "members": [
+        "Manuel Roveri"
+      ]
+    },
+    {
+      "title": "2025 3rd International Conference on Federated Learning Technologies and Applications (FLTA)",
+      "year": null,
+      "authors": "S Ventura, A Lipovac, A Bjelopera, T Jagušt, S Kržić, M Villari, T Baker, ...",
+      "venue": "Venue not specified",
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=j2NbakMAAAAJ&cstart=200&pagesize=100&sortby=pubdate&citation_for_view=j2NbakMAAAAJ:anf4URPfarAC",
+      "doi": null,
+      "preprint": false,
+      "sources": [
+        "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=j2NbakMAAAAJ&cstart=200&pagesize=100&sortby=pubdate&citation_for_view=j2NbakMAAAAJ:anf4URPfarAC"
+      ],
+      "members": [
+        "Manuel Roveri"
+      ]
+    },
+    {
+      "title": "The Ethics of Privacy-Preserving Deep Learning: the Good, the Bad, and the Ugly",
+      "year": null,
+      "authors": "A Falcetta, S Canali, V Schiaffonati, M Roveri",
+      "venue": "Venue not specified",
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=j2NbakMAAAAJ&cstart=200&pagesize=100&sortby=pubdate&citation_for_view=j2NbakMAAAAJ:9pM33mqn1YgC",
+      "doi": null,
+      "preprint": false,
+      "sources": [
+        "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=j2NbakMAAAAJ&cstart=200&pagesize=100&sortby=pubdate&citation_for_view=j2NbakMAAAAJ:9pM33mqn1YgC"
+      ],
+      "members": [
+        "Manuel Roveri"
+      ]
+    },
+    {
+      "title": "IEEE Transactions on Emerging Topics in Computational Intelligence",
+      "year": null,
+      "authors": "YS Ong, HTT Binh, G Cabrera-Guerrero, H Chen, X CHEN, YM Cheung, ...",
+      "venue": "Venue not specified",
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=j2NbakMAAAAJ&cstart=200&pagesize=100&sortby=pubdate&citation_for_view=j2NbakMAAAAJ:i2xiXl-TujoC",
+      "doi": null,
+      "preprint": false,
+      "sources": [
+        "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=j2NbakMAAAAJ&cstart=200&pagesize=100&sortby=pubdate&citation_for_view=j2NbakMAAAAJ:i2xiXl-TujoC"
+      ],
+      "members": [
+        "Manuel Roveri"
+      ]
+    },
+    {
+      "title": "Organization Committee",
+      "year": null,
+      "authors": "JL Mauri, GM Perez, M Fazio, M Villari, T Taleb, M Roveri, R Sandhu, ...",
+      "venue": "Venue not specified",
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=j2NbakMAAAAJ&cstart=200&pagesize=100&sortby=pubdate&citation_for_view=j2NbakMAAAAJ:S16KYo8Pm5AC",
+      "doi": null,
+      "preprint": false,
+      "sources": [
+        "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=j2NbakMAAAAJ&cstart=200&pagesize=100&sortby=pubdate&citation_for_view=j2NbakMAAAAJ:S16KYo8Pm5AC"
+      ],
+      "members": [
+        "Manuel Roveri"
+      ]
+    },
+    {
+      "title": "iEDGE 2023 Committees",
+      "year": null,
+      "authors": "FM Awaysheh, A Kobusińska, S Dustdar, TU Wien, M Roveri, W Saad, ...",
+      "venue": "Venue not specified",
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=j2NbakMAAAAJ&cstart=200&pagesize=100&sortby=pubdate&citation_for_view=j2NbakMAAAAJ:AvfA0Oy_GE0C",
+      "doi": null,
+      "preprint": false,
+      "sources": [
+        "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=j2NbakMAAAAJ&cstart=200&pagesize=100&sortby=pubdate&citation_for_view=j2NbakMAAAAJ:AvfA0Oy_GE0C"
+      ],
+      "members": [
+        "Manuel Roveri"
+      ]
+    },
+    {
+      "title": "IEEE TransacTIons on EmErgIng TopIcs In compuTaTIonal InTEllIgEncE",
+      "year": null,
+      "authors": "YM Cheung",
+      "venue": "Venue not specified",
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=j2NbakMAAAAJ&cstart=200&pagesize=100&sortby=pubdate&citation_for_view=j2NbakMAAAAJ:9Nmd_mFXekcC",
+      "doi": null,
+      "preprint": false,
+      "sources": [
+        "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=j2NbakMAAAAJ&cstart=200&pagesize=100&sortby=pubdate&citation_for_view=j2NbakMAAAAJ:9Nmd_mFXekcC"
+      ],
+      "members": [
+        "Manuel Roveri"
+      ]
+    },
+    {
+      "title": "SPECIAL SECTION ON COMPUTATIONAL INTELLIGENCE FOR HUMAN-IN-THE-LOOP CYBER PHYSICAL SYSTEMS",
+      "year": null,
+      "authors": "A Jolfaei, M Usman, M Roveri, M Sheng, M Palaniswami, K Kant, T Zhou, ...",
+      "venue": "Venue not specified",
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=j2NbakMAAAAJ&cstart=200&pagesize=100&sortby=pubdate&citation_for_view=j2NbakMAAAAJ:Fu2w8maKXqMC",
+      "doi": null,
+      "preprint": false,
+      "sources": [
+        "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=j2NbakMAAAAJ&cstart=200&pagesize=100&sortby=pubdate&citation_for_view=j2NbakMAAAAJ:Fu2w8maKXqMC"
+      ],
+      "members": [
+        "Manuel Roveri"
+      ]
+    },
+    {
+      "title": "IEEE Transactions on Emerging Topics in Computational Intelligence",
+      "year": null,
+      "authors": "H ABBASS, H CHEN, X CHEN, CAC COELLO, O CORDON, ...",
+      "venue": "Venue not specified",
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=j2NbakMAAAAJ&cstart=200&pagesize=100&sortby=pubdate&citation_for_view=j2NbakMAAAAJ:ye4kPcJQO24C",
+      "doi": null,
+      "preprint": false,
+      "sources": [
+        "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=j2NbakMAAAAJ&cstart=200&pagesize=100&sortby=pubdate&citation_for_view=j2NbakMAAAAJ:ye4kPcJQO24C"
+      ],
+      "members": [
+        "Manuel Roveri"
+      ]
+    },
+    {
+      "title": "Welcome Message from the IEEE IoP 2018 Program Chairs",
+      "year": null,
+      "authors": "Y Wang, M Roveri, S Chen",
+      "venue": "Venue not specified",
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=j2NbakMAAAAJ&cstart=200&pagesize=100&sortby=pubdate&citation_for_view=j2NbakMAAAAJ:J-pR_7NvFogC",
+      "doi": null,
+      "preprint": false,
+      "sources": [
+        "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=j2NbakMAAAAJ&cstart=200&pagesize=100&sortby=pubdate&citation_for_view=j2NbakMAAAAJ:J-pR_7NvFogC"
+      ],
+      "members": [
+        "Manuel Roveri"
+      ]
+    },
+    {
+      "title": "2018 IEEE SmartWorld, Ubiquitous Intelligence & Computing, Advanced & Trusted Computing, Scalable Computing & Communications, Cloud & Big Data Computing, Internet of People and …",
+      "year": null,
+      "authors": "G Wang, Q Han, MZA Bhuiyan, X Ma, F Loulergue, P Li, M Roveri, L Chen",
+      "venue": "Venue not specified",
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=j2NbakMAAAAJ&cstart=200&pagesize=100&sortby=pubdate&citation_for_view=j2NbakMAAAAJ:1qzjygNMrQYC",
+      "doi": null,
+      "preprint": false,
+      "sources": [
+        "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=j2NbakMAAAAJ&cstart=200&pagesize=100&sortby=pubdate&citation_for_view=j2NbakMAAAAJ:1qzjygNMrQYC"
+      ],
+      "members": [
+        "Manuel Roveri"
+      ]
+    },
+    {
+      "title": "IEEE Officers",
+      "year": null,
+      "authors": "M ABU-KHALAF, AM ALIMI, AFR ARAUJO, AT AZAR, B BAESENS, ...",
+      "venue": "Venue not specified",
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=j2NbakMAAAAJ&cstart=200&pagesize=100&sortby=pubdate&citation_for_view=j2NbakMAAAAJ:KxtntwgDAa4C",
+      "doi": null,
+      "preprint": false,
+      "sources": [
+        "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=j2NbakMAAAAJ&cstart=200&pagesize=100&sortby=pubdate&citation_for_view=j2NbakMAAAAJ:KxtntwgDAa4C"
+      ],
+      "members": [
+        "Manuel Roveri"
+      ]
+    },
+    {
+      "title": "Gestione della Memoria",
+      "year": null,
+      "authors": "C di Sistemi Operativi, M Roveri",
+      "venue": "Venue not specified",
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=j2NbakMAAAAJ&cstart=200&pagesize=100&sortby=pubdate&citation_for_view=j2NbakMAAAAJ:pqnbT2bcN3wC",
+      "doi": null,
+      "preprint": false,
+      "sources": [
+        "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=j2NbakMAAAAJ&cstart=200&pagesize=100&sortby=pubdate&citation_for_view=j2NbakMAAAAJ:pqnbT2bcN3wC"
+      ],
+      "members": [
+        "Manuel Roveri"
+      ]
+    },
+    {
+      "title": "New Criteria for Global Robust Stability of Delayed Neural Networks With Norm-Bounded Uncertainties.... S. Arik 1045 A Nonlinear Semantic-Preserving Projection Approach to …",
+      "year": null,
+      "authors": "C Alippi, M Roveri, F Trovò, JL Lin, KS Hwang, YL Wang",
+      "venue": "Venue not specified",
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=j2NbakMAAAAJ&cstart=200&pagesize=100&sortby=pubdate&citation_for_view=j2NbakMAAAAJ:RYcK_YlVTxYC",
+      "doi": null,
+      "preprint": false,
+      "sources": [
+        "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=j2NbakMAAAAJ&cstart=200&pagesize=100&sortby=pubdate&citation_for_view=j2NbakMAAAAJ:RYcK_YlVTxYC"
+      ],
+      "members": [
+        "Manuel Roveri"
+      ]
+    },
+    {
+      "title": "Abbott, Derek 169, 241 Abe, M. 15 Akeila, Ehad 203 Al-Sarawi, Said F. 169, 241",
+      "year": null,
+      "authors": "C Alippi, DG Bailey, YR Baste, S Biwa, AV Borhade, CS Bouganis, ...",
+      "venue": "Recent Advances in Sensing Technology, 327 , 0",
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=j2NbakMAAAAJ&cstart=200&pagesize=100&sortby=pubdate&citation_for_view=j2NbakMAAAAJ:M3NEmzRMIkIC",
+      "doi": null,
+      "preprint": false,
+      "sources": [
+        "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=j2NbakMAAAAJ&cstart=200&pagesize=100&sortby=pubdate&citation_for_view=j2NbakMAAAAJ:M3NEmzRMIkIC"
+      ],
+      "members": [
+        "Manuel Roveri"
+      ]
+    },
+    {
+      "title": "Alippi, Cesare 285 Allagui, H. 361 Al-Shamma’a, AI 249 Andonovic, Ivan 119",
+      "year": null,
+      "authors": "B Arcay, L Bencini, R Camplani, D Cantorna, CL Chuang, G Collodi, ...",
+      "venue": "Smart Sensing Technology for Agriculture and Environmental Monitoring, 385 , 0",
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=j2NbakMAAAAJ&cstart=200&pagesize=100&sortby=pubdate&citation_for_view=j2NbakMAAAAJ:k_IJM867U9cC",
+      "doi": null,
+      "preprint": false,
+      "sources": [
+        "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=j2NbakMAAAAJ&cstart=200&pagesize=100&sortby=pubdate&citation_for_view=j2NbakMAAAAJ:k_IJM867U9cC"
+      ],
+      "members": [
+        "Manuel Roveri"
+      ]
+    },
+    {
+      "title": "SBRN 2008 Additional Reviewers",
+      "year": null,
+      "authors": "A Chaves, A Ferreira, A de Souza, A Silva, A da Cruz, A Campos, A Rossi, ...",
+      "venue": "Venue not specified",
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=j2NbakMAAAAJ&cstart=200&pagesize=100&sortby=pubdate&citation_for_view=j2NbakMAAAAJ:r0BpntZqJG4C",
+      "doi": null,
+      "preprint": false,
+      "sources": [
+        "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=j2NbakMAAAAJ&cstart=200&pagesize=100&sortby=pubdate&citation_for_view=j2NbakMAAAAJ:r0BpntZqJG4C"
+      ],
+      "members": [
+        "Manuel Roveri"
+      ]
+    },
+    {
+      "title": "Adaptive Ensemble of Classifiers",
+      "year": null,
+      "authors": "C Alippi, G Boracchi, M Roveri",
+      "venue": "Venue not specified",
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=j2NbakMAAAAJ&cstart=200&pagesize=100&sortby=pubdate&citation_for_view=j2NbakMAAAAJ:mB3voiENLucC",
+      "doi": null,
+      "preprint": false,
+      "sources": [
+        "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=j2NbakMAAAAJ&cstart=200&pagesize=100&sortby=pubdate&citation_for_view=j2NbakMAAAAJ:mB3voiENLucC"
+      ],
+      "members": [
+        "Manuel Roveri"
+      ]
+    },
+    {
+      "title": "StreamBlock VM: a computationally-efficient Virtual Machine for Wireless Sensor Networks",
+      "year": null,
+      "authors": "C Alippi, R Camplani, M Roveri, L Vaccaro",
+      "venue": "Venue not specified",
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=j2NbakMAAAAJ&cstart=200&pagesize=100&sortby=pubdate&citation_for_view=j2NbakMAAAAJ:QIV2ME_5wuYC",
+      "doi": null,
+      "preprint": false,
+      "sources": [
+        "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=j2NbakMAAAAJ&cstart=200&pagesize=100&sortby=pubdate&citation_for_view=j2NbakMAAAAJ:QIV2ME_5wuYC"
+      ],
+      "members": [
+        "Manuel Roveri"
+      ]
+    },
+    {
+      "title": "k-NN CLASSIFIERS: INVESTIGATING THE",
+      "year": null,
+      "authors": "C Alippi, M Roveri",
+      "venue": "Venue not specified",
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=j2NbakMAAAAJ&cstart=200&pagesize=100&sortby=pubdate&citation_for_view=j2NbakMAAAAJ:Wp0gIr-vW9MC",
+      "doi": null,
+      "preprint": false,
+      "sources": [
+        "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=j2NbakMAAAAJ&cstart=200&pagesize=100&sortby=pubdate&citation_for_view=j2NbakMAAAAJ:Wp0gIr-vW9MC"
+      ],
+      "members": [
+        "Manuel Roveri"
+      ]
+    },
+    {
+      "title": "VIRTUAL K-FOLD CROSS VALIDATION: A COMPUTATION-AWARE METHOD FOR ACCURACY ASSESSMENT",
+      "year": null,
+      "authors": "C Alippi, M Roveri",
+      "venue": "Venue not specified",
+      "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=j2NbakMAAAAJ&cstart=200&pagesize=100&sortby=pubdate&citation_for_view=j2NbakMAAAAJ:4TOpqqG69KYC",
+      "doi": null,
+      "preprint": false,
+      "sources": [
+        "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=j2NbakMAAAAJ&cstart=200&pagesize=100&sortby=pubdate&citation_for_view=j2NbakMAAAAJ:4TOpqqG69KYC"
+      ],
+      "members": [
+        "Manuel Roveri"
+      ]
+    }
+  ]
+}
