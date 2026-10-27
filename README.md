@@ -3,6 +3,10 @@
 The static website is served by GitHub Pages. Publications are updated locally;
 running the updater does not commit or publish changes.
 
+Activities are curated separately from the lab's LinkedIn posts. See the
+[editorial source notes](docs/activities-sources.md) for the selected events,
+dates and supporting links.
+
 ## Update publications
 
 Requires Python 3.10+ and `curl` (used for Google Scholar).
