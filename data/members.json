@@ -36,6 +36,13 @@
     "verified_against": "Name and Politecnico di Milano affiliation; ORCID where available"
   },
   {
+    "name": "Emanuele Nicoletti",
+    "active": true,
+    "openalex_id": "A5137687743",
+    "orcid": null,
+    "verified_against": "Politecnico di Milano affiliation and coauthorship with Fabrizio Pittorino, Alessandro Falcetta, Luca Colombo and Manuel Roveri"
+  },
+  {
     "name": "Luca Colombo",
     "openalex_id": "A5102789002",
     "orcid": "https://orcid.org/0000-0002-1986-6459",
@@ -49,6 +56,7 @@
   },
   {
     "name": "Matteo Gambella",
+    "active": false,
     "openalex_id": "A5008809497",
     "orcid": "https://orcid.org/0000-0001-9734-670X",
     "verified_against": "Name and Politecnico di Milano affiliation; ORCID where available"

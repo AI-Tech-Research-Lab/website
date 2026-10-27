@@ -12,7 +12,8 @@
     "Matteo Gambella": 10,
     "Francesco Puoti": 5,
     "Aurora Anna Francesca Colombo": 4,
-    "Luca Colombo": 8
+    "Luca Colombo": 8,
+    "Emanuele Nicoletti": 2
   },
   "scholar_status": "live",
   "scholar_comparison": {
@@ -449,11 +450,13 @@
       "doi": "https://doi.org/10.56553/popets-2026-0126",
       "preprint": false,
       "sources": [
+        "https://openalex.org/W7163163904",
         "https://openalex.org/W7168268910",
         "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=j2NbakMAAAAJ&pagesize=100&sortby=pubdate&citation_for_view=j2NbakMAAAAJ:2VqYfGB8ITEC"
       ],
       "members": [
         "Alessandro Falcetta",
+        "Emanuele Nicoletti",
         "Fabrizio Pittorino",
         "Luca Colombo",
         "Manuel Roveri"

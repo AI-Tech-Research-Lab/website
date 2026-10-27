@@ -13,16 +13,21 @@ python -m venv .venv
 .venv/bin/python script.py
 ```
 
-The updater uses the verified OpenAlex author IDs in `data/members.json` for all
-eleven people currently listed on the Team page. It includes their publications
+The updater uses the verified OpenAlex author IDs in `data/members.json` for
+current and former lab members. It includes their publications
 from the last ten calendar years (2017–2026 in 2026), including work predating
 membership of the lab. Edit that file when the team changes. Names alone are not
 safe identifiers: Luca Colombo, for example, has several unrelated namesakes.
 
+Members with `"active": false` are retained for publication retrieval, even when
+their card has been removed from `pages/team.html`. Missing `active` means active.
+The Team page is maintained separately; changing this flag alone does not render
+or remove a card.
+
 OpenAlex is the primary source. The complete Manuel Roveri Scholar profile is
 also fetched and compared, adding titles missing from OpenAlex. Scholar searches
 for the other members are currently blocked, so this is not an exact mirror of
-all eleven Scholar profiles. OpenAlex may have indexing delays or attribution
+all members' Scholar profiles. OpenAlex may have indexing delays or attribution
 errors; some Scholar-only records have abbreviated authors or venues, as displayed
 on Scholar. Each entry links to its DOI, original source or Scholar record.
 

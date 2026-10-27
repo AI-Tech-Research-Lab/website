@@ -34,6 +34,7 @@ def get(session, url, **params):
 
 
 def fetch_openalex(session, members, since):
+    # Include inactive members as well, preserving the lab's publication history.
     ids = [m["openalex_id"] for m in members]
     params = {"filter": "authorships.author.id:" + "|".join(ids) + f",from_publication_date:{since}-01-01",
               "per-page": 200, "cursor": "*"}
